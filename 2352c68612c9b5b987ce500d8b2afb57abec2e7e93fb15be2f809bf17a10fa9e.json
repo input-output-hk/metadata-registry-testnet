@@ -1,0 +1,29 @@
+{
+    "subject": "2352c68612c9b5b987ce500d8b2afb57abec2e7e93fb15be2f809bf17a10fa9e",
+    "preImage": {
+        "value": "383230323832303038323030353831633131663730333035623338346666666265353961376435636436316332303939333564643335373633303138616537396630353431363539",
+        "hashFn": "sha256"
+    },
+    "name": {
+        "value": "Megacoin",
+        "anSignatures": [
+            {
+                "publicKey": "e394f5d5f205abc3bc49277917a397de2e6761988a3845108f8b9a112228294e",
+                "signature": "00ef8faed42a81eea5fce1a39150d9c171d90a3c998c3d9ed04ec16ca60adbcd8472297a272a5cc2ee23b7d554f1e8ad16ee393087a26c97a0e18f2b92da3303"
+            }
+        ]
+    },
+    "description": {
+        "value": "Megacoin crypto powered by Cardano",
+        "anSignatures": [
+            {
+                "publicKey": "e394f5d5f205abc3bc49277917a397de2e6761988a3845108f8b9a112228294e",
+                "signature": "58904a6cb2f7c7ec1f21250549c4bfbb38abe34466591b5a55d259b4da67b02cc4129853e146e03e5016588cc923f77064f4e1275f68f093d1a4f843fc11c100"
+            }
+        ]
+    },
+    "owner": {
+        "publicKey": "e394f5d5f205abc3bc49277917a397de2e6761988a3845108f8b9a112228294e",
+        "signature": "ad53fe2cbaa18fba3c15d6de1ca8d553d6e2dfa552bc578a4f227edc3800c65e7ad7145635e9a2f46653e71bd0fe894250390f597d1c94fcc4de4d81afad4809"
+    }
+}
