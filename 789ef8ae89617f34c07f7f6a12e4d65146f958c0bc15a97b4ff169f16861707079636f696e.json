@@ -1,0 +1,25 @@
+{
+    "subject": "789ef8ae89617f34c07f7f6a12e4d65146f958c0bc15a97b4ff169f16861707079636f696e",
+    "preImage": {
+        "value": "3738396566386165383936313766333463303766376636613132653464363531343666393538633062633135613937623466663136396631363836313730373037393633366636393665",
+        "hashFn": "sha256"
+    },
+    "name": {
+        "value": "AssetNameCoin",
+        "anSignatures": [
+            {
+                "publicKey": "eea2aece21d77ee1d363e997f535b10522ad7abd09a247553211c7eb51d9c37e",
+                "signature": "35509234021b145f23d5ca53a2dd73701065f4327d05d0788519a3b16dce1e2030d0da2b9f67baea65c7e2bfd20de38c2228493fff53dea0ad00cc2e509be60b"
+            }
+        ]
+    },
+    "description": {
+        "value": "Coin with asset name",
+        "anSignatures": [
+            {
+                "publicKey": "eea2aece21d77ee1d363e997f535b10522ad7abd09a247553211c7eb51d9c37e",
+                "signature": "4a6e62b10da16a86ac6f463536a05e621536d4eea042635adaef0b7ae2ac39d005d04f5fc91c50ea7ae4904c12a1e3ce96340b6731e96911e7933365f24fe70f"
+            }
+        ]
+    }
+}
