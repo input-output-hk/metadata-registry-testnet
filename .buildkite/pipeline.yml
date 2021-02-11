@@ -1,0 +1,6 @@
+steps:
+  - label: 'Ensure PR meets standards'
+    command:
+      - '$(nix-build nix/default.nix -A metadata-validator)/bin/metadata-validator input-output-hk metadata-registry-testnet $BUILDKITE_PULL_REQUEST --no-auth'
+    agents:
+      system: x86_64-linux

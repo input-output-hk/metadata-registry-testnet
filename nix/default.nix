@@ -5,6 +5,7 @@ with {
     inherit (import sources.cardano-node { gitrev = sources.cardano-node.rev; }) cardano-cli;
     inherit (import sources.cardano-node { gitrev = sources.cardano-node.rev; }) bech32;
     inherit (import sources.cardano-metadata-submitter {}) cardano-metadata-submitter;
+    inherit (import sources.metadata-server {}) metadata-validator;
   };
 };
 import sources.nixpkgs {
