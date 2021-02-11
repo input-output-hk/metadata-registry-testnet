@@ -23,6 +23,18 @@
         "url": "https://github.com/input-output-hk/cardano-node/archive/9a7331cce5e8bc0ea9c6bfa1c28773f4c5a7000f.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
+    "metadata-server": {
+        "branch": "master",
+        "description": null,
+        "homepage": null,
+        "owner": "input-output-hk",
+        "repo": "metadata-server",
+        "rev": "152d86265535ebf585480cda8902be23df53c26f",
+        "sha256": "046zkymvaiwrmkvvny0f3ra704jfm536invpq9vx6r6wk1aq2f1k",
+        "type": "tarball",
+        "url": "https://github.com/input-output-hk/metadata-server/archive/152d86265535ebf585480cda8902be23df53c26f.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
     "niv": {
         "branch": "master",
         "description": "Easy dependency management for Nix projects",
