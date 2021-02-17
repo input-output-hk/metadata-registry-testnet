@@ -5,7 +5,7 @@
         "hashFn": "sha256"
     },
     "name": {
-        "value": "AssetNameCoin",
+        "value": "HappyCoin",
         "anSignatures": [
             {
                 "publicKey": "eea2aece21d77ee1d363e997f535b10522ad7abd09a247553211c7eb51d9c37e",
@@ -21,5 +21,9 @@
                 "signature": "4a6e62b10da16a86ac6f463536a05e621536d4eea042635adaef0b7ae2ac39d005d04f5fc91c50ea7ae4904c12a1e3ce96340b6731e96911e7933365f24fe70f"
             }
         ]
-    }
+    },
+    "acronym": { "value": "HAPP" },
+    "unit": { "value": { "decimals": 19, "name": "happies" } },
+    "url": { "value": "https://happy.io" },
+    "logo": { "value": "QWxtb3N0IGEgbG9nbw==" }
 }
