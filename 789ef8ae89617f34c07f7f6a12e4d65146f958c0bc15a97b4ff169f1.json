@@ -5,7 +5,7 @@
         "hashFn": "sha256"
     },
     "name": {
-        "value": "NoAssetNameCoin",
+        "value": "SadCoin",
         "anSignatures": [
             {
                 "publicKey": "16fc67a3da106d6f9db295a2a39be66bc1cba0bdbca410472191775220e999ab",
@@ -21,5 +21,9 @@
                 "signature": "5d6ba8a2a4b8ad2c3f9a69bda905e46c0c2f0aca6389324fdad1feb63d536418b7913d4f191c8d4f16eadd9adf162f08da5ea05f71aa09358d5c490cefd5a80d"
             }
         ]
-    }
+    },
+    "acronym": { "value": "SAD" },
+    "unit": { "value": { "decimals": 10, "name": "saddies" } },
+    "url": { "value": "https://sad.io" },
+    "logo": { "value": "QWxtb3N0IGEgbG9nbw==" }
 }
