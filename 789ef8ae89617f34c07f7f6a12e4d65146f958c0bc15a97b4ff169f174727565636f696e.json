@@ -1,0 +1,14 @@
+{
+    "subject": "789ef8ae89617f34c07f7f6a12e4d65146f958c0bc15a97b4ff169f174727565636f696e",
+    "preImage": {
+        "value": "3738396566386165383936313766333463303766376636613132653464363531343666393538633062633135613937623466663136396631363836313730373037393633366636393665",
+        "hashFn": "sha256"
+    },
+    "name": {
+        "value": "True Coin"
+    },
+    "acronym": { "value": "TRUE" },
+    "unit": { "value": { "decimals": 5, "name": "truths" } },
+    "url": { "value": "https://true.io" },
+    "logo": { "value": "QWxtb3N0IGEgbG9nbw==" }
+}
