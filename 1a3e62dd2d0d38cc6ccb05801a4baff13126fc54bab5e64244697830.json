@@ -1,0 +1,13 @@
+{
+  "subject": "1a3e62dd2d0d38cc6ccb05801a4baff13126fc54bab5e64244697830",
+  "name": {
+    "value": "OneCoin"
+  },
+  "description": {
+    "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  "acronym": { "value": "ONE" },
+  "unit": { "value": { "decimals": 13, "name": "ones" } },
+  "url": { "value": "https://onecoin.io" },
+  "logo": { "value": "QWxtb3N0IGEgbG9nbw==" }
+}
