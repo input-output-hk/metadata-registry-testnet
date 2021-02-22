@@ -1,17 +1,17 @@
 {
-    "subject": "94d4cdbcffb09ebd4780d94f932a657dc4852530fa8013df66c72d4c676f6f64636f696e",
+    "subject": "94d4cdbcffb09ebd4780d94f932a657dc4852530fa8013df66c72d4c",
     "preImage": {
         "value": "3738396566386165383936313766333463303766376636613132653464363531343666393538633062633135613937623466663136396631363836313730373037393633366636393665",
         "hashFn": "sha256"
     },
     "name": {
-        "value": "GoodCoin"
+        "value": "BadCoin"
     },
     "description": {
-        "value": "Coin that is good!!! 👍"
+        "value": "Coin that is not so good"
     },
-    "acronym": { "value": "GOOD" },
-    "unit": { "value": { "decimals": 5, "name": "goodies" } },
-    "url": { "value": "https://good.io" },
+    "acronym": { "value": "BAD" },
+    "unit": { "value": { "decimals": 13, "name": "goodies" } },
+    "url": { "value": "https://imbad.io" },
     "logo": { "value": "QWxtb3N0IGEgbG9nbw==" }
 }
