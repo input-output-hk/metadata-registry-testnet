@@ -1,0 +1,13 @@
+{
+  "subject": "edd-test-1",
+  "name": {
+    "value": "EddCoin"
+  },
+  "description": {
+    "value": "By the beard of Zeus!"
+  },
+  "acronym": { "value": "EDD" },
+  "unit": { "value": { "decimals": 11, "name": "edds" } },
+  "url": { "value": "https://example.com" },
+  "logo": { "value": "QWxtb3N0IGEgbG9nbw==" }
+}
