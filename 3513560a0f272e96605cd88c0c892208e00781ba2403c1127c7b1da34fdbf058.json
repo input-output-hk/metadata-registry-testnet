@@ -12,10 +12,6 @@
     "description": {
         "value": "A script I have registered on chain",
         "anSignatures": [
-            {
-                "publicKey": "5de05d0693edbdd2b6d746ecada7567ec7bba1ba8e68a3a4ccc947d108bde575",
-                "signature": "c0329598e4806b211a80856ce7087029bc687b0a200805b713c086cfafa85f731ebcfdca5b89d7867fec4b59355faac8a2eb243c0871617ac2bc6ef57cf98e08"
-            }
         ]
     }
 }
