@@ -6,7 +6,7 @@
     "description": {
         "value": "Testcoin crypto powered by Cardano testnet blockchain"
     },
-    "ticker": { "value": "TEST" },
+    "acronym": { "value": "TEST" },
     "unit": { "value": { "decimals": 1, "name": "testlets" } },
     "url": { "value": "https://developers.cardano.org/" }
 }
