@@ -1,5 +1,5 @@
 {
-    "subject": "3513560a0f272e96605cd88c0c892208e00781ba2403c1127c7b1da34fdbf058",
+    "subject": "19309eb9c066253cede617dc635223ace320ae0bbdd5bd1968439cd0",
     "policy": "82008201818200581c2b0c33e73d2a70733edc971d19e2cafbada1692db2d35e7dc9453df2",
     "preImage": {
         "value": "6d792d676f6775656e2d736372697074",
@@ -7,20 +7,10 @@
     },
     "name": {
         "value": "My Goguen Script",
-        "anSignatures": [
-            {
-                "publicKey": "5df05d0693edbdd2b6d746ecada7567ec7bba1ba8e68a3a4ccc947d108bde575",
-                "signature": "b156bee69bef3eb8c24fd43d5924e436e638378e423225384755393e977cf88e2344b899fd1575896f6ddcd9ceb1635454719b10f623f6b69c7041d047cd930c"
-            }
-        ]
+        "anSignatures": []
     },
     "description": {
         "value": "A script I have registered on chain",
-        "anSignatures": [
-            {
-                "publicKey": "5de05d0693edbdd2b6d746ecada7567ec7bba1ba8e68a3a4ccc947d108bde575",
-                "signature": "c0329598e4806b211a80856ce7087029bc687b0a200805b713c086cfafa85f731ebcfdca5b89d7867fec4b59355faac8a2eb243c0871617ac2bc6ef57cf98e08"
-            }
-        ]
+        "anSignatures": []
     }
 }
