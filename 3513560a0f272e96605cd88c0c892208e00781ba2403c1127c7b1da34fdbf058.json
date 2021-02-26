@@ -1,6 +1,6 @@
 {
     "subject": "3513560a0f272e96605cd88c0c892208e00781ba2403c1127c7b1da34fdbf058",
-    "policy": "3",
+    "policy": "3513560a0f272e96605cd88c0c892208e00781ba2403c1127c7b1da34fdbf058",
     "preImage": {
         "value": "6d792d676f6775656e2d736372697074",
         "hashFn": "sha256"
