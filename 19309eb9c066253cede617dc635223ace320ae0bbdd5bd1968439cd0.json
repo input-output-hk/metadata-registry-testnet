@@ -1,0 +1,20 @@
+{
+    "subject": "19309eb9c066253cede617dc635223ace320ae0bbdd5bd1968439cd0",
+    "policy": "82008201818200581c2b0c33e73d2a70733edc971d19e2cafbada1692db2d35e7dc9453df2",
+    "preImage": {
+        "value": "383230323832303038323030353831633531303935356536633138613965653539656562643832343738376131636431346261663138333239383333636364666331393738633636",
+        "hashFn": "blake2b-224"
+    },
+    "name": {
+        "value": "ギル",
+        "anSignatures": []
+    },
+    "description": {
+        "value": "The currency in all of the Final Fantasy games.",
+        "anSignatures": []
+    },
+    "owner": {
+        "publicKey": "89040796c7c98349a34411585bcd16d10dba78760b2fc8e7d7ee015ce642dc0c",
+        "signature": "a8c2c9ceb7a619b29cf5ceeab683d773640d7ae4a6fd25d2e541d6ad2297916088f460961ba5247724102a99478dcb8173a57d01c6f76e505fcd064730bdbd07"
+    }
+}
