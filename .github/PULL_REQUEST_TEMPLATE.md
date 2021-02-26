@@ -16,4 +16,4 @@ Please include a short summary of the changes in this PR.
 
 ## Metadata PRs
 
-Please note it may take up to 4 hours for merged changed to take effect on the metadata server.
+Please note it may take up to 4 hours for merged changes to take effect on the metadata server.
