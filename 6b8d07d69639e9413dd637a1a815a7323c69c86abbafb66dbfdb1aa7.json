@@ -1,12 +1,44 @@
 {
     "subject": "6b8d07d69639e9413dd637a1a815a7323c69c86abbafb66dbfdb1aa7",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://developers.cardano.org/",
+        "signatures": [
+            {
+                "signature": "7081b961dafb7ac448db35e2ae422b4e4b087b46d630d9f585cebbccf9bd65f6e2b7f7192dc951b24c3b6c51082ccd22e6189aa2c0bf27b9e18bd4630826bb00",
+                "publicKey": "a602f52e8a31d1a6fb7201bff3d79d488e97243b99411023d83c244eae5730a4"
+            }
+        ]
+    },
     "name": {
-        "value": "Testcoin"
+        "sequenceNumber": 0,
+        "value": "Testcoin",
+        "signatures": [
+            {
+                "signature": "681a1e9f8d608724348a29cc13c43e1f6b6ca462fb4153c0bc95a1f398a9d7def9666b1345905849b82746f531b7b11ea75e600e6d688df1f5622a78e93fc30a",
+                "publicKey": "a602f52e8a31d1a6fb7201bff3d79d488e97243b99411023d83c244eae5730a4"
+            }
+        ]
     },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "TEST",
+        "signatures": [
+            {
+                "signature": "4768bb27278ab2b45966b2103dab323eed1fd1ce1c798e61b41b3a29c81307d230d8ee9c6ad99e7379fce1f9cec3092d4eb3b843f10fcd9f56cb3642e0c3dd00",
+                "publicKey": "a602f52e8a31d1a6fb7201bff3d79d488e97243b99411023d83c244eae5730a4"
+            }
+        ]
+    },
+    "policy": "82008200581c11f70305b384fffbe59a7d5cd61c209935dd35763018ae79f0541659",
     "description": {
-        "value": "Testcoin crypto powered by Cardano testnet blockchain"
-    },
-    "acronym": { "value": "TEST" },
-    "unit": { "value": { "decimals": 1, "name": "testlets" } },
-    "url": { "value": "https://developers.cardano.org/" }
+        "sequenceNumber": 0,
+        "value": "Testcoin crypto powered by Cardano testnet blockchain",
+        "signatures": [
+            {
+                "signature": "7b0d7ab6c765cfdce6d60c5f669dc354a68c7131640b42b3190b0f4b8af3fbba99cf17d8ad5cfb6953a76fdd53b36040858538d054dbad84e4b786d057093607",
+                "publicKey": "a602f52e8a31d1a6fb7201bff3d79d488e97243b99411023d83c244eae5730a4"
+            }
+        ]
+    }
 }
