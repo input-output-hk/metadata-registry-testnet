@@ -1,7 +1,6 @@
 with { pkgs = import ./nix { }; };
 pkgs.mkShell {
   buildInputs = with pkgs; [
-    b2sum
     bech32
     cardano-metadata-submitter
     cardano-cli
