@@ -54,7 +54,7 @@
     "unit": {
         "sequenceNumber": 0,
         "value": {
-            "name": "atadeez",
+            "name": "atadeez", 
             "decimals": 6
         },
         "signatures": [
