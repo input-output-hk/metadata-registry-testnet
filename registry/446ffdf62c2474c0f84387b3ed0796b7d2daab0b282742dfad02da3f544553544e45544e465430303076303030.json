@@ -1,0 +1,54 @@
+{
+    "subject": "446ffdf62c2474c0f84387b3ed0796b7d2daab0b282742dfad02da3f544553544e45544e465430303076303030",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://www.cnft.io/",
+        "signatures": [
+            {
+                "signature": "dc9a9317243ae3dc2a202b06427a3a34f396492e3e6741a546498a355ecfe6364c0fc75c87f0a4684e189b363e64ea6294da5560c5955c88ae086bbcfdf08509",
+                "publicKey": "d75356216b2847653335d9d548e127766a7977288a8d31d4d5869cffb8cb615e"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Test CNFT - NFT 000 [000]",
+        "signatures": [
+            {
+                "signature": "230ab1b2de002f65b639b6ffcef7ec77b0845ba957f78dc85c56b230c07f3085cf02e19851015b84d2959e107d6a73e5354e3dd4e5c8bb12513187a2eb4f1605",
+                "publicKey": "d75356216b2847653335d9d548e127766a7977288a8d31d4d5869cffb8cb615e"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "CNFT",
+        "signatures": [
+            {
+                "signature": "8590a1d8855ce4fe9edfde4839bd054a94cbc5d95f4891fe937f94a0352711bb3a237c12ee9be3ea74179fc1a73dff67d928731efe1158723814031a00205e0a",
+                "publicKey": "d75356216b2847653335d9d548e127766a7977288a8d31d4d5869cffb8cb615e"
+            }
+        ]
+    },
+    "policy": "82008200581ca089eb6d661e62aa9de2567d3e622b1318abc4ae4bb28f531f29f4d6",
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsSAAALEgHS3X78AAABsElEQVRYhe1X7W0CMQx9rvqf24DrBGUEmKA3AiOwQRmhIzACnaDHBnSD6wYwgVEkB1k5+5IDWlS1T7JEsBN/OzliZtwTD3fVDuBxiElEcwCRAvaBmHmjZJYAlpHPzCvFawDE9YGZm56SkAKL5FB2KBhQidw6kZnH81KeqcdRPh9QHunNMaBT5zQ5A7wa0KH6ArAA8ARg58hoTIloHcM+lGI3BcGL1FPPIyMCLIrrNJJjIjBVv89eMPOWmSnSgF+TYHjW+1wXXICjKA94ka4ZxK3nQFD4rtavuQ2jIkBElerr0PNbQ2wluZ8YvD6cImxV8WzU/6tMEbYDhTlqDqQHbGX4HDLKWqeTRhtQJ8osajIG9IZZcRsycydGfBrsUOkLJ//6jDYpSBPZ65iIgiGzMPul8PYGv5blQfOlaGcW7yzjGZBs9tCJYVXOU4mIySgtRIvaApneLVkyin8MpYPo6IzVvXRLTEGt7pF0j30zFqag9eSu3VMagUqeZxGdtOrVKDXgGcCHWu/UO/Eq/NoitHv6Gw0IE/AmIU9x9xT8GzBUA536Dsg+Li/d88e/jgGcACXuQ3xmoQf3AAAAAElFTkSuQmCC",
+        "signatures": [
+            {
+                "signature": "cb85e7f27acdd6d6f4257c20acfa67fa2d482944ea674522eec3702a7d0b826afa401cf607531ec6d7a57f85be804c7c06daa47194332449e7d2c1bc65bad408",
+                "publicKey": "d75356216b2847653335d9d548e127766a7977288a8d31d4d5869cffb8cb615e"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "The first ever CNFT NFT",
+        "signatures": [
+            {
+                "signature": "1b3a7d417631b705adca2bbb4b6d7c8c995e0890a1a8d8fb92575bc63267b8d932d81eca5a159b19a7296e75806a43046e6a8f60630df32a27406b19e3535107",
+                "publicKey": "d75356216b2847653335d9d548e127766a7977288a8d31d4d5869cffb8cb615e"
+            }
+        ]
+    }
+}
