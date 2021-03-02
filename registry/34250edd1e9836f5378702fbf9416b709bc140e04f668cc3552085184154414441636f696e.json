@@ -1,0 +1,44 @@
+{
+    "subject": "34250edd1e9836f5378702fbf9416b709bc140e04f668cc3552085184154414441636f696e",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://stakepool.at",
+        "signatures": [
+            {
+                "signature": "e730c3068d4cfbd605f150706667e94efbcd5242486e3de51b42783356218e519243b40f9140cf6cdfed9d09af2f3888c4cb465db9319b679a5a59a4c7906403",
+                "publicKey": "1287e9ce9e00a603d250b557146aa0581fc4edf277a244ce39d3b2f2ced5072f"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "ATADAcoin",
+        "signatures": [
+            {
+                "signature": "4ed6cfc5d5568bc06be09302edb5e91963e23b5bef211a21657beeb02ee5757c988af457330aa627f39dac26e67b9ed609b2510e9de5cedc34887f6ccc6b0007",
+                "publicKey": "1287e9ce9e00a603d250b557146aa0581fc4edf277a244ce39d3b2f2ced5072f"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "ATAD",
+        "signatures": [
+            {
+                "signature": "1468f8263ab52d62979a7e5730059550f0df39646412c1fdf8b4ed632ebb33a0d0b44110c1ac99c5c1d2ca120761b9018ae00e36ed33630ad4e0ba6c2e60fb09",
+                "publicKey": "1287e9ce9e00a603d250b557146aa0581fc4edf277a244ce39d3b2f2ced5072f"
+            }
+        ]
+    },
+    "policy": "82008200581c45d70e54f3b5e9c5a2b0cd417028197bd6f5fa5378c2f5eba896678d",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "ATADA Stakepool AssetName Metadata Testing...",
+        "signatures": [
+            {
+                "signature": "9bfc16d5b67d0228fdc20f05f7981a7da94990e00ea95933d9318109302adf1602eaf25236db182fab1dc433baabb96bdc2d98934a0c31567d191bcff766cd0e",
+                "publicKey": "1287e9ce9e00a603d250b557146aa0581fc4edf277a244ce39d3b2f2ced5072f"
+            }
+        ]
+    }
+}
