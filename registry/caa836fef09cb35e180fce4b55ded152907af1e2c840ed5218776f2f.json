@@ -2,30 +2,30 @@
     "subject": "baa836fef09cb35e180fce4b55ded152907af1e2c840ed5218776f2f",
     "url": {
         "sequenceNumber": 0,
-        "value": "https://bbc.co.uk",
+        "value": "https://bcoin.co.uk",
         "signatures": [
             {
-                "signature": "55dcb5c1006611568d1a00eb6e99ca8d78e909c8d8759d479cccf6165ac4a9d691a50ba3e03743ae8cea819e311d4309ca0b7fcba205f4561f82c4d6b85bda04",
+                "signature": "e2bb8a7af43cd535599b16b21fa7936c57f57cedfaa6ba6b5bddedbedbd4be5bc6941054fc962cb7c1354f66dce01da3c7c0b888c7d315019a3395aa9c5e4609",
                 "publicKey": "232ae325d74527c70974645adaf7d24fc7f18bff14d8222268668cdb07d8cbce"
             }
         ]
     },
     "name": {
         "sequenceNumber": 0,
-        "value": "steve test",
+        "value": "BCoin",
         "signatures": [
             {
-                "signature": "71e026c3cb44bb4f9aac34c08c02ded7bf3667ef57f0662de7a365789e255b749a4cdde99cc40e12bc4348e83188f7589f73eeb9aef5c5c30549d6db4403d204",
+                "signature": "b177059dbf11d586690e747069f42c7e57d14a0ebca87d712d146426d17cf93d3ac2871fa26d538a929f86f872c16a9a52217b2a46b9973dbf8a83398ba9100c",
                 "publicKey": "232ae325d74527c70974645adaf7d24fc7f18bff14d8222268668cdb07d8cbce"
             }
         ]
     },
     "ticker": {
         "sequenceNumber": 0,
-        "value": "STEV",
+        "value": "BCIN",
         "signatures": [
             {
-                "signature": "874944a8f538bff6aca94e3803fb6535ac2f751971d49e2c2de97c92795a36b9674495c8e427dcaf0c2dbdaa421f77a933ff9e3c2c97b6776248a19dfee75401",
+                "signature": "b43c0749a9dc8ca543b181bc78d11448c75d75c9eb13402cf5709ab0a1484467562f36a3c8dcce396bdf07d9b710d419a402512b111b0c133a6c673ebdf8a108",
                 "publicKey": "232ae325d74527c70974645adaf7d24fc7f18bff14d8222268668cdb07d8cbce"
             }
         ]
@@ -43,10 +43,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "The currency of your Fantasy",
+        "value": "Fantasy Coin",
         "signatures": [
             {
-                "signature": "febe4c3cf75c8b1792b571d4fec79f5a26397c5d5e4285987b075a6a0d9b9037778ee34d9468eec3ca326c0e58191848fc367ba77349dced9deea97b70113107",
+                "signature": "39afa1d289b3fc637ef861f521e241db7acc09cf3b84f7cb1ecd9fdc1b60945ac62746aec1d76226253daf6abc7a7ec90dab1a1445b184f237873083e0665c0a",
                 "publicKey": "232ae325d74527c70974645adaf7d24fc7f18bff14d8222268668cdb07d8cbce"
             }
         ]
