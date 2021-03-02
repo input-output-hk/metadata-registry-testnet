@@ -22,7 +22,7 @@
             }
         ]
     },
-    "acronym": { "value": "SAD" },
+    "ticker": { "value": "SAD" },
     "unit": { "value": { "decimals": 10, "name": "saddies" } },
     "url": { "value": "https://sad.io" },
     "logo": { "value": "QWxtb3N0IGEgbG9nbw==" }

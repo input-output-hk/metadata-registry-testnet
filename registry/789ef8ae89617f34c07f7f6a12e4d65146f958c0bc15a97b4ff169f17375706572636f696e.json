@@ -10,7 +10,7 @@
     "description": {
         "value": "Coin that is superb"
     },
-    "acronym": { "value": "sups" },
+    "ticker": { "value": "sups" },
     "unit": { "value": { "decimals": 15, "name": "supers" } },
     "url": { "value": "https://superb.io" },
     "logo": { "value": "QWxtb3N0IGEgbG9nbw==" }

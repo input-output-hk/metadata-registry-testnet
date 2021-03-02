@@ -10,7 +10,7 @@
     "description": {
         "value": "Coin that is not so good"
     },
-    "acronym": { "value": "BAD" },
+    "ticker": { "value": "BAD" },
     "unit": { "value": { "decimals": 13, "name": "goodies" } },
     "url": { "value": "https://imbad.io" },
     "logo": { "value": "QWxtb3N0IGEgbG9nbw==" }

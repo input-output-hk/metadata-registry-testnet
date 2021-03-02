@@ -22,7 +22,7 @@
             }
         ]
     },
-    "acronym": { "value": "HAPP" },
+    "ticker": { "value": "HAPP" },
     "unit": { "value": { "decimals": 19, "name": "happies" } },
     "url": { "value": "https://happy.io" },
     "logo": { "value": "QWxtb3N0IGEgbG9nbw==" }
