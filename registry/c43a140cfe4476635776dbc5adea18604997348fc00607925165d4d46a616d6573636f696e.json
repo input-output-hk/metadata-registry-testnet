@@ -1,11 +1,31 @@
 {
     "subject": "c43a140cfe4476635776dbc5adea18604997348fc00607925165d4d46a616d6573636f696e",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://jam.es",
+        "signatures": [
+            {
+                "signature": "c4a5effa88794c5b9110f1777c60b5ef05c367a7a9d1610aefbbfb18874ee5ff45e40de69879826317b761d94b34a597c251121350c7dd2be68a0ccd8967b500",
+                "publicKey": "b715befb53708ff5f784bf929db0074d91d2d40b28bc15443d9db4e3d1cc23d2"
+            }
+        ]
+    },
     "name": {
         "sequenceNumber": 0,
         "value": "Jamescoin",
         "signatures": [
             {
                 "signature": "9594be0d1cdad219fe71efc9c575583846271d70772b8b585334a96059c0c4abe9d1713aed5d8ab9371661dea827bb3637d514edaf90f918a2fec6faf82b6603",
+                "publicKey": "b715befb53708ff5f784bf929db0074d91d2d40b28bc15443d9db4e3d1cc23d2"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "JAM",
+        "signatures": [
+            {
+                "signature": "fd885c4303cb7407d3e09d162d4fa69fcf807a089cba5d6287c4bf38b840643f535463e2d634df81f6f5ed6e722ce640feb803991097a17a4965a6c1f0b8490e",
                 "publicKey": "b715befb53708ff5f784bf929db0074d91d2d40b28bc15443d9db4e3d1cc23d2"
             }
         ]
