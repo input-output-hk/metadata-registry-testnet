@@ -10,7 +10,7 @@
     "description": {
         "value": "Coin that is good!!! 👍"
     },
-    "ticker": { "value": "GOOD" },
+    "acronym": { "value": "GOOD" },
     "unit": { "value": { "decimals": 5, "name": "goodies" } },
     "url": { "value": "https://good.io" },
     "logo": { "value": "QWxtb3N0IGEgbG9nbw==" }
