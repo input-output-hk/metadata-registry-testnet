@@ -59,14 +59,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "Coin with asset name",
+        "value": "Coin with asset name - and everyone is happy!!!",
         "signatures": [
             {
-                "signature": "8c4a51b3dc0b9f200a579ae1baececca7deae504cc9a48a46264e9ab53742235780045903d1fbdaeb2e1d67cb7cc79701c4ba6298529b407fcd109c0e523c501",
-                "publicKey": "58112c912a759869c15bb4b33435985de9cc391b0d810f22a5acae85e2922065"
-            },
-            {
-                "signature": "8c4a51b3dc0b9f200a579ae1baececca7deae504cc9a48a46264e9ab53742235780045903d1fbdaeb2e1d67cb7cc79701c4ba6298529b407fcd109c0e523c501",
+                "signature": "b855905399fc42ac90d0c9f54750b153e7b44de5d36dddd0d4a95855629fc63072c6fe404ee38ad4894e08970596072cb1e1ade5c13ec1c927e031110cb94503",
                 "publicKey": "58112c912a759869c15bb4b33435985de9cc391b0d810f22a5acae85e2922065"
             }
         ]
