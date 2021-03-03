@@ -1,0 +1,34 @@
+{
+    "subject": "c43a140cfe4476635776dbc5adea18604997348fc00607925165d4d4636f6c696e636f696e",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Colincoin",
+        "signatures": [
+            {
+                "signature": "5205bea615103c6ec93f3110a861f2396bcbca6d987ab76b4925533e08c5d5c20dfb7f55ab752695c45582e200ac978e82c1240f063393269d4dd21869027a02",
+                "publicKey": "b715befb53708ff5f784bf929db0074d91d2d40b28bc15443d9db4e3d1cc23d2"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "COLN",
+        "signatures": [
+            {
+                "signature": "8fdf5feb52a732fc8f60407619cd6ea769b61388c8860927199e88b3b1d20d250dc1aeafa695954c0a0ec45926a95368958e85e983b4bc18870a18c08634a00c",
+                "publicKey": "b715befb53708ff5f784bf929db0074d91d2d40b28bc15443d9db4e3d1cc23d2"
+            }
+        ]
+    },
+    "policy": "82008200581c54334d2a839b6522e281f24fbfa6fad5e6ad28a576ca1962414df596",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Colin is fun(gible)",
+        "signatures": [
+            {
+                "signature": "dad2cc0744219b2f65657e7ee0e76bac0c707d2525d2f49e97990b7aae6dbdc63ec59cea4dd66c93d1fbd9442e043109ff040b80cbcbd01c7b0571bc3ade4307",
+                "publicKey": "b715befb53708ff5f784bf929db0074d91d2d40b28bc15443d9db4e3d1cc23d2"
+            }
+        ]
+    }
+}
