@@ -1,0 +1,34 @@
+{
+    "subject": "3e8777fa3ed835dd8036d2182918845c72a91b22c098439fd77dcbc350",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Penny",
+        "signatures": [
+            {
+                "signature": "7bbc68c8627270006dd49c3e2861739ba3eedcef5dafb51dbf04d6e6d01d92c2fcdd74d1c6a79be5c0ba1e88671823d3b974b9926f79f7dc0e36929a74e78d07",
+                "publicKey": "2b316f0f6a3a3d4b82756b5a24791aa25ff4bb5102e3504d7a96203e542f8e2b"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "PENY",
+        "signatures": [
+            {
+                "signature": "acbed42843899b04112405ea05a7fafb582f48e6eb3db946486438dedf688ab35f85edc98503427c5823dcb78f68a9322506e2b3e355e8165bc7383e47df2a04",
+                "publicKey": "2b316f0f6a3a3d4b82756b5a24791aa25ff4bb5102e3504d7a96203e542f8e2b"
+            }
+        ]
+    },
+    "policy": "82008200581ccf3fd78fe693b5a67d7194332445a349edd74bd36e26a561572fd3fa",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Like £ but and more valuable.",
+        "signatures": [
+            {
+                "signature": "bc5ba2ff1539fe034031448a1ff79a24d162e5c098dfa8df2f87ce0c8518e9b1c23e5e2bdad2fd859a2b62f4bf76b5e46d6af1c80aa4b8b43eb6497c35a13307",
+                "publicKey": "2b316f0f6a3a3d4b82756b5a24791aa25ff4bb5102e3504d7a96203e542f8e2b"
+            }
+        ]
+    }
+}
