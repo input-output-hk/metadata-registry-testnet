@@ -1,13 +1,24 @@
 {
     "subject": "789ef8ae89617f34c07f7f6a12e4d65146f958c0bc15a97b4ff169f174727565636f696e",
-    "preImage": {
-        "value": "3738396566386165383936313766333463303766376636613132653464363531343666393538633062633135613937623466663136396631363836313730373037393633366636393665",
-        "hashFn": "sha256"
-    },
     "name": {
-        "value": "True Coin"
+        "sequenceNumber": 0,
+        "value": "True Coin",
+        "signatures": [
+            {
+                "signature": "29bb9ca81a340e698d236bd37752d99b6cff3b72630c598348c2d21d6d3a6f0c52026e282df0bdc8e9957af9567d40bbf12f564fd640ba83ebfee949edcadc05",
+                "publicKey": "58112c912a759869c15bb4b33435985de9cc391b0d810f22a5acae85e2922065"
+            }
+        ]
     },
+    "policy": "82008200581c65f94887b8cdb1ea3da590347e2dcdd654fe43d07ccde3197f9f4a9b",
     "description": {
-        "value": "Coin that is true!"
+        "sequenceNumber": 0,
+        "value": "Coin that is true!",
+        "signatures": [
+            {
+                "signature": "cab46e900e42e59b77c5f1c96f4eaf7437f68c8b34539cf73187158b3ec37086563e496dbe7afe820d3039981636f841ba6b084c50c3dd50d39dff29ea662d05",
+                "publicKey": "58112c912a759869c15bb4b33435985de9cc391b0d810f22a5acae85e2922065"
+            }
+        ]
     }
 }
