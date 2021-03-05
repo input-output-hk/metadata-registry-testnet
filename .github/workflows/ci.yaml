@@ -57,6 +57,6 @@ jobs:
 
           echo "Running the metadata validator on this PR:"
           echo
-          echo "./metadata-validator input-output-hk metadata-registry-testnet ${{ github.event.number }} --no-auth"
-          ./metadata-validator input-output-hk metadata-registry-testnet "${{ github.event.number }}" --no-auth
+          echo "./metadata-validator ${GITHUB_REPOSITORY_OWNER} $(cat "${GITHUB_EVENT_PATH}" | jq -r '.repository.name') ${{ github.event.number }} --no-auth"
+          ./metadata-validator "${GITHUB_REPOSITORY_OWNER}" "$(cat "${GITHUB_EVENT_PATH}" | jq -r '.repository.name')" "${{ github.event.number }}" --no-auth
           echo
