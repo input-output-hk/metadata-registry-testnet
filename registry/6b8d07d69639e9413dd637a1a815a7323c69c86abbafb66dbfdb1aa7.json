@@ -33,10 +33,10 @@
     "policy": "82008200581c11f70305b384fffbe59a7d5cd61c209935dd35763018ae79f0541659",
     "description": {
         "sequenceNumber": 0,
-        "value": "Testcoin crypto powered by Cardano testnet",
+        "value": "Testcoin crypto powered by Cardano testnet.",
         "signatures": [
             {
-                "signature": "6947b927d50bbe13ef8b387fc806a0f7c628ab6ac598217148928b29b2ef7acfaff139358aceb6aede21eadfd50d9a7f9da78030ab74de1ee531495c80345a0b",
+                "signature": "b6519dc3773455bdfa9e799109249bcadaafefe9fc10cb751d2ba6419327ef936178d3f3b0dfa7a569326b238b69788bf087030b2ce34fff4d9b85ce20168807",
                 "publicKey": "a602f52e8a31d1a6fb7201bff3d79d488e97243b99411023d83c244eae5730a4"
             }
         ]
