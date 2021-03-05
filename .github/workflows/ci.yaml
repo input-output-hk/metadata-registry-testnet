@@ -36,10 +36,10 @@ jobs:
             | xargs -I{} bash -c '[[ {} =~ ^${LOCATION}/.*$ ]] && echo "pass: {}" || { echo "FAIL: {}"; touch fail-location; }'
           echo
 
-          echo "Validating all changed PR files have a hexidecimal file name of 56 to 120 chars with a lower case \".json\" file extension:"
+          echo "Validating all changed PR files have a lower case hexidecimal file name of 56 to 120 chars with a \".json\" file extension:"
           echo
           echo "${DIFF}" | sort \
-            | xargs -I{} bash -c '[[ {} =~ ^${LOCATION}/[A-Fa-f0-9]{56,120}\.json$ ]] && echo "pass: {}" || { echo "FAIL: {}"; touch fail-filename; }'
+            | xargs -I{} bash -c '[[ {} =~ ^${LOCATION}/[a-f0-9]{56,120}\.json$ ]] && echo "pass: {}" || { echo "FAIL: {}"; touch fail-filename; }'
           echo
 
           [ -f "fail-location" ] && echo "ABORTING: File change location validation failed"
