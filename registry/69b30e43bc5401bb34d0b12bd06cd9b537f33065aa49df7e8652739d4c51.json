@@ -63,5 +63,13 @@
                 "publicKey": "499d13e8a49441668c9fc1b51430a41280ba0081fc8a594ae9595b580cf37665"
             }
         ]
+    },
+    "some_extra_prop": {
+        "sequenceNumber": 0,
+        "value": {
+            "name": "qcents",
+            "decimals": 6
+        },
+        "signatures": []
     }
 }
