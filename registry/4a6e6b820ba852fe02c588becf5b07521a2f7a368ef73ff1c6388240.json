@@ -1,0 +1,44 @@
+{
+    "subject": "4a6e6b820ba852fe02c588becf5b07521a2f7a368ef73ff1c6388240",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://somethingggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg",
+        "signatures": [
+            {
+                "signature": "a794215e664ea47f97f4bd22b49320f97a16ed8ceae1ad7672e46a5374a8952187ffab86dd54c1cf2766bedbc3c292b0ebab34d8aba4dd1448f85893fe50570e",
+                "publicKey": "5bc16efc6e3b548e5d59642b7ffb1d6bfb9dbff868f3a6ddf78f5d006afbf86ed"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "After 51711013",
+        "signatures": [
+            {
+                "signature": "605abeaabb848e6a7ac16b0cd2cf9177246dac0e05a265a10f4aa12faa1f8c09429b90d48184797e4398847d115a5f4c885f051aca7e554e4247adc02bb5d404",
+                "publicKey": "5bc16efc6e3b548e5d59642b7ffb1d6bfb9dbff868f3a6ddf78f5d006afbf86d"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "AFTER",
+        "signatures": [
+            {
+                "signature": "1219ff835a448290bac807a5d7ae283dde49023c893f5e5d261dcb8cb15f0c26552ef85397b038b2ea0e9df508d9f31579bcfbefc682915268d4763d5e647001",
+                "publicKey": "5bc16efc6e3b548e5d59642b7ffb1d6bfb9dbff868f3a6ddf78f5d006afbf86d"
+            }
+        ]
+    },
+    "policy": "82018201828200581c535680c9924be101217b0f39f03805b74819701c35e318e372c9d50c82041a03150c25",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "After slot 51711013",
+        "signatures": [
+            {
+                "signature": "1d842065b490ad4f56b8390623885de1546ecbc8179627cd5ded1826b89e7f89addb3099ce0057e96f6f3a99e74ffe130d70228d7de5f3bad4432e7233774803",
+                "publicKey": "5bc16efc6e3b548e5d59642b7ffb1d6bfb9dbff868f3a6ddf78f5d006afbf86d"
+            }
+        ]
+    }
+}

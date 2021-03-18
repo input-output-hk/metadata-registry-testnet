@@ -1,0 +1,24 @@
+{
+    "subject": "c982b2b98ed2a33585e27455bc55c1815c07a2e923a2dc72b2696d10",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Before 21711013",
+        "signatures": [
+            {
+                "signature": "3412c4b3825da12eb26295cc1ae8ff0095e396018546b06ac17c6b01da829534d8767eb61cb80197d8de67829f4d9b72e0ce9f424313914590baa4b4e527a102",
+                "publicKey": "5bc16efc6e3b548e5d59642b7ffb1d6bfb9dbff868f3a6ddf78f5d006afbf86d"
+            }
+        ]
+    },
+    "policy": "82018201828200581c535680c9924be101217b0f39f03805b74819701c35e318e372c9d50c82051a014b48a5",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Before a time in the past",
+        "signatures": [
+            {
+                "signature": "3d7b1c04d0c8b572ed01390f8aaed08d7d953f268ec79018d525e13235b7fe4beb381625c331d0781f25fc039620965f810aea4c70f3bfb7c523f37ee988f709",
+                "publicKey": "5bc16efc6e3b548e5d59642b7ffb1d6bfb9dbff868f3a6ddf78f5d006afbf86d"
+            }
+        ]
+    }
+}
