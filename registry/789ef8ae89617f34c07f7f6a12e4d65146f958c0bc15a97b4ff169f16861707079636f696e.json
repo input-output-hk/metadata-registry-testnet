@@ -62,22 +62,5 @@
                 "publicKey": "58112c912a759869c15bb4b33435985de9cc391b0d810f22a5acae85e2922065"
             }
         ]
-    },
-    "unit": {
-        "sequenceNumber": 0,
-        "value": {
-            "name": "happies",
-            "decimals": 19
-        },
-        "signatures": [
-            {
-                "signature": "3e6bb21b0644015f074982d6b23e826714e623bdc5813d514a4379e0fcc16a7143155e7b99de1ca76ee4479d417469c23c1d73e31801baadb99aae8d4db5b700",
-                "publicKey": "58112c912a759869c15bb4b33435985de9cc391b0d810f22a5acae85e2922065"
-            },
-            {
-                "signature": "3e6bb21b0644015f074982d6b23e826714e623bdc5813d514a4379e0fcc16a7143155e7b99de1ca76ee4479d417469c23c1d73e31801baadb99aae8d4db5b700",
-                "publicKey": "58112c912a759869c15bb4b33435985de9cc391b0d810f22a5acae85e2922065"
-            }
-        ]
     }
 }
