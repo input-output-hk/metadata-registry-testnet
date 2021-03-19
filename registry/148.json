@@ -1,0 +1,24 @@
+{
+  "subject": "$var1",
+  "name": {
+    "value": "TestToken148"
+  },
+  "description": {
+    "value": "$var3"
+  },
+  "acronym": {
+    "value": "$var4"
+  },
+  "unit": {
+    "value": {
+      "decimals": 14,
+      "name": "unit2"
+    }
+  },
+  "url": {
+    "value": "https://iohk.io"
+  },
+  "logo": {
+    "value": "QWxtb3N0IGEgbG9nbw=="
+  }
+}

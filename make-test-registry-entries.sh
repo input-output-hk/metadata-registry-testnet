@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NUM_OF_ENTRIES=2
+NUM_OF_ENTRIES=1000
 
 for num in $(seq 1 $NUM_OF_ENTRIES)
 do
