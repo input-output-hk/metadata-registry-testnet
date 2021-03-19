@@ -50,18 +50,5 @@
                 "publicKey": "58112c912a759869c15bb4b33435985de9cc391b0d810f22a5acae85e2922065"
             }
         ]
-    },
-    "unit": {
-        "sequenceNumber": 0,
-        "value": {
-            "name": "saddies",
-            "decimals": 10
-        },
-        "signatures": [
-            {
-                "signature": "846351505576a8c84db4f1427efe43e86e7993ed8fd47060c4dac3d16cf0f580906aaa6be756c35b777af4573abcdef6e5976955f751c9436444ef4a2f1bb309",
-                "publicKey": "58112c912a759869c15bb4b33435985de9cc391b0d810f22a5acae85e2922065"
-            }
-        ]
     }
 }
