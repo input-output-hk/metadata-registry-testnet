@@ -1,0 +1,24 @@
+{
+    "subject": "b377d03a568dde663534e040fc32a57323ec00970df0e863eba3f098717569640a",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Quid",
+        "signatures": [
+            {
+                "signature": "02f259151779aa00307c411a4816d7f8343ae842b74593608ebd2e2597bce33d31c7cf72a26f8771a2635d13b178c1bdd5e4f60884b06898760af40f09aa5402",
+                "publicKey": "bc77b3196b9da1620f70d2f5095ba42fe6a4e3c03494062d2034cdab2a690d04"
+            }
+        ]
+    },
+    "policy": "82008200581ce62601e8eeec975f3f124a288cd0ecb2973f5fc225629f1401a79b16",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "The un-offical currency of Great Britain.",
+        "signatures": [
+            {
+                "signature": "2edae9a65bdb093e483e5ddba4c4920dac4125c3a0303269213d2bfb628493244810321f7244fd9db76c62acce475c11ff748f4d89270192333886190b4e9907",
+                "publicKey": "bc77b3196b9da1620f70d2f5095ba42fe6a4e3c03494062d2034cdab2a690d04"
+            }
+        ]
+    }
+}
