@@ -20,6 +20,16 @@
             }
         ]
     },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "RAWR",
+        "signatures": [
+            {
+                "signature": "283e59d44211428971ecc8eb6a7af7691d9a0220c87e543734912dd510e8404f79adbc319549212aecd047bf90b2b1c8d6d4edae798523447ac03818d2d62d07",
+                "publicKey": "bc77b3196b9da1620f70d2f5095ba42fe6a4e3c03494062d2034cdab2a690d04"
+            }
+        ]
+    },
     "policy": "82008200581ce62601e8eeec975f3f124a288cd0ecb2973f5fc225629f1401a79b16",
     "description": {
         "sequenceNumber": 1,
