@@ -1,5 +1,15 @@
 {
     "subject": "b377d03a568dde663534e040fc32a57323ec00970df0e863eba3f098717569640a",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://www.google.com",
+        "signatures": [
+            {
+                "signature": "98b6cb97f56c7170a815a443bb4ade9abe9a0e2b597b8f0baee184f781644711cb59e8bc0fb29050f777e84a73c61bacb40022f8ee45e01da8fbd2b892616c01",
+                "publicKey": "bc77b3196b9da1620f70d2f5095ba42fe6a4e3c03494062d2034cdab2a690d04"
+            }
+        ]
+    },
     "name": {
         "sequenceNumber": 0,
         "value": "Quid",
@@ -13,10 +23,10 @@
     "policy": "82008200581ce62601e8eeec975f3f124a288cd0ecb2973f5fc225629f1401a79b16",
     "description": {
         "sequenceNumber": 0,
-        "value": "The un-offical currency of Great Britain.",
+        "value": "The un-offical currency of Great Britain 2.",
         "signatures": [
             {
-                "signature": "2edae9a65bdb093e483e5ddba4c4920dac4125c3a0303269213d2bfb628493244810321f7244fd9db76c62acce475c11ff748f4d89270192333886190b4e9907",
+                "signature": "48d45b0f6317a49d4da9c331d4757352795ebb36ea21cf7341595801c0f8fbf7f02bc50eea29372cc591cbe8285b3ea28481b8c71ca9e755ad6890e670387c0e",
                 "publicKey": "bc77b3196b9da1620f70d2f5095ba42fe6a4e3c03494062d2034cdab2a690d04"
             }
         ]
