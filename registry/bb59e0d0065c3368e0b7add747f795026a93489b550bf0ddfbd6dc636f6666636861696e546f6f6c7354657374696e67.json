@@ -50,5 +50,9 @@
                 "publicKey": "197b6c5c36b69919f3ac9952f9014de3fd096f6c7c0b34d55561942bd37d76a2"
             }
         ]
+    },
+    "tool": {
+      "description": "Test Scripts",
+      "url": "https://github.com/test/scripts"
     }
 }
