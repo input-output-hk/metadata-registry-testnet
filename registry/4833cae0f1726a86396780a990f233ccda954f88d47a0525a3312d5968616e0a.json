@@ -11,11 +11,11 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "OffchainToolzCoin",
+        "sequenceNumber": 1,
+        "value": "OffchainToolsCoin update",
         "signatures": [
             {
-                "signature": "d57361e49cf3aca6ddaa6add0c7b8848c1106d1d5d4e5b0be93c26977ed1aaacc3eed310ea041bbdb642b90230e661b8428209fe4b5b41b7afb1e90ddd2df204",
+                "signature": "a2b7134ed8ca269f55bb4038a2cd136842148e28fd2b2f57c0633e7e7314bff8c8fa225628b077a8366a35556f7904309a50f012ca1e23d6f8e7752512de2b08",
                 "publicKey": "aeca23bf82e2346bc9ec43f5f1673ac4797035632f97438d04adcc033c563967"
             }
         ]
