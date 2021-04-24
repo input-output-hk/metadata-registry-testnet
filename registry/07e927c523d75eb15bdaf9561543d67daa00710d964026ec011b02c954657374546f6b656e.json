@@ -1,0 +1,38 @@
+{
+  "subject": "07e927c523d75eb15bdaf9561543d67daa00710d964026ec011b02c954657374546f6b656e",
+  "name": {
+    "sequenceNumber": 1,
+    "value": "TestToken",
+    "signatures": [
+      {
+        "signature": "16820e994d66386ce8d85386c4e4134470dd054b00ff5ddf9ca53db143cca852abb96432f55dbeff0c0dd88d25e625d72dd85116752bae1332797a3d0970e100",
+        "publicKey": "7cc9805acfa17817e32d49dae5766d20e203fba7a118f51077a0af1694a0bb3d"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 1,
+    "value": "TST",
+    "signatures": [
+      {
+        "signature": "a7e01941c8c9203e8ab2ed33514f96d83af99b829d35b81f3b7d72738b307e6aeaf6d0d497f26ec68823cfcb26d3df87f8d69fe2a9d98249b63637766bffd508",
+        "publicKey": "7cc9805acfa17817e32d49dae5766d20e203fba7a118f51077a0af1694a0bb3d"
+      }
+    ]
+  },
+  "policy": "820182018282051a017b6faf8200581c922b3ef89009eeb2fc2cfb9bfae2e3bff28e1e69f331ccf947f3612a",
+  "description": {
+    "sequenceNumber": 1,
+    "value": "First ever cool test token",
+    "signatures": [
+      {
+        "signature": "808522b7b9d1eae027d14870b51f8a47697efe9c2d26e436697bf5b27cfd7c49bbc3caf501bc6f9e706e1d8b27e11783d81d0436aff4ff7454cd8e46ea21c307",
+        "publicKey": "7cc9805acfa17817e32d49dae5766d20e203fba7a118f51077a0af1694a0bb3d"
+      }
+    ]
+  },
+  "tool": {
+    "description": "StakePoolOperator Scripts",
+    "url": "https://github.com/gitmachtl/scripts"
+  }
+}
