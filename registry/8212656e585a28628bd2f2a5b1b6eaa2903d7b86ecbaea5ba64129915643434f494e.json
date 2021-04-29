@@ -1,0 +1,24 @@
+{
+    "subject": "8212656e585a28628bd2f2a5b1b6eaa2903d7b86ecbaea5ba64129915643434f494e",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Varian Coin",
+        "signatures": [
+            {
+                "signature": "8035d87ac5e3b5a19cc034beffe7121e8743591a70fbef0d3b16b4e6655e78111c20f6a8c0a9a73614848c56f80002b1473effaae178913f8526e75fc4547809",
+                "publicKey": "10b4dffe18deeca20a065010c48078ee5a710ea75a3e8fcf07e71fcafb24bd29"
+            }
+        ]
+    },
+    "policy": "82008200581cf2e16b3575fc230527482ba637a25792f9461d11d928c72fd52815cd",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Test coin for Varian Coin",
+        "signatures": [
+            {
+                "signature": "dced4b4e6abcf4b106f4cd94497df39359a744ba7bc173bedf433635917d2fe90bfee7d9adb3fb7e9c8be60659e95ad2dadac8d432efd13cd293394c766a2e0c",
+                "publicKey": "10b4dffe18deeca20a065010c48078ee5a710ea75a3e8fcf07e71fcafb24bd29"
+            }
+        ]
+    }
+}
