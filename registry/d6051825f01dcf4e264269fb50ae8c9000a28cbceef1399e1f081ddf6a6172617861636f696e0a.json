@@ -1,0 +1,32 @@
+{
+    "subject": "d6051825f01dcf4e264269fb50ae8c9000a28cbceef1399e1f081ddf6a6172617861636f696e0a",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Jaraxacoin",
+        "signatures": [
+            {
+                "signature": "9bfa8c38868269c7df08a2e6758a5491210e55ea4b2bf1e31240e1d80cb6850db78b812feab228d8a009259dd78ba65a593ddce3f1343b8ab55fbea262219e0d",
+                "publicKey": "538cc0d64ed25bff7eb7701f83e7fa69807748cf3b857483d75de85745cd7db6"
+            },
+            {
+                "signature": "9bfa8c38868269c7df08a2e6758a5491210e55ea4b2bf1e31240e1d80cb6850db78b812feab228d8a009259dd78ba65a593ddce3f1343b8ab55fbea262219e0d",
+                "publicKey": "538cc0d64ed25bff7eb7701f83e7fa69807748cf3b857483d75de85745cd7db6"
+            }
+        ]
+    },
+    "policy": "82008200581c2428a866cd366b9ced6c6281cbb8b341429fcba35f2b610ac0a82ba4",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "The un-offical currency of Jaraxa and the Milky way.",
+        "signatures": [
+            {
+                "signature": "0f92dbdbd33dfd1ef58743cf9067bff5711f501d8063f10757526a380b3b1e2edc8e3ce1505b89d63319a0911b451405f29a501eae9ea7b0848861a734347409",
+                "publicKey": "538cc0d64ed25bff7eb7701f83e7fa69807748cf3b857483d75de85745cd7db6"
+            },
+            {
+                "signature": "0f92dbdbd33dfd1ef58743cf9067bff5711f501d8063f10757526a380b3b1e2edc8e3ce1505b89d63319a0911b451405f29a501eae9ea7b0848861a734347409",
+                "publicKey": "538cc0d64ed25bff7eb7701f83e7fa69807748cf3b857483d75de85745cd7db6"
+            }
+        ]
+    }
+}
