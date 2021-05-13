@@ -1,0 +1,34 @@
+{
+    "subject": "6b1b1cc20a8d37d1d7bea2ca5427335c7f4c586e70692333153ef38354455354444543494d414c5330",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "DECIMALSCOIN",
+        "signatures": [
+            {
+                "signature": "1e80a01ce5aacc32de1832e48d9d3cdbd9268e581cf669fb129b2daf0b2270a947ce0db44aaafbffa872a9cd6c487721c01f66e5768680a039d84818031f130e",
+                "publicKey": "c672d76eb2b37d90121ca7b4f349ef866ee88e70e266b0145a2279eddcc7177c"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 5,
+        "signatures": [
+            {
+                "signature": "3e86e5eda51f3ef44ab3ee4b03d4c0d3641989f30a1e6e20a0e4f3444a83165b2ce37d95c1d25251c966cbbe90b04cf3955ddfca014986d4d89a2cbd5d768a0e",
+                "publicKey": "c672d76eb2b37d90121ca7b4f349ef866ee88e70e266b0145a2279eddcc7177c"
+            }
+        ]
+    },
+    "policy": "82018201828200581c4f5816b6e1f30bf15b18de375294d95617aa3b4fd8f476660120d9bf82051a034841fa",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Test Decimals",
+        "signatures": [
+            {
+                "signature": "01e3cdab8ee2afd206a35c125a2069b7ede22619cb5d1db221ebd2815b743cb49cecbdb8ececd7595895cf51785301fa8b1411c7bbb005be6406ed203c8c150d",
+                "publicKey": "c672d76eb2b37d90121ca7b4f349ef866ee88e70e266b0145a2279eddcc7177c"
+            }
+        ]
+    }
+}
