@@ -1,0 +1,34 @@
+{
+    "subject": "bb5cd76c009e605664e660f9e9541f5d2c566f2a94b7ec9ec3ba74b96a656469",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "JediCoin",
+        "signatures": [
+            {
+                "signature": "b9c7794d8b5d98ff2d3b01cb5ce37eed37845ea102313a2b396e84dab5fa8c2ca30151a94ade108be14bf3b692c12b5839076b1a0081d939d24f682c1151b707",
+                "publicKey": "7804930a396ed92db009270568a8f2847a0b4005672e8edaad285f3aa2b95e3e"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "JED",
+        "signatures": [
+            {
+                "signature": "67daa3e9ea30db6e81d5fe2901860e55ef2ee76180d0606db0e178a611434ed87e17ac57064d64cf66b65f2b66aa40375254e23b46faf28904cbfcd6b1f3ea0e",
+                "publicKey": "7804930a396ed92db009270568a8f2847a0b4005672e8edaad285f3aa2b95e3e"
+            }
+        ]
+    },
+    "policy": "82008200581cacb0f9d1e7c72fc354778cf3f7397a33be459485d8fd71d7bc5de84c",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Use the JediCoin to defeat the dark side!",
+        "signatures": [
+            {
+                "signature": "07c76fd103f010269611aacea434aeebe638cfdcf1ce5681e4f1a3e898034f899d49873b2ff8467e68bf42831e64721f89c627f8527beed30a5dfc8acab99708",
+                "publicKey": "7804930a396ed92db009270568a8f2847a0b4005672e8edaad285f3aa2b95e3e"
+            }
+        ]
+    }
+}
