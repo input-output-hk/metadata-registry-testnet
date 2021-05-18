@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "Coin with asset name - and everyone is happytoken-metadata-creator entry --init 919e8a1922aaa764b1d66407c6f62244e77081215f385b60a62091494861707079436f696e!",
+        "sequenceNumber": 1,
+        "value": "Coin with asset name - and everyone is happy!!!",
         "signatures": [
             {
-                "signature": "45bd0b63d7b08f12f41b25083e16cb6ffa1cb658dc291368c5b5c809194a1b60ab1e2a6c1fe96d4719ab466be1a7f5743fe56690397b001da2f8fa19e0874d03",
+                "signature": "fe04dce0f909b829e57c315117aa3ee03be59380ae24f02f6e9321012ae941783005c403cba73bf85bd6c86533b8cd49144960d5c1eca63159a1f51abac8a90d",
                 "publicKey": "db2c42a7c5b70d7e635b95c5864439f22ccd6639cc7bc128a88a804f149a4448"
             }
         ]
