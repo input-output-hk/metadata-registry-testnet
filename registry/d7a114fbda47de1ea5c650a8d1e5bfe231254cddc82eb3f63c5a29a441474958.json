@@ -1,0 +1,32 @@
+{
+    "subject": "d7a114fbda47de1ea5c650a8d1e5bfe231254cddc82eb3f63c5a29a441474958",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "SingularityNET Token",
+        "signatures": [
+            {
+                "signature": "f6d60b10abf91ad595c01f3b44cd8a39443f5ce1296c211fd601fd3c148877496573cd4c32be509dd3e953cb7b576f2400c4bffd74d51446393320d58ea98301",
+                "publicKey": "1e9aa03bcbbec7d617fbe4d5d86d1c9eef14b5350332df9f3b384e24a9a9339b"
+            },
+            {
+                "signature": "80420b34176e601d01233d559aa05cffb85d0e8b0fbf1e95945ab08559e8847cddda256b35290aad5ea1772318cac2b4b27e2056b8f2adc285c196d3708cb00a",
+                "publicKey": "7cc8a870e1684076b13e9b96ac9f4daf0809a7e48c3b58ae3c286b6eef864fde"
+            }
+        ]
+    },
+    "policy": "82008201828200581c7c4aaf472ebd00e70a49cb1161a216d3ea0fa2bd270b9712466f5a1d8200581cae784c58d73d87a426f3b1935e0fb56f3dbd6a93ebb1991e5745c24a",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "SingularityNET AGIX Token",
+        "signatures": [
+            {
+                "signature": "12a411e3066803db71cdb39cca2eef4248fa27d474020c3d9e2663fa71d7143b5af4f48fa626537a860a5eb9cd65a3911f0fa6ebf5308f5a692dc439d789720a",
+                "publicKey": "1e9aa03bcbbec7d617fbe4d5d86d1c9eef14b5350332df9f3b384e24a9a9339b"
+            },
+            {
+                "signature": "592825d24be7dfee85dc993ed8aecad25afa9886f80a0f80950dadee1ac42c02bcfc1eff9ac2f88afb17b374e62342549b1ee15c095944747ae429301fec1e0f",
+                "publicKey": "7cc8a870e1684076b13e9b96ac9f4daf0809a7e48c3b58ae3c286b6eef864fde"
+            }
+        ]
+    }
+}
