@@ -1,11 +1,11 @@
 {
     "subject": "b7185d45ae2a9cba7504c2167d2cdf8f3d2ce4fb0468abfe512e925d717569640a",
     "name": {
-        "sequenceNumber": 0,
-        "value": "Quid",
+        "sequenceNumber": 1,
+        "value": "Quid update",
         "signatures": [
             {
-                "signature": "93308ccfa3516eef8bed825b2a433da5856d7015a57a5b239b3bdc5e0721827e2c73ab4f8f30b88f885d7a990c8688dc70c8fa1b27e1c62eac58e06c71caf704",
+                "signature": "df48f574224cc4d3b575a4105b20cdbae287de344d5be3b54c6b288c662be35d71a966c297ecc76eda1e5b1093d24b382019a53b4b50b689b6de82e27ebfd80e",
                 "publicKey": "2e76d96ec20d0d581022cfaab4ec752501ecf34f379c0c9df4ccf1b64cc42108"
             }
         ]
