@@ -1,14 +1,9 @@
 {
     "subject": "8d1257835dfa6ddc018c28754bde0cd1279386034d4999553c9e6b7e717569640a",
     "name": {
-        "sequenceNumber": 0,
-        "value": "Quid",
-        "signatures": [
-            {
-                "signature": "05ca8dd6a2ff1dfc9f4ea902218443cf15bae34b8619b8a5b54fe23ac528d55dfdb938303e3f0490b982e7c71bf503d6a476f24c565b0238528bfd35243a8006",
-                "publicKey": "16e06db37751e85abc874317a52e2fe5fb84f7668f4fbb41ce4456652d6c7a4c"
-            }
-        ]
+        "sequenceNumber": 1,
+        "value": "Quid update sync",
+        "signatures": []
     },
     "decimals": {
         "sequenceNumber": 0,
