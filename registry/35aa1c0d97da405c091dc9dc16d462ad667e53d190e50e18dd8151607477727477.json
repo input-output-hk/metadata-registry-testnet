@@ -1,0 +1,48 @@
+{
+  "subject": "35aa1c0d97da405c091dc9dc16d462ad667e53d190e50e18dd8151607477727477",
+  "url": {
+    "sequenceNumber": 1,
+    "value": "https://gateway.pinata.cloud/ipfs/Qmcwsp7BXhBgCJdD5XzKxjP2H5xpH3oVX1xCQyXq46bvha",
+    "signatures": [
+      {
+        "signature": "67840cbd58b9dcf6898f14063f964e95d6a5064948d9939e305eaab8fd4575c7682ea212f7648aa2641e575ff856cfcef15695b6497c4cd50e9517823b0bb30b",
+        "publicKey": "7444876841414b9f94ce63c7bb05aa7306aa5f24ce04b0f2a2f78cdcee4366e1"
+      }
+    ]
+  },
+  "name": {
+    "sequenceNumber": 1,
+    "value": "twrtw",
+    "signatures": [
+      {
+        "signature": "0c2a07fd57e2e5b68317ca65919c453b6c81e9edb1c0e0eb39893e7764daf63dd1255cbea4653085722528db51bc6afbe50f0980bd35218147a0c63797cfd807",
+        "publicKey": "7444876841414b9f94ce63c7bb05aa7306aa5f24ce04b0f2a2f78cdcee4366e1"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 1,
+    "value": "TWRTW",
+    "signatures": [
+      {
+        "signature": "d28488487336605d2e5aa486cbedc638e775b430c1611d79635e00fb9069fb8868b3a30867a8db9a8bdde835f000efec35eb61ee9285e85289a340ab216f310e",
+        "publicKey": "7444876841414b9f94ce63c7bb05aa7306aa5f24ce04b0f2a2f78cdcee4366e1"
+      }
+    ]
+  },
+  "policy": "820182018282051a018edeaf8200581c5b20218037c0fcc8b0b74bfbade6177ece3fb4fd9dc9dc40ce7e0339",
+  "description": {
+    "sequenceNumber": 1,
+    "value": "Tim is a massive douche",
+    "signatures": [
+      {
+        "signature": "cdef787481b6e80a0b2adbab5a5babb68912062e8c95524a7bf47caa2c3b2d828de3290396d32aeedd7909e5eb0c5ad6b650d5a7e0cfa451525dbf0ad90eec06",
+        "publicKey": "7444876841414b9f94ce63c7bb05aa7306aa5f24ce04b0f2a2f78cdcee4366e1"
+      }
+    ]
+  },
+  "tool": {
+    "description": "StakePoolOperator Scripts",
+    "url": "https://github.com/gitmachtl/scripts"
+  }
+}
