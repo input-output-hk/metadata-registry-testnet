@@ -20,16 +20,6 @@
             }
         ]
     },
-    "ticker": {
-        "sequenceNumber": 0,
-        "value": "CNFT",
-        "signatures": [
-            {
-                "signature": "8590a1d8855ce4fe9edfde4839bd054a94cbc5d95f4891fe937f94a0352711bb3a237c12ee9be3ea74179fc1a73dff67d928731efe1158723814031a00205e0a",
-                "publicKey": "d75356216b2847653335d9d548e127766a7977288a8d31d4d5869cffb8cb615e"
-            }
-        ]
-    },
     "policy": "82008200581ca089eb6d661e62aa9de2567d3e622b1318abc4ae4bb28f531f29f4d6",
     "logo": {
         "sequenceNumber": 0,
