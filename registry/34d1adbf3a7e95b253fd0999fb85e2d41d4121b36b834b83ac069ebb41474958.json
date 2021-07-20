@@ -29,15 +29,15 @@
         ]
     },
     "ticker": {
-        "sequenceNumber": 0,
-        "value": "AGIXA",
+        "sequenceNumber": 1,
+        "value": "AGIX",
         "signatures": [
             {
-                "signature": "90dc5d74f986cbbd59eeca721d023306d605fa520efd4ef423f7fa50f82bf5098fae313590e9e79d17b184bd59847fd7cbf0c936afc2621f9a3f7df9bdd64e05",
+                "signature": "b8f4c367e18e2b5fc2629d2c6cf99c2b1f0dfbbcdc473335f6d750d90123e18da3511499e69201489872ba8378487db245b9062fc9aee8e03719ec51b69d5d04",
                 "publicKey": "e3f8ecce54fb287b2dd3e549a3ae433e073575f196669663fe6281a25111544c"
             },
             {
-                "signature": "11d273bce2d4202321f08e9dccfe7dd05e6704e4561b0af8f2f03eb10a8528d69e749f2946cbb8f7ba973d084804b6d8ad80093f7b0837d40f7af49955ef2305",
+                "signature": "020fae9cedcc8b8a48bfd16b586a158c2cb3ee56fe7748530f4d600eba2aaeeb01ad627bb6721e82104ea74d55bda3027f839ce1a4fefa044478928395fcfa0b",
                 "publicKey": "951ddfa37413e553a865585c91fa3934fcf511ec15615007deca0547fd8df6ec"
             }
         ]
