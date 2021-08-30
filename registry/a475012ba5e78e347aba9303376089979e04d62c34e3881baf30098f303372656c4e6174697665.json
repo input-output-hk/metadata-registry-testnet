@@ -1,0 +1,64 @@
+{
+    "subject": "a475012ba5e78e347aba9303376089979e04d62c34e3881baf30098f303372656c4e6174697665",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://github.com/input-output-hk/offchain-metadata-tools/",
+        "signatures": [
+            {
+                "signature": "fcd2b4197112a1f93f0c375656262a00c1c406732ec57931ebe6567d84d9deb26763b0264a90c25bb1f4ec559c5048988d6c305d55eebceddc7295e85ba4140a",
+                "publicKey": "152bc606b6eb7fc9c7f0ea4764bd55028be52287221a444b8944c9c7457faeaf"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "OffchainToolsCoin release 0.3.0",
+        "signatures": [
+            {
+                "signature": "9d8243deaa54ded939f77dcc6aba4a991470ba841c006b425994214b801294db2523ecf2ce5ea56a87a054ef090c94c071666898a875d0c4d08e52eb731b9208",
+                "publicKey": "152bc606b6eb7fc9c7f0ea4764bd55028be52287221a444b8944c9c7457faeaf"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "OTC3",
+        "signatures": [
+            {
+                "signature": "d54e56623ac63c2389ba3215b3f5f0d18d2a0d854f02447173b36284e9c6da7a70e6437855a0d112b247317236e0e3489e96abeb276ecedbc6395113c817310d",
+                "publicKey": "152bc606b6eb7fc9c7f0ea4764bd55028be52287221a444b8944c9c7457faeaf"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 5,
+        "signatures": [
+            {
+                "signature": "5b1492dc25f1fd04f22316a32d32bb4ae454a0ee6a91d5e0b517e25c9af8a82f1865d74963155da6b5b8a5a681c99681222b561e275b4e3c57efb258fbd8d408",
+                "publicKey": "152bc606b6eb7fc9c7f0ea4764bd55028be52287221a444b8944c9c7457faeaf"
+            }
+        ]
+    },
+    "policy": "82008201818200581ce500e1a3c52a9d27ceae4bebd1b65a77cf128ef6aa7619939fe6d454",
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "iVBORw0KGgoAAAANSUhEUgAAABkAAAAeCAYAAADZ7LXbAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACbUlEQVRIie3Vy0tUURzA8e855965c8lXUhlhEQVBSEmQRAURQbSIEqFl4N6/oHYtAhdtonatK8hVBCERZC+0jbZpIRVkIeagTJrO3Nd5tBhDMHOcGiHCA2dxHvDh9zs/fkc45xwbPORGA5tI/RFdGCL9MgAm/mNEVKuuaHA3OW+RlDb8zjt4O07VjFRPV8NBZC5PGMxj3/YQv7uGs7p+iJ5+ipgfIZr7hnWSXBjgT98iHr6IS+fqg7h0Dl8ZQpmQFKdJSmWkkuSj10TD3WCzv0f89m6S8BjWQehbVDpPWiojsASlEeLxG3WIJFtANneQei3EqpnMeWRxgtMahYGP/dhoqiry2+rKJh9i3l8l2KIRUlVQazDlRXTpOzIr43uQ7LlCvrO/9kjisT7Ehz6CBgtCki4sEC+ALpdQQUC+qQmXC3EO3NQAsHaP/QVx1mBnh5BKYpOYON2L6npJ/sw4svMRacmCc+TyOQwKGX/CRl9rQ4SQyPZeFqM27L7bhCcHUY37AVCtR7EtZ8EZhLN4vkIKhy1N1Ibo4ijq83UavAl04QmIFVekB1aDNQhnQFBZ14KABauRaFThHrrwbPmkPImYeQw6A5OBNRjnIxsPrIl4KzdUcwep9SFL8JVHNnqJeFcvyBCm7hJQBKPBZJWH334eGe5cE1m1hKM3l8nP3kcICVLiEEuXLfycQKpBnnhRtWmuWsLBkZtEucNYa8BkCJMiTFrJ/RLgHJjWc+vqyqsiMthGePo5SWsP2ohKWpamdZBqQbz1AvnjD6oCsI7/RM+8whTHljf8RrzWLlTLoXUB60LqMf6NP34T+T+RH/HOKLJ+ho1iAAAAAElFTkSuQmCC",
+        "signatures": [
+            {
+                "signature": "06a1ccab25e590ebc87e4d5db3e70b853019e08aa41b099d8e2a939fc9d7b47c0d4de846c5a6d9d547c738e9539e3ac0d58182c95680b032acf58b5703af550c",
+                "publicKey": "152bc606b6eb7fc9c7f0ea4764bd55028be52287221a444b8944c9c7457faeaf"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Test OffchainTools",
+        "signatures": [
+            {
+                "signature": "947ab9a7381b4797126983e01045797da45597edf27fb1007b8a2cdc1ee41bdf606a3eb87fed1639a1eae74a71e11ac571434329b9af4365ce73d4dcabb7b70a",
+                "publicKey": "152bc606b6eb7fc9c7f0ea4764bd55028be52287221a444b8944c9c7457faeaf"
+            }
+        ]
+    }
+}
