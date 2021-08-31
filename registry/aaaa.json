@@ -1,0 +1,63 @@
+{
+    "subject": "aaaa",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://github.com/input-output-hk/offchain-metadata-tools/",
+        "signatures": [
+            {
+                "signature": "0a4baf604578f30ca552193f753ecbb5a7584a2f29b59d316bca74351d6b75dfa6d24fbd30a0a86d3e4c42fc8eef344149ed85a77a485ff839079d4d7a600001",
+                "publicKey": "152bc606b6eb7fc9c7f0ea4764bd55028be52287221a444b8944c9c7457faeaf"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "I can store anything",
+        "signatures": [
+            {
+                "signature": "384e369cc9d5b0217a0f21ce794a501896bc8511fac80d8bd64ad20eb1e5125cda482a505ee7389bd74439fef66d1648b123570467f6547be4cbee62828eb70b",
+                "publicKey": "152bc606b6eb7fc9c7f0ea4764bd55028be52287221a444b8944c9c7457faeaf"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "ANY",
+        "signatures": [
+            {
+                "signature": "9053b6bf3353e18adab7e4f90f7362cfefff21ab23919d27bfda22f006578d21f70ff863137d14cb1addcd676c6142103f9ed33d2d62c1bfa1e7c805bbe33f09",
+                "publicKey": "152bc606b6eb7fc9c7f0ea4764bd55028be52287221a444b8944c9c7457faeaf"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 1,
+        "signatures": [
+            {
+                "signature": "cdff4a29642558a11b40b3002f3a7d97eb9a8b18f4f3e13b55df8e3bb82a0d3f9c4ac6a77b41e9bd1d7a7f809e36d05ccaf6b9d59c956e3823d7548771b5ab0f",
+                "publicKey": "152bc606b6eb7fc9c7f0ea4764bd55028be52287221a444b8944c9c7457faeaf"
+            }
+        ]
+    },
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "iVBORw0KGgoAAAANSUhEUgAAABkAAAAeCAYAAADZ7LXbAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACbUlEQVRIie3Vy0tUURzA8e855965c8lXUhlhEQVBSEmQRAURQbSIEqFl4N6/oHYtAhdtonatK8hVBCERZC+0jbZpIRVkIeagTJrO3Nd5tBhDMHOcGiHCA2dxHvDh9zs/fkc45xwbPORGA5tI/RFdGCL9MgAm/mNEVKuuaHA3OW+RlDb8zjt4O07VjFRPV8NBZC5PGMxj3/YQv7uGs7p+iJ5+ipgfIZr7hnWSXBjgT98iHr6IS+fqg7h0Dl8ZQpmQFKdJSmWkkuSj10TD3WCzv0f89m6S8BjWQehbVDpPWiojsASlEeLxG3WIJFtANneQei3EqpnMeWRxgtMahYGP/dhoqiry2+rKJh9i3l8l2KIRUlVQazDlRXTpOzIr43uQ7LlCvrO/9kjisT7Ehz6CBgtCki4sEC+ALpdQQUC+qQmXC3EO3NQAsHaP/QVx1mBnh5BKYpOYON2L6npJ/sw4svMRacmCc+TyOQwKGX/CRl9rQ4SQyPZeFqM27L7bhCcHUY37AVCtR7EtZ8EZhLN4vkIKhy1N1Ibo4ijq83UavAl04QmIFVekB1aDNQhnQFBZ14KABauRaFThHrrwbPmkPImYeQw6A5OBNRjnIxsPrIl4KzdUcwep9SFL8JVHNnqJeFcvyBCm7hJQBKPBZJWH334eGe5cE1m1hKM3l8nP3kcICVLiEEuXLfycQKpBnnhRtWmuWsLBkZtEucNYa8BkCJMiTFrJ/RLgHJjWc+vqyqsiMthGePo5SWsP2ohKWpamdZBqQbz1AvnjD6oCsI7/RM+8whTHljf8RrzWLlTLoXUB60LqMf6NP34T+T+RH/HOKLJ+ho1iAAAAAElFTkSuQmCC",
+        "signatures": [
+            {
+                "signature": "5c925562d88500b92299667fb70c63f4548f0a078099ca879f472553e39824cb7ca59026a9360c5aaa79a3328c2c68e741660b0fbbfe79c3c07a368244e9cf0a",
+                "publicKey": "152bc606b6eb7fc9c7f0ea4764bd55028be52287221a444b8944c9c7457faeaf"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Because I'm so flexible",
+        "signatures": [
+            {
+                "signature": "94b5adfde3da94ed072d6b01041112b1a1a2733130bea3367813fed446c3171089b3bfc06d8e8808cfd1705b5bdb87fad8dbf70315fe37db0fc965513aa1a108",
+                "publicKey": "152bc606b6eb7fc9c7f0ea4764bd55028be52287221a444b8944c9c7457faeaf"
+            }
+        ]
+    }
+}
