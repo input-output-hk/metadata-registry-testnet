@@ -1,0 +1,63 @@
+{
+    "subject": "fda1b6b487bee2e7f64ecf24d24b1224342484c0195ee1b7b943db50506c75747573436f696e0a",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://github.com/input-output-hk/offchain-metadata-tools/",
+        "signatures": [
+            {
+                "signature": "4486ae176cde86404eec9b682f6be17a1e04875ad455c25f2515bad2a9e2ff4cfbf4b1a8a764569d65c2d23574b7b4ccc24c726b585e5fe9abb80b6afa18fa03",
+                "publicKey": "2a5d4a3404e1384356e15c0e94bab56c58ac963833085b67d3df230d4de86ce1"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "PlutusCoin",
+        "signatures": [
+            {
+                "signature": "7fe8591043f597e8416f9d72b44828c69c2eb43f00d9f4e8ef6fc97414ea4123aa5ab538ab25361c7755161c5f92b199910f8ade15ec1b19a7d8eba8cef04907",
+                "publicKey": "2a5d4a3404e1384356e15c0e94bab56c58ac963833085b67d3df230d4de86ce1"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "PLT",
+        "signatures": [
+            {
+                "signature": "e74e10a60db19489cc060fb8c956d25fb41d10166452fba6275de0378a305151febf1efe2414d1d889b6824842bc953ddb8dfeddd9e4e8938ee588083f8bdd06",
+                "publicKey": "2a5d4a3404e1384356e15c0e94bab56c58ac963833085b67d3df230d4de86ce1"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 1,
+        "signatures": [
+            {
+                "signature": "bf7f5adbd93ad0c6d447a273606717ee7ba008355aa542208e38e0f975bb29b1948639b48779d33470c8e078285654dd402b285a956f04ac2646d36ca629c103",
+                "publicKey": "2a5d4a3404e1384356e15c0e94bab56c58ac963833085b67d3df230d4de86ce1"
+            }
+        ]
+    },
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "iVBORw0KGgoAAAANSUhEUgAAABkAAAAeCAYAAADZ7LXbAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACbUlEQVRIie3Vy0tUURzA8e855965c8lXUhlhEQVBSEmQRAURQbSIEqFl4N6/oHYtAhdtonatK8hVBCERZC+0jbZpIRVkIeagTJrO3Nd5tBhDMHOcGiHCA2dxHvDh9zs/fkc45xwbPORGA5tI/RFdGCL9MgAm/mNEVKuuaHA3OW+RlDb8zjt4O07VjFRPV8NBZC5PGMxj3/YQv7uGs7p+iJ5+ipgfIZr7hnWSXBjgT98iHr6IS+fqg7h0Dl8ZQpmQFKdJSmWkkuSj10TD3WCzv0f89m6S8BjWQehbVDpPWiojsASlEeLxG3WIJFtANneQei3EqpnMeWRxgtMahYGP/dhoqiry2+rKJh9i3l8l2KIRUlVQazDlRXTpOzIr43uQ7LlCvrO/9kjisT7Ehz6CBgtCki4sEC+ALpdQQUC+qQmXC3EO3NQAsHaP/QVx1mBnh5BKYpOYON2L6npJ/sw4svMRacmCc+TyOQwKGX/CRl9rQ4SQyPZeFqM27L7bhCcHUY37AVCtR7EtZ8EZhLN4vkIKhy1N1Ibo4ijq83UavAl04QmIFVekB1aDNQhnQFBZ14KABauRaFThHrrwbPmkPImYeQw6A5OBNRjnIxsPrIl4KzdUcwep9SFL8JVHNnqJeFcvyBCm7hJQBKPBZJWH334eGe5cE1m1hKM3l8nP3kcICVLiEEuXLfycQKpBnnhRtWmuWsLBkZtEucNYa8BkCJMiTFrJ/RLgHJjWc+vqyqsiMthGePo5SWsP2ohKWpamdZBqQbz1AvnjD6oCsI7/RM+8whTHljf8RrzWLlTLoXUB60LqMf6NP34T+T+RH/HOKLJ+ho1iAAAAAElFTkSuQmCC",
+        "signatures": [
+            {
+                "signature": "e8e2b28770e1bd0d953c6fc8ed97e46eddfb3a5ba78fd914b2652f8bd7757a81c20e2242a6b2d15f1b15974cb21e2ea646e6c58c99cb894ff4155b4977397209",
+                "publicKey": "2a5d4a3404e1384356e15c0e94bab56c58ac963833085b67d3df230d4de86ce1"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Test Plutus token",
+        "signatures": [
+            {
+                "signature": "eb4fa3da92d86e021d2d890bcd678515a93a822990b35481b1bdd9af2c50929cb63fc9965630ddeb5f7154e8e27655f3c39f867f6407e92374d02d9038e9c201",
+                "publicKey": "2a5d4a3404e1384356e15c0e94bab56c58ac963833085b67d3df230d4de86ce1"
+            }
+        ]
+    }
+}
