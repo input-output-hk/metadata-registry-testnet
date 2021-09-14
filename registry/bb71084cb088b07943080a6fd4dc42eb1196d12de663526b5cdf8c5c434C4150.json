@@ -1,0 +1,43 @@
+{
+    "subject": "bb71084cb088b07943080a6fd4dc42eb1196d12de663526b5cdf8c5c434C4150",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "testnet CLAP",
+        "signatures": [
+            {
+                "signature": "2166857a66b941bff8b8ca7b1ba27b53f0db03d74c943f47b4fabac0d1ca9c19a193e99ff3bc17813a0d1ee1dcdc6c740cb6a92e04d5a3a8b0aab4d2f60df00a",
+                "publicKey": "6a2eadc5ee1d8a090cd4230b4306a025d8cc01e5f8ab4523f041ece668c3ba80"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "tCLAP",
+        "signatures": [
+            {
+                "signature": "e9ba212cf853761b2b36afe71607ec32bc85c5625936f90e6eb2cdd5df6b1efe207a46af73f7fcdfea10479460b3672400baa8d534aa5c99991712d9c0d6e60a",
+                "publicKey": "6a2eadc5ee1d8a090cd4230b4306a025d8cc01e5f8ab4523f041ece668c3ba80"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 3,
+        "signatures": [
+            {
+                "signature": "dd116471222080eb59f7edeaf44880d63b07175fe0e28f2091a7d3248ce057f646c072617e0dedf3bd1ffcacc9c1a17fb732a567cdb7fe41fce6e76e30a95704",
+                "publicKey": "6a2eadc5ee1d8a090cd4230b4306a025d8cc01e5f8ab4523f041ece668c3ba80"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "testnet tokens of the CLAP project",
+        "signatures": [
+            {
+                "signature": "5aee7ac439f68980da43683ae74f99c7dd8bb291980d01d5ad21b0eb6d3a5b3a5b28c1731abe405cd3ecf53a7f003ee1cb2d955a91a8bdf97ac2d837ab478402",
+                "publicKey": "6a2eadc5ee1d8a090cd4230b4306a025d8cc01e5f8ab4523f041ece668c3ba80"
+            }
+        ]
+    }
+}
