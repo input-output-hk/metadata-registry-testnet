@@ -1,0 +1,34 @@
+{
+    "subject": "698a6ea0ca99f315034072af31eaac6ec11fe8558d3f48e9775aab9d7444524950",
+    "name": {
+        "sequenceNumber": 1,
+        "value": "tDRIP",
+        "signatures": [
+            {
+                "signature": "f85b48106165ef4786ed17683e51ed64191239dc999c0a94287fbf77ec94cf0c8e5e9bfc9ff2d23d19e35a9389548856b58ab145d33288a794f4c8669c576009",
+                "publicKey": "cc2ad30ece2a5b10d22edead11b84a2a677128a3c55aef965c4234ff3c10175d"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 1,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "d278455d7930151bd7b5124701ce970f382fc02538cc858acba2721c885893b9f75f6677f54792e0289a228d98b7ff25e8d746ffc227da98a199489e48e43304",
+                "publicKey": "cc2ad30ece2a5b10d22edead11b84a2a677128a3c55aef965c4234ff3c10175d"
+            }
+        ]
+    },
+    "policy": "82008200581c61a06d8b47d84d6e183b2dcd2105c78aead8d00b21bf3177f2af9265",
+    "description": {
+        "sequenceNumber": 1,
+        "value": "",
+        "signatures": [
+            {
+                "signature": "44ab6eb07f6937df67b8deed8a89ba41aef02c07869af090682ee1c75c2e8d4a2a05291c8df520145a2d5bd1f657561a3a71389137d16c36d2b95b5ab1c77801",
+                "publicKey": "cc2ad30ece2a5b10d22edead11b84a2a677128a3c55aef965c4234ff3c10175d"
+            }
+        ]
+    }
+}
