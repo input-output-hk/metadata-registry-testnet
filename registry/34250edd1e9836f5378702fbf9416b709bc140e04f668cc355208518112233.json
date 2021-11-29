@@ -1,0 +1,54 @@
+{
+    "subject": "34250edd1e9836f5378702fbf9416b709bc140e04f668cc355208518112233",
+    "url": {
+        "sequenceNumber": 2,
+        "value": "https://github.com/gitmachtl/scripts",
+        "signatures": [
+            {
+                "signature": "8fb9d085b21e47b3c1b74e339e81efe40f79aa6ae35b9abd0abb2bf27517140f8443665d50fe617160a078cea7e4514a290ab370b3573a75e36bfb0ebda4b80c",
+                "publicKey": "1287e9ce9e00a603d250b557146aa0581fc4edf277a244ce39d3b2f2ced5072f"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 2,
+        "value": "112233",
+        "signatures": [
+            {
+                "signature": "64714adde6d41df9d74ef594ae4e59653d2bc37edc620269341d8e7bd9707cea6da1d5441d8fce45c85d24dc6ed13412d81b610e4c666cfca7a6c63e9b011509",
+                "publicKey": "1287e9ce9e00a603d250b557146aa0581fc4edf277a244ce39d3b2f2ced5072f"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 2,
+        "value": "HEX",
+        "signatures": [
+            {
+                "signature": "5c5c9c03f97a1513128d5cf5e65eaf6c31708cff24819eb4a80f78a4d68dea3f2bac1084a1de89123487fb025de5bdec08e872eec3161d7b4b80ab48b95fe20f",
+                "publicKey": "1287e9ce9e00a603d250b557146aa0581fc4edf277a244ce39d3b2f2ced5072f"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 2,
+        "value": 1,
+        "signatures": [
+            {
+                "signature": "b317b5638ee3b22426f4142da22b2c9b174eb2d2ef3bc1036d3794b0de3360a35b8749aafe9ae42b896c737dc5ef40502450b46057645fe2c5a98cba6e53d204",
+                "publicKey": "1287e9ce9e00a603d250b557146aa0581fc4edf277a244ce39d3b2f2ced5072f"
+            }
+        ]
+    },
+    "policy": "82008200581c45d70e54f3b5e9c5a2b0cd417028197bd6f5fa5378c2f5eba896678d",
+    "description": {
+        "sequenceNumber": 2,
+        "value": "",
+        "signatures": [
+            {
+                "signature": "781d6a939fcd321da69943dcb8609710cba9b4c389d6ca57c89d5089a921dabe025a9db285c823a53d3d7332b3183ff5cd5868e91f423e3eb75e4abecf93950a",
+                "publicKey": "1287e9ce9e00a603d250b557146aa0581fc4edf277a244ce39d3b2f2ced5072f"
+            }
+        ]
+    }
+}
