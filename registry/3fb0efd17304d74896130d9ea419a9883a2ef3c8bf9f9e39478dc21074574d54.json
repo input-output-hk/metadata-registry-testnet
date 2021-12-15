@@ -1,0 +1,44 @@
+{
+    "subject": "3fb0efd17304d74896130d9ea419a9883a2ef3c8bf9f9e39478dc21074574d54",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Test WMT",
+        "signatures": [
+            {
+                "signature": "3dd421ad5ca3d9e54bd671a3b00d6a0f5ed0852064a668bcd85f686d1c4dcd999f6ab11ec2dc68c580a8fb071da2075301a22e0d0e103dcdac6a7c4d8a511107",
+                "publicKey": "0da174243d0f3a4bfbce93929c8afbff7e042a187616c6357a7b5964a304753e"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "TWMT",
+        "signatures": [
+            {
+                "signature": "5e2487fb8a111b2cb45fd7726eed94075f1f73e45b12d295ca3078ce955e1505b571eea29ca2b381e313ca1621d0a53466f901f3c54cf4a946f0e68993e7b703",
+                "publicKey": "0da174243d0f3a4bfbce93929c8afbff7e042a187616c6357a7b5964a304753e"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "bf2f848c0a7b14ae14805ee52c99fc6a84a8073397f91102c8432fb4bde65dc6d37af908e2a8c4683ac26bece6877403a9c1d9781a8bf954e1cd25ba945dfe06",
+                "publicKey": "0da174243d0f3a4bfbce93929c8afbff7e042a187616c6357a7b5964a304753e"
+            }
+        ]
+    },
+    "policy": "82018201828200581ca138f66febf711078d821c43df5e9d2b8f9affd737f521a80552866b82051a02b0a8a0",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Test WMT in Testnet",
+        "signatures": [
+            {
+                "signature": "52173ab9504fec3031446c3b4d6bd7f24f0e50dbd3ee673e04b81943028cf1744fdb40f7f498e2e6865655700bbb06beb05a2ec5dda2356616939d6895cb9306",
+                "publicKey": "0da174243d0f3a4bfbce93929c8afbff7e042a187616c6357a7b5964a304753e"
+            }
+        ]
+    }
+}
