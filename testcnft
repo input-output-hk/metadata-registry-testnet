@@ -1,0 +1,38 @@
+{
+  "subject": "39937e4047ebc6e242d223dd6fb389722cde214067dee0cb94e0b35e4f42524131",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Test of registration ART1.OBRA1",
+    "signatures": [
+      {
+        "signature": "391f77d26f920acad893a309aeaa20fbd4607d6d29cd8a1a39279dc02585d460cfc132be416a7ad6d7c84ae34e42af841459735e5a13fe10c72967435c059b0c",
+        "publicKey": "e4514d036b7eedeecf67f3348d3d04517bed755539065b70d04cabfac074bfea"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "ART1",
+    "signatures": [
+      {
+        "signature": "5378576ea4cf3bc9375c90a04e7455ba88bed32cb57c915d48e1a4bd283f3796a76213128d3a889820c9cf36b6ee20acb0533290a5e941f043d3e7a57e9db50f",
+        "publicKey": "e4514d036b7eedeecf67f3348d3d04517bed755539065b70d04cabfac074bfea"
+      }
+    ]
+  },
+  "policy": "82008200581cf735c622e8846ac23d579d6b71ff19505c51f17dcc1b16777c81886b",
+  "description": {
+    "sequenceNumber": 0,
+    "value": "Description during registration max 500 chars",
+    "signatures": [
+      {
+        "signature": "a86171857f3c9eebfba6737c5f616283f2ce458a0fb2048877ff2cdec17a997c329bb89694eed144c084a52ed78c931fc316040eac082df6ccb84956a743530e",
+        "publicKey": "e4514d036b7eedeecf67f3348d3d04517bed755539065b70d04cabfac074bfea"
+      }
+    ]
+  },
+  "tool": {
+    "description": "CNTools by Guild Operators",
+    "url": "https://cardano-community.github.io/guild-operators/Scripts/cntools"
+  }
+}
