@@ -1,0 +1,64 @@
+{
+    "subject": "dd043a63daf194065ca8c8f041337d8e75a08d8f6c469ddc1743d2f34d494c4b5348414b45",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://github.com/input-output-hk/offchain-metadata-tools/",
+        "signatures": [
+            {
+                "signature": "749d4f41605e9f9ea7056aafc17bd99cf9de47b9add13b3fd59fc27bc94eb0acce4e406b717d66284c555e375234213da3275bd6bdda820feb9f5d098e08240a",
+                "publicKey": "5dc11896969158540c05e8f127fb844617a83f0bad78b7c893c2b205a32c2f2d"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "MILKSHAKE",
+        "signatures": [
+            {
+                "signature": "beaff3d8546b893b060024c24571103a346563faeb6d93329dfd6a5759c98a753fc8d233dda0c41bd896639e191c6be5014434c2c49b3269826895818fd35303",
+                "publicKey": "5dc11896969158540c05e8f127fb844617a83f0bad78b7c893c2b205a32c2f2d"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "MILKSHAKE",
+        "signatures": [
+            {
+                "signature": "9609a0f314195958a089526e6547e74803df82dac10aa1b8c45ce729e91dce16f31a9aadf59283681f74d33b6f36c56f8efac24b914ea849f521753c9a4f7205",
+                "publicKey": "5dc11896969158540c05e8f127fb844617a83f0bad78b7c893c2b205a32c2f2d"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 9,
+        "signatures": [
+            {
+                "signature": "8849c21c9ffa31966e1c7bb98955a68840955efeca2b9a9836076be8ca26449ff6d4a60ec0f935b9f723377d462fdcaec8b0595c945fa1ccc86f68c3ad04cb06",
+                "publicKey": "5dc11896969158540c05e8f127fb844617a83f0bad78b7c893c2b205a32c2f2d"
+            }
+        ]
+    },
+    "policy": "82008201818200581c1879d8d3ac3a6cf9aedcc8b8d9133374f51a434622a5011d906c1529",
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "iVBORw0KGgoAAAANSUhEUgAAABkAAAAeCAYAAADZ7LXbAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACbUlEQVRIie3Vy0tUURzA8e855965c8lXUhlhEQVBSEmQRAURQbSIEqFl4N6/oHYtAhdtonatK8hVBCERZC+0jbZpIRVkIeagTJrO3Nd5tBhDMHOcGiHCA2dxHvDh9zs/fkc45xwbPORGA5tI/RFdGCL9MgAm/mNEVKuuaHA3OW+RlDb8zjt4O07VjFRPV8NBZC5PGMxj3/YQv7uGs7p+iJ5+ipgfIZr7hnWSXBjgT98iHr6IS+fqg7h0Dl8ZQpmQFKdJSmWkkuSj10TD3WCzv0f89m6S8BjWQehbVDpPWiojsASlEeLxG3WIJFtANneQei3EqpnMeWRxgtMahYGP/dhoqiry2+rKJh9i3l8l2KIRUlVQazDlRXTpOzIr43uQ7LlCvrO/9kjisT7Ehz6CBgtCki4sEC+ALpdQQUC+qQmXC3EO3NQAsHaP/QVx1mBnh5BKYpOYON2L6npJ/sw4svMRacmCc+TyOQwKGX/CRl9rQ4SQyPZeFqM27L7bhCcHUY37AVCtR7EtZ8EZhLN4vkIKhy1N1Ibo4ijq83UavAl04QmIFVekB1aDNQhnQFBZ14KABauRaFThHrrwbPmkPImYeQw6A5OBNRjnIxsPrIl4KzdUcwep9SFL8JVHNnqJeFcvyBCm7hJQBKPBZJWH334eGe5cE1m1hKM3l8nP3kcICVLiEEuXLfycQKpBnnhRtWmuWsLBkZtEucNYa8BkCJMiTFrJ/RLgHJjWc+vqyqsiMthGePo5SWsP2ohKWpamdZBqQbz1AvnjD6oCsI7/RM+8whTHljf8RrzWLlTLoXUB60LqMf6NP34T+T+RH/HOKLJ+ho1iAAAAAElFTkSuQmCC",
+        "signatures": [
+            {
+                "signature": "35eb1e2abbd5220479e814df6efa4e1aa78d7da6734d62c32e668c01dbecb773668fca3756b5d078d32a66b24f6340224681b2d41c1f0b79adbd6b1ddad57003",
+                "publicKey": "5dc11896969158540c05e8f127fb844617a83f0bad78b7c893c2b205a32c2f2d"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "9 digits ticker",
+        "signatures": [
+            {
+                "signature": "d5c3a820415b895cf9baf543f7c59b531ff83a0abd44d1758385810adfab4f52e5b2c5f9d300ed794ee62296e3497933c5b0430b85942d63cebeb0ad9ee06d0b",
+                "publicKey": "5dc11896969158540c05e8f127fb844617a83f0bad78b7c893c2b205a32c2f2d"
+            }
+        ]
+    }
+}
