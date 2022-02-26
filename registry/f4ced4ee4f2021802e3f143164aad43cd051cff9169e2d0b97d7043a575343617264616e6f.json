@@ -1,0 +1,54 @@
+{
+    "subject": "f4ced4ee4f2021802e3f143164aad43cd051cff9169e2d0b97d7043a575343617264616e6f",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://altzpool.com/WSCardano",
+        "signatures": [
+            {
+                "signature": "21ba605d5c16c487abb38f2f4df642687c05be3668c7a8d7ad03baa960363634df34e6658008611576c16d1e97d67d2361d004e1d7e824d74d4d8c9c725caa02",
+                "publicKey": "bdb534f938bdced196555c6a6c9f4253d019261b994b1f2c00ac25aa875d23cf"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Wattering System",
+        "signatures": [
+            {
+                "signature": "994040e0fbae2f86bddd801d9cffc7fd65f496cd85b4b8c38cd1b64566d255a6b2ee6ef8a251a7dba7a385453cc3251bfcc54745f4038443d27356eabe55400c",
+                "publicKey": "bdb534f938bdced196555c6a6c9f4253d019261b994b1f2c00ac25aa875d23cf"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "WSCAR",
+        "signatures": [
+            {
+                "signature": "15c7722d18c970b3820259028f68fa7c332a84e70c01721d64a5dcd0267f2381f179811c8548c4b2ad7bcbef12952ea9cdd859a25a71170344dfd72e57ed1100",
+                "publicKey": "bdb534f938bdced196555c6a6c9f4253d019261b994b1f2c00ac25aa875d23cf"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "c5ae97a31d9979052ce17ed2ef0bc8b40a717f52a16a4b5ee4047615c2f28d9a60e0b5f1393d30178283cf719552a37da82b5e1308489c850986e6c866615a03",
+                "publicKey": "bdb534f938bdced196555c6a6c9f4253d019261b994b1f2c00ac25aa875d23cf"
+            }
+        ]
+    },
+    "policy": "820182018282051a024b2f168200581ce4ee7533116483f01ddeeb150aecd5e954b739eb8e0ae8ccdc6e5ce2",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Funds for wattering system of Cardano symbol.",
+        "signatures": [
+            {
+                "signature": "b1a05581c2112e9bd6662ba83fea51b33002b3027673d7fecb1da5bad0f0e0176010b3fe3b5a9130347ac6dcebd7d3bd25cfc6eae7616e32ff084387d0f1140f",
+                "publicKey": "bdb534f938bdced196555c6a6c9f4253d019261b994b1f2c00ac25aa875d23cf"
+            }
+        ]
+    }
+}
