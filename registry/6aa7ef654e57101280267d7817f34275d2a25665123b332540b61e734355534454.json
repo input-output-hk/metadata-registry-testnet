@@ -1,0 +1,74 @@
+{
+    "subject": "6aa7ef654e57101280267d7817f34275d2a25665123b332540b61e734355534454",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://cbtcbridge.com",
+        "signatures": [
+            {
+                "signature": "1d9bcd5e687cf7b910ae7dc219acd58aa2a11e22b48a3566023b23c3d012130ec532e86889e6d6e7cfd5fa3a51a267900a1a67ca0383706d1f6bc27dbe91ed00",
+                "publicKey": "65192fbb7b34a9caa1e0d5beefdc6af70a54df5cf31314adf375847157533673"
+            },
+            {
+                "signature": "b0baed0f780e3ff26bb3f2078793070b5061e5707fc0665b7b0acc966f98a15bbb494cf4af488d303780f9cb3d558791abfa1330487db68dee68f9736025ef0c",
+                "publicKey": "cea3b16e61c1fe41d97d04c3d8e02aa4e9d0eb3870d435116046a612bfdbe204"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "CUSDT",
+        "signatures": [
+            {
+                "signature": "addfc3f65d4a7037859137a6a259107c5c6c768bee06632cf3ae9216ad4f646aa0d8e6a352cae0d8db73037405435d1af99032367e0da38f8358ad359a547504",
+                "publicKey": "65192fbb7b34a9caa1e0d5beefdc6af70a54df5cf31314adf375847157533673"
+            },
+            {
+                "signature": "2bc18285b8436b2b5be705d8744a0ad3cce41402da10e8e5bde3feda9b058a252d2d3f965ef461f96d083a8f897ba150b246b50e4179420b8ac7a4b32e427201",
+                "publicKey": "cea3b16e61c1fe41d97d04c3d8e02aa4e9d0eb3870d435116046a612bfdbe204"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "USDT",
+        "signatures": [
+            {
+                "signature": "2e0d2590df41dc410142f8f085d0a497b2609c3482f5b60b69da3f2d26748c6f93410d1704e0bd6c21dc928c3c418f6cdeb948df0ebd7261b091640b2ef8e505",
+                "publicKey": "65192fbb7b34a9caa1e0d5beefdc6af70a54df5cf31314adf375847157533673"
+            },
+            {
+                "signature": "65fb346a824d8778addc436c0fa63422cd32a39fda974ba81155444e485fd5a4efc1f9d462a75e82b153ff2629aa2591fdc69ba1bc6a38aafb6be8cf0347ca07",
+                "publicKey": "cea3b16e61c1fe41d97d04c3d8e02aa4e9d0eb3870d435116046a612bfdbe204"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "19eb7d1525c219a9a2b90f4e0157d8f8fbb9ab431daf7f562c4e7323a32543986ad48b4a4136ce02fbc4d90de61b78d2959c5c32023d2aad45d397a82cf78f02",
+                "publicKey": "65192fbb7b34a9caa1e0d5beefdc6af70a54df5cf31314adf375847157533673"
+            },
+            {
+                "signature": "0829ba41a610f047d444cc058bc53f7bb5a609135d96da805510890ab702e65a8ab069c011d2062564b3e8c1e2f354fde559ab26085a1a96e587e5ed40455502",
+                "publicKey": "cea3b16e61c1fe41d97d04c3d8e02aa4e9d0eb3870d435116046a612bfdbe204"
+            }
+        ]
+    },
+    "policy": "8200830302838200581c079c40b9c486196e06e41550711dccdce5e8de6e43940857f00b9d408200581cb7e0ffd7b33a4ceff508bfbdcc2d36f55244b0ebd4c0b3b5b8c6016b8200581ce7a155582643489886d7fd72883c6068b86d963a65f4d60a1551239e",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "usdt on cardano",
+        "signatures": [
+            {
+                "signature": "3b42ad22970020645677483c691248cad351d13aab1506ec227c8769ce6650042d3ed3feedaf6a90e0bc94a9e0789cf7195cad862a4ac2feaa35f0d6ccf4d600",
+                "publicKey": "65192fbb7b34a9caa1e0d5beefdc6af70a54df5cf31314adf375847157533673"
+            },
+            {
+                "signature": "07bf085f2bd3972cc282c726436943bb8c43d92a9a4798f765ea8f8f5a757c2544501e9490baa5d802797a6fda43fc63aae459aade80e7a5e7246f2bfaf06503",
+                "publicKey": "cea3b16e61c1fe41d97d04c3d8e02aa4e9d0eb3870d435116046a612bfdbe204"
+            }
+        ]
+    }
+}

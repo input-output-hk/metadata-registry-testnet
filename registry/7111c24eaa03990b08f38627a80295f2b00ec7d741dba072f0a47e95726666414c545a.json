@@ -1,0 +1,48 @@
+{
+  "subject": "7111c24eaa03990b08f38627a80295f2b00ec7d741dba072f0a47e95726666414c545a",
+  "url": {
+    "sequenceNumber": 1,
+    "value": "https://altzpool.com",
+    "signatures": [
+      {
+        "signature": "0fde1bafc50867d0357af2f0cdf1665cf18b68bd7479234d42071367037055e3305ae1f0d18d6f11d11e2815938c067f5f35dc0d96572416e04b5da2b4aa770f",
+        "publicKey": "7a73fac17241e972a5b0c133644b1a255e6ed75300baa03bff9218f5816c8a0a"
+      }
+    ]
+  },
+  "name": {
+    "sequenceNumber": 1,
+    "value": "rffALTZ",
+    "signatures": [
+      {
+        "signature": "6cf2dedc0c19dd2f505b53407ee2b82fc004dc6fc49d6655a81236b9c8b389ec8c6a5f7a0279230a02e8474c3f7064eff2dd3fb60b7df6417be83216f214d500",
+        "publicKey": "7a73fac17241e972a5b0c133644b1a255e6ed75300baa03bff9218f5816c8a0a"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 1,
+    "value": "Trff",
+    "signatures": [
+      {
+        "signature": "1cfd975315857028b4cc832b317c6f26285411ff1ec915bf2d272bc10a0ac879390232e3c81301a7db7e855190b337aced059ed72944fbe3278d4e0854ccf50b",
+        "publicKey": "7a73fac17241e972a5b0c133644b1a255e6ed75300baa03bff9218f5816c8a0a"
+      }
+    ]
+  },
+  "policy": "82008200581c90047a2a17829dabfb5cf5ae7352bb8ceb8da26927a5d604861a36c4",
+  "description": {
+    "sequenceNumber": 1,
+    "value": "Test description of rffALTZ max. 500 chars",
+    "signatures": [
+      {
+        "signature": "1d866ee67038a023a1d0cbcc5e8a15a79bf73743dd62ceb1bc461e7f90922fe9b87f9eed7058d3392d39f7bb90e31b8606d3c9386eb92bfb49a9e803c643a407",
+        "publicKey": "7a73fac17241e972a5b0c133644b1a255e6ed75300baa03bff9218f5816c8a0a"
+      }
+    ]
+  },
+  "tool": {
+    "description": "CNTools by Guild Operators",
+    "url": "https://cardano-community.github.io/guild-operators/Scripts/cntools"
+  }
+}
