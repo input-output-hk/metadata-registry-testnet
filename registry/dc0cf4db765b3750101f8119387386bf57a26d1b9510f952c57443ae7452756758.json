@@ -1,30 +1,40 @@
 {
-    "policy": "820182018282051a05515d228200581c7792d915283520064815c139022f035732402bec7840379aa1eb39e0",
+    "policy": "82008200581c2bdf5cb1767c893bec13b34afb33d06aaa0924702b802313c615b595",
     "name": {
         "signatures": [
             {
-                "publicKey": "02ad242624a7174a2bba016ebe930a7beb7b2556193f0497808af63653bf397f",
-                "signature": "466141e9d9ef7be030599739575f77e144eb802d4371932a093af3ab5ce3026e5aa4fc02c0391a1f9483bf95da45da4fb7edf9d8d4f51a5d6f632e1b1540d80f"
+                "publicKey": "2090f2a9cfabd35372e0d80d975786679ad4386c23a821bb02504795d6af67be",
+                "signature": "a670e11c38cbd452cae36ad67cc0f59472fa7b916c936f33851496ad169e0dc83945784841d4ead8c3e139971ece599e62ab2b3e38e46da62bfc26209ba2c405"
             }
         ],
         "sequenceNumber": 0,
         "value": "tRugX"
     },
-    "description": {
+    "url": {
         "signatures": [
             {
-                "publicKey": "02ad242624a7174a2bba016ebe930a7beb7b2556193f0497808af63653bf397f",
-                "signature": "a731a5087d889fb0defabf992bd472615173f345e5677210d2c61d48a53bd3b936f1e5d9a2ecc6ccce2a87d3c43d5b1b0cb484eccf3fbdc11c50331116b2300c"
+                "publicKey": "2090f2a9cfabd35372e0d80d975786679ad4386c23a821bb02504795d6af67be",
+                "signature": "b53e2672fdbd9fa3f7c92973bb668f4029473436335a4df660a05ad3349ab64fe0eeab7982cc91ca5399e074e308788d8a60d98d6830d3d997f41beab4184b03"
             }
         ],
         "sequenceNumber": 0,
-        "value": "Test RugX Token"
+        "value": "https://rugx.io"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "2090f2a9cfabd35372e0d80d975786679ad4386c23a821bb02504795d6af67be",
+                "signature": "306483d47a5d2e5f5d65e4dd9f95378b20c0dca2c5c35580d819582e54cc944014e1265097018d01353b9cbea2e9b1855dda27354aaa94b15e92cda064f2fc0b"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Insurance tokens for CNFTs"
     },
     "logo": {
         "signatures": [
             {
-                "publicKey": "02ad242624a7174a2bba016ebe930a7beb7b2556193f0497808af63653bf397f",
-                "signature": "d81923707277e9e7915c4733dac585df43dc665e8fd18f21aaefc948ac94aa8d94169704a80fae059013b14181126e004290cbad31650cd532ea6f477c7ea206"
+                "publicKey": "2090f2a9cfabd35372e0d80d975786679ad4386c23a821bb02504795d6af67be",
+                "signature": "f7dedc25baf16732009a1810045cf34caa093d42a8ab8c6b8b705241b8bca39e2612723e8e7f750b4881ff1e67dc2fca91b8a317e5196e1b619427102613000e"
             }
         ],
         "sequenceNumber": 0,
@@ -33,12 +43,12 @@
     "ticker": {
         "signatures": [
             {
-                "publicKey": "02ad242624a7174a2bba016ebe930a7beb7b2556193f0497808af63653bf397f",
-                "signature": "20b8decc3acec091afcd683184a33a0f25915d3871520ca8013268d21c25b5f201eb46a10649f8e905e0f015698a4070d2d007a0fd17b3835eef14bc86b02306"
+                "publicKey": "2090f2a9cfabd35372e0d80d975786679ad4386c23a821bb02504795d6af67be",
+                "signature": "6ab4f9314995282c5414c18cca5e08b14a20da85117b32ac1cd0dfcf9a776e1351ee61bbd65ae68bcae4a75c9b3f70e60481f6ed67c42c2d509c15654dd5010b"
             }
         ],
         "sequenceNumber": 0,
         "value": "tRugX"
     },
-    "subject": "edd38c762bc6aa1db2b776d7ceddc8fe36aa221ef502650811200d537452756758"
+    "subject": "dc0cf4db765b3750101f8119387386bf57a26d1b9510f952c57443ae7452756758"
 }
