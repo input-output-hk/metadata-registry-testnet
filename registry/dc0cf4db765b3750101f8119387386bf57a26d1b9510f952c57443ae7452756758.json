@@ -50,5 +50,15 @@
         "sequenceNumber": 0,
         "value": "tRugX"
     },
-    "subject": "dc0cf4db765b3750101f8119387386bf57a26d1b9510f952c57443ae7452756758"
+    "subject": "dc0cf4db765b3750101f8119387386bf57a26d1b9510f952c57443ae7452756758",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "2090f2a9cfabd35372e0d80d975786679ad4386c23a821bb02504795d6af67be",
+                "signature": "c91cbd26dce4c82f9d5cab99a1c2930a53b98b9d144843b837f429e02a371e62c8dd4c0328037c409cbd044d3ebac426221e41603d217b5fe2c7d8ea76394d08"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 4
+    }
 }
