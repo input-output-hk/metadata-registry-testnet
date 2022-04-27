@@ -1,0 +1,23 @@
+{
+    "subject": "777e6b4903dab74963ae581d39875c5dac16c09bb1f511c0af1ddda8627272486f736b79",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "brrHosky",
+        "signatures": [
+            {
+                "signature": "49a62eab5ae843dbe06cf9c5342206fcbfa1fe560cf58e0c4ad9ace9b921b3e145985b0bd6deae27e4b102954ed695db35b7892e142b231b006687a635cfe700",
+                "publicKey": "434f0fceef40393f76e76c24a5f36e05760cb0a059d0e0f057a16e575f959595"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Just brrHosky token.",
+        "signatures": [
+            {
+                "signature": "524ff5878c683958349c7def39ab748ba2245b7527364a6c85665125970c57dc000a07e729232e066f294d7b2fe456e09fc593b39b8146f04743d8898d0cd105",
+                "publicKey": "434f0fceef40393f76e76c24a5f36e05760cb0a059d0e0f057a16e575f959595"
+            }
+        ]
+    }
+}
