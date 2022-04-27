@@ -22,10 +22,10 @@
     },
     "ticker": {
         "sequenceNumber": 0,
-        "value": "aMIN",
+        "value": "aAADA",
         "signatures": [
             {
-                "signature": "bc1e3342cfae7f941275fdc709c3838c546ca601d66d4fb131125ba8cbbc66cc78ec2c424a8f09cc5ecd3db3ff32455c31da24fd1eceea865e2925a0d06e7409",
+                "signature": "0a1a6cf6d6bce9cf3d428642168761f2635f0dde4804c2b1b54c27fee0c6d1efd1f74656d5a33885055f306a0814243d01285670ad04c68e90194f6626b4730a",
                 "publicKey": "434f0fceef40393f76e76c24a5f36e05760cb0a059d0e0f057a16e575f959595"
             }
         ]
@@ -52,10 +52,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "MIN token minted by Aada.",
+        "value": "aMIN token minted by Aada.",
         "signatures": [
             {
-                "signature": "b40d4c471d0ba2fcda953d0386ba773186c265263a293f6a12e9f92bea035828f24d15bbe1b0962c29374208cf3a4ce377fadda5771cfc55178118f87b26440f",
+                "signature": "7e007bc9480d1310a545705bb4493f7b2bf554645ef74d1febb450e39bc525976e7eed0976222bd0a5792a4a0d3ade8f05eb538193d96bf7bc0f8c5336bfd300",
                 "publicKey": "434f0fceef40393f76e76c24a5f36e05760cb0a059d0e0f057a16e575f959595"
             }
         ]
