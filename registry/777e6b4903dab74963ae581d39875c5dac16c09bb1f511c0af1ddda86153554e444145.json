@@ -1,0 +1,23 @@
+{
+    "subject": "777e6b4903dab74963ae581d39875c5dac16c09bb1f511c0af1ddda86153554e444145",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "aSUNDAE",
+        "signatures": [
+            {
+                "signature": "17fe19c7732c13afbef8e920140e0d802f9d4f82aabd94ce30aa3149ec62e025f12489397449a6a82c3ea43ddb7cc11219c51b126943ff5a9404fbea82c71e07",
+                "publicKey": "434f0fceef40393f76e76c24a5f36e05760cb0a059d0e0f057a16e575f959595"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "SUNDAE token minted by Aada.",
+        "signatures": [
+            {
+                "signature": "71ae30644927bb1c707fd676a7232138786ae4c01cf80d80172d9ec73e08b1237bfbebf9b03d7b5a942b0fb1e89d986b9fe059be19387142f63a080527756b07",
+                "publicKey": "434f0fceef40393f76e76c24a5f36e05760cb0a059d0e0f057a16e575f959595"
+            }
+        ]
+    }
+}
