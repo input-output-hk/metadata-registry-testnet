@@ -1,0 +1,54 @@
+{
+    "subject": "403384bac7314b4442dc2983ade3a679a0c56503596029fad5c941c044696e676f54657374",
+    "url": {
+        "sequenceNumber": 1,
+        "value": "https://www.cardingo.io",
+        "signatures": [
+            {
+                "signature": "7d1f83415eda30be04395818aa84676e87726c633cd7c7f9e8bf7c01b3d2575dc5fef8d1713e460d977c6f2bf667a88dab87786dd5aa5718a6f1eebacee5ad04",
+                "publicKey": "cf1763dcb3831ef5c90a11a4f17f2579e436d977ee2bcbe6c815b232544716e7"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 1,
+        "value": "44696e676f54657374",
+        "signatures": [
+            {
+                "signature": "83c807c3206909dc8a979609bf870d2c15d1ae15f7090c43585114778ee5d0d7002cb9387108fd4309d2e04f4dd7680a7454dc627e40ff6e3da005b18f9d1609",
+                "publicKey": "cf1763dcb3831ef5c90a11a4f17f2579e436d977ee2bcbe6c815b232544716e7"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 1,
+        "value": "dingoTest",
+        "signatures": [
+            {
+                "signature": "592be6469db6094640c8e5405f26cc7f146d41adbf85503048dbfa5c6e77a2981ac2b9fa47b32af57d859c194ff96be432e330e4dc33856e84ce7dd122d22a06",
+                "publicKey": "cf1763dcb3831ef5c90a11a4f17f2579e436d977ee2bcbe6c815b232544716e7"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 1,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "6c51045a548cfc5b2394d013c894a2081c553e1da89fcbc1348f62af57758590d80be5efc0ead9366370ecb8b91c6a9b2ce57cea73a786469d48c2fcbb010e09",
+                "publicKey": "cf1763dcb3831ef5c90a11a4f17f2579e436d977ee2bcbe6c815b232544716e7"
+            }
+        ]
+    },
+    "policy": "820182018282051a0450836c8200581cecd63d3433376e2c1c76d3b8de97e15d0c419c84dc0779103d62ef2f",
+    "description": {
+        "sequenceNumber": 1,
+        "value": "Token for the Cardingo ecosystem",
+        "signatures": [
+            {
+                "signature": "89b0984eefe22066cd29f8cd0e8f0eeba2b2d01a5da4bc1148237ab066ff693abfab3abd9f4271a1194475cc985e337b53ed1ec9d64b381092ab1c5838e1f20a",
+                "publicKey": "cf1763dcb3831ef5c90a11a4f17f2579e436d977ee2bcbe6c815b232544716e7"
+            }
+        ]
+    }
+}
