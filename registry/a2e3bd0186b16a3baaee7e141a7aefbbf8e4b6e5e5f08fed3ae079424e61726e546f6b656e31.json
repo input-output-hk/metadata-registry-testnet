@@ -1,0 +1,24 @@
+{
+    "policy": "82008200581cb3fb2547bb6b7736e7f1e50fa19b651ee6f38dcfbdf15246a9372993",
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "6815fc1a9c49cb3938ba9d2eedfa4a5202e54aa8ff7855b0560e531ceb5de959",
+                "signature": "80a079db237706177d88b7694821126e760a17f854aa5c3f3410fb1d580ac7d5f5221d8032277fd4a4e74e85521c5c78b3528f42e9a007434f58a107f151e40e"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "NarnToken1"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "6815fc1a9c49cb3938ba9d2eedfa4a5202e54aa8ff7855b0560e531ceb5de959",
+                "signature": "eeda444576bc8e6d2c68525184d31accbd5e6705b3a375b0be169051d1c0436db7dd708e716d0a74d14709f2036c0267f2a4e0678efd524627cacd177518980e"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "The un-offical currency of Narn Token"
+    },
+    "subject": "a2e3bd0186b16a3baaee7e141a7aefbbf8e4b6e5e5f08fed3ae079424e61726e546f6b656e31"
+}
