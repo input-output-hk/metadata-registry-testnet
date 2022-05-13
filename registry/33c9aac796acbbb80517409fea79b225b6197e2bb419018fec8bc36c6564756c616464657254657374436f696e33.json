@@ -1,0 +1,64 @@
+{
+    "subject": "33c9aac796acbbb80517409fea79b225b6197e2bb419018fec8bc36c6564756c616464657254657374436f696e33",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://eduladder.com",
+        "signatures": [
+            {
+                "signature": "bb772cacf5406d5144359d6a86daeb4d5943dce93e604b28efeb7bdc444515d2bf27dca1955f5ef0b2ae1700619cdb03edb2b149b030b11598f4e2fff7831a05",
+                "publicKey": "8180a0be0275e36ed6acc8da61c22853c24ae23a12799d23ac99f0fd692adb5d"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Eduladder",
+        "signatures": [
+            {
+                "signature": "d5df02f75df10573e9c0ecb8f74d57d094cb41c194dbb5b3ce601b161f7c319afad01cd896e2a6a3fd2f6b9cbaa51f7d3fe0f6e590dd5ef9e11ed9135cf74d0d",
+                "publicKey": "8180a0be0275e36ed6acc8da61c22853c24ae23a12799d23ac99f0fd692adb5d"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "ELD",
+        "signatures": [
+            {
+                "signature": "15ae46bc565b579e51a5b38ae8dc91daf40928cf8e676aeab56a45de50aebb7d3620fe4364ddcbc62750a96389d58eea96b4f1e6ca2e50daf3b8602f64bcbc06",
+                "publicKey": "8180a0be0275e36ed6acc8da61c22853c24ae23a12799d23ac99f0fd692adb5d"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "6f86b2295d95b75e74884890718377c8c4634b5cac32e5a55bb86ce185d1cdb933f4add71c0bba6d814ba751cff16e1406118628787e0dfe34134aae28b75f0a",
+                "publicKey": "8180a0be0275e36ed6acc8da61c22853c24ae23a12799d23ac99f0fd692adb5d"
+            }
+        ]
+    },
+    "policy": "82008201818200581c136beaf0c6dbf8398bb3ef337194689550b6700f026f2b2c29d7bba8",
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "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",
+        "signatures": [
+            {
+                "signature": "505f1e0ed4d00565605a5a2a49db9c11f53bf320a820bda1f40ba064d2713a19e7e65c8e7951dab36ac3d2e66257d6d4ff3553fac14963e284fc4bcdb9057002",
+                "publicKey": "8180a0be0275e36ed6acc8da61c22853c24ae23a12799d23ac99f0fd692adb5d"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Proof Of Participation Token",
+        "signatures": [
+            {
+                "signature": "421932d69bbc5ca1a5488e32106e2e6b65ab03edef8a2215a87896f6648c7c998cf0778d809df29788b8bd91b4a0559c2de62f1b3ed841e7adac1e9dee0cac00",
+                "publicKey": "8180a0be0275e36ed6acc8da61c22853c24ae23a12799d23ac99f0fd692adb5d"
+            }
+        ]
+    }
+}
