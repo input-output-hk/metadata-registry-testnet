@@ -11,10 +11,6 @@
             {
                 "signature": "a34fe8c6924dd866d99f0962daef38e0c3220ddb363da1917d6a431430f0b81dd91224566487d39727b091e7912fac26b765e53943328d7a81ac757fb649e70b",
                 "publicKey": "33d2e924aa247317073f7ec0ed7419732118c7a762997e6ead08957976dfde4d"
-            },
-            {
-                "signature": "a34fe8c6924dd866d99f0962daef38e0c3220ddb363da1917d6a431430f0b81dd91224566487d39727b091e7912fac26b765e53943328d7a81ac757fb649e70b",
-                "publicKey": "33d2e924aa247317073f7ec0ed7419732118c7a762997e6ead08957976dfde4d"
             }
         ]
     },
@@ -22,10 +18,6 @@
         "sequenceNumber": 0,
         "value": "CNC Token",
         "signatures": [
-            {
-                "signature": "0df171d34080f1179356a4c78720bef848a60f3d5e680f6bc4e797477f6fa0350efe9c7ab103eb046135480e0294e5c43ad62164e27058d3dc110ba98204c504",
-                "publicKey": "33d2e924aa247317073f7ec0ed7419732118c7a762997e6ead08957976dfde4d"
-            },
             {
                 "signature": "0df171d34080f1179356a4c78720bef848a60f3d5e680f6bc4e797477f6fa0350efe9c7ab103eb046135480e0294e5c43ad62164e27058d3dc110ba98204c504",
                 "publicKey": "33d2e924aa247317073f7ec0ed7419732118c7a762997e6ead08957976dfde4d"
@@ -47,10 +39,6 @@
             {
                 "signature": "b93d3181ef21b314c8916c5f8a755a2103f78f74c40ad8eaf829652d6bd30766c80d8f40fb48b4da368c5ff19af049f135b819706e2a4957ec68bc1d44b9ab05",
                 "publicKey": "33d2e924aa247317073f7ec0ed7419732118c7a762997e6ead08957976dfde4d"
-            },
-            {
-                "signature": "b93d3181ef21b314c8916c5f8a755a2103f78f74c40ad8eaf829652d6bd30766c80d8f40fb48b4da368c5ff19af049f135b819706e2a4957ec68bc1d44b9ab05",
-                "publicKey": "33d2e924aa247317073f7ec0ed7419732118c7a762997e6ead08957976dfde4d"
             }
         ]
     },
@@ -58,10 +46,6 @@
         "sequenceNumber": 0,
         "value": 6,
         "signatures": [
-            {
-                "signature": "e4b900fc498dd4a52f50f3bc9f8f7ea8f7fa2111f1c505f8dfa1f4357a744631193096e1b4a224d43ff86d9e1a26af19e371ad6bf37ce6c965ff81a16799c609",
-                "publicKey": "33d2e924aa247317073f7ec0ed7419732118c7a762997e6ead08957976dfde4d"
-            },
             {
                 "signature": "e4b900fc498dd4a52f50f3bc9f8f7ea8f7fa2111f1c505f8dfa1f4357a744631193096e1b4a224d43ff86d9e1a26af19e371ad6bf37ce6c965ff81a16799c609",
                 "publicKey": "33d2e924aa247317073f7ec0ed7419732118c7a762997e6ead08957976dfde4d"
@@ -84,10 +68,6 @@
             {
                 "signature": "d29f56f611fd0bbc28f40aaa223a4a6d9529d5d1bc54db5697e257b8eba0f5017a8920de65be44f1dc51d990022d55263cca87fdb4d1fb17019e972906c83d00",
                 "publicKey": "33d2e924aa247317073f7ec0ed7419732118c7a762997e6ead08957976dfde4d"
-            },
-            {
-                "signature": "d29f56f611fd0bbc28f40aaa223a4a6d9529d5d1bc54db5697e257b8eba0f5017a8920de65be44f1dc51d990022d55263cca87fdb4d1fb17019e972906c83d00",
-                "publicKey": "33d2e924aa247317073f7ec0ed7419732118c7a762997e6ead08957976dfde4d"
             }
         ]
     },
@@ -95,10 +75,6 @@
         "sequenceNumber": 0,
         "value": "Climate Neutral Cardano",
         "signatures": [
-            {
-                "signature": "6de66de241bb618722956c134c0a41543b75e6bd40c70cc8878372a2af8a3cd80b2844a2dee9caecf4cfdcf813a38933797ccd109eb6cc423bce8854a8af6506",
-                "publicKey": "33d2e924aa247317073f7ec0ed7419732118c7a762997e6ead08957976dfde4d"
-            },
             {
                 "signature": "6de66de241bb618722956c134c0a41543b75e6bd40c70cc8878372a2af8a3cd80b2844a2dee9caecf4cfdcf813a38933797ccd109eb6cc423bce8854a8af6506",
                 "publicKey": "33d2e924aa247317073f7ec0ed7419732118c7a762997e6ead08957976dfde4d"
