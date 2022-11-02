@@ -1,0 +1,43 @@
+{
+    "subject": "bf5af994d2a83247824ed02d9844048154b7fe3aa4c449ff63dc80e44d65746154657374436f696e",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "TestMetadataCoin",
+        "signatures": [
+            {
+                "signature": "d2891cb8d053e38dd6e9bb8324f5fd0497c6d9036e99074c4081356e18b9b66ed55e553a40b081a2841e2343f99f9db092fc490c1dce23fe9f703411e5a87802",
+                "publicKey": "1a4b340baeadf00f9d19b9b5915a35e5fd9a850771410e70c12d225f4d3f57ae"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "TESTMETA",
+        "signatures": [
+            {
+                "signature": "95d2ebc175baa572cd3b8cae749f0c6ac194ad978de5f57006cf124d8768232bde6a48618efbea033f19523c74aeb7ce7bfa8733b304e687dc18aae421558008",
+                "publicKey": "1a4b340baeadf00f9d19b9b5915a35e5fd9a850771410e70c12d225f4d3f57ae"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 3,
+        "signatures": [
+            {
+                "signature": "53ef75666e89a8d371dddb98f32c8156186d01b27729f48481433caf25e5d3b5dec53acdcef17280f59f376d9fdb595d805987eb83a3cb0bf1251dd878a6b90b",
+                "publicKey": "1a4b340baeadf00f9d19b9b5915a35e5fd9a850771410e70c12d225f4d3f57ae"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Test Metadata Coin - ok?",
+        "signatures": [
+            {
+                "signature": "90e20ec33d11f93606de6c0a7853716b1f3407d66ab570c18aed93291fc42a849929127fcb19eea69c1d35a0077a76747eed3de6e558981476f5f0d55314c003",
+                "publicKey": "1a4b340baeadf00f9d19b9b5915a35e5fd9a850771410e70c12d225f4d3f57ae"
+            }
+        ]
+    }
+}
