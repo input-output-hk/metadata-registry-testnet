@@ -1,0 +1,44 @@
+{
+  "policy": "82008201818200581ca0f21d6a2fb3e68791bbb78b32ad3131fa0cb8492ce9427c56108e59",
+  "name": {
+    "signatures": [
+      {
+        "publicKey": "136e576c20d4e47ddcf9098bee934e1541d291e38edf8792b3e01c85e110cccb",
+        "signature": "199f42ecd322bb655ee9a58c2fc6ce17342f47360e034175bd5660fb318b665161dd0812aa325fdd709407353c904e97b8d490d2c9d6e1eb0cf41ce4b8fd8407"
+      }
+    ],
+    "sequenceNumber": 0,
+    "value": "TestTokenPreprod"
+  },
+  "description": {
+    "signatures": [
+      {
+        "publicKey": "136e576c20d4e47ddcf9098bee934e1541d291e38edf8792b3e01c85e110cccb",
+        "signature": "e4b0b9d841f107c1fb9b586a10690e42e4660d44712b25cc79eb3a4de1bafe1599453050e2f3f5faea4bdaaf61b93bbc08e0d413d9d89e8f9ad8715968d41207"
+      }
+    ],
+    "sequenceNumber": 0,
+    "value": "JustAnotherToken2"
+  },
+  "ticker": {
+    "signatures": [
+      {
+        "publicKey": "136e576c20d4e47ddcf9098bee934e1541d291e38edf8792b3e01c85e110cccb",
+        "signature": "f51ef9de876f1e706e22146ccdf4baa0dfc523599a92a8fa4d473d52af648a5951fe4632887bd5eb25a2f4e032a77642f5c539ce088d929c949a21612f86da05"
+      }
+    ],
+    "sequenceNumber": 0,
+    "value": "Test2"
+  },
+  "subject": "7ec46775633de62f167a4290cce196a3778971159df7bacd0067044754657374546f6b656e50726570726f64",
+  "decimals": {
+    "signatures": [
+      {
+        "publicKey": "136e576c20d4e47ddcf9098bee934e1541d291e38edf8792b3e01c85e110cccb",
+        "signature": "d421deb3b986571c096794cf0bb7ad039e535d7ba003cce9751fa69b5dbc723d8a1b01c419d0dacfaa0e7c0676bc6a900f468c934034f0777fb6996cb796c90f"
+      }
+    ],
+    "sequenceNumber": 0,
+    "value": 3
+  }
+}
