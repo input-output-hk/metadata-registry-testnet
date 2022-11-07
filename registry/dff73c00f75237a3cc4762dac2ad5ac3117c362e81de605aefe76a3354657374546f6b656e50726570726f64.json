@@ -1,0 +1,52 @@
+{
+  "policy": "82008201818200581ce71abe84a76266c68c57d234518b2d3a5a22e09423813cc7a97b3e03",
+  "name": {
+    "signatures": [
+      {
+        "publicKey": "7b7a1bfbfe4f0c0ccb11e0a1a827d66ea830b06af1f0084c77b71145cdbf875a",
+        "signature": "aeb2bd3ef571e3040f205c701c66cf84bacd211b0d3f4c1237e159d2a02f94166381c439d756dd6febf6d78704f08aeabeeb8db51b916531f83ea3d1e111fa02"
+      },
+      {
+        "publicKey": "7b7a1bfbfe4f0c0ccb11e0a1a827d66ea830b06af1f0084c77b71145cdbf875a",
+        "signature": "aeb2bd3ef571e3040f205c701c66cf84bacd211b0d3f4c1237e159d2a02f94166381c439d756dd6febf6d78704f08aeabeeb8db51b916531f83ea3d1e111fa02"
+      }
+    ],
+    "sequenceNumber": 0,
+    "value": "TestTokenPreprod"
+  },
+  "description": {
+    "signatures": [
+      {
+        "publicKey": "7b7a1bfbfe4f0c0ccb11e0a1a827d66ea830b06af1f0084c77b71145cdbf875a",
+        "signature": "c13aa4919d489acdf9a4a4ef58b6776b91d8e575d6dbc9aa90b27d1dda74368b660c3603e8360c24528d7031bf3916696f0ab22a630ddbda2638e84009b63b0e"
+      },
+      {
+        "publicKey": "7b7a1bfbfe4f0c0ccb11e0a1a827d66ea830b06af1f0084c77b71145cdbf875a",
+        "signature": "c13aa4919d489acdf9a4a4ef58b6776b91d8e575d6dbc9aa90b27d1dda74368b660c3603e8360c24528d7031bf3916696f0ab22a630ddbda2638e84009b63b0e"
+      }
+    ],
+    "sequenceNumber": 0,
+    "value": "“JustAnotherToken”"
+  },
+  "ticker": {
+    "signatures": [
+      {
+        "publicKey": "7b7a1bfbfe4f0c0ccb11e0a1a827d66ea830b06af1f0084c77b71145cdbf875a",
+        "signature": "0c39e95b425fbeb65e3361e1eec6e6b73c409fb4755a311700688c31137121b33e5e0107416cd60fb051dbc8c05bf6ae0de9f55496c48c8c9c154e81e830ae07"
+      }
+    ],
+    "sequenceNumber": 0,
+    "value": "Test1"
+  },
+  "subject": "dff73c00f75237a3cc4762dac2ad5ac3117c362e81de605aefe76a3354657374546f6b656e50726570726f64",
+  "decimals": {
+    "signatures": [
+      {
+        "publicKey": "7b7a1bfbfe4f0c0ccb11e0a1a827d66ea830b06af1f0084c77b71145cdbf875a",
+        "signature": "d52d54a270e711a6b476708ce221912159a12bbe37105c09e2c42d311460364efcb5eb96e1700890a094fd57c6f7d4261dafa828ea7fe6a9f165539282b7ea01"
+      }
+    ],
+    "sequenceNumber": 0,
+    "value": 3
+  }
+}
