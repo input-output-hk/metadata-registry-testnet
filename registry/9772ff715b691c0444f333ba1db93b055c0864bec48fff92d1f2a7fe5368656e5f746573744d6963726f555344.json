@@ -1,0 +1,53 @@
+{
+    "subject": "9772ff715b691c0444f333ba1db93b055c0864bec48fff92d1f2a7fe5368656e5f746573744d6963726f555344",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://staging.djed.xyz",
+        "signatures": [
+            {
+                "signature": "bfb2a28749876de16407973a070750c29d4d48ac10a784ada3075396690deef7067788f62b4f4733c122f0e6b28ece173113ce130bbd6443af557579e20fe40d",
+                "publicKey": "5e3537791bd5c62dcf54be6a438615186566fafe543571b18066f5552902a8b9"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Shen Test USD",
+        "signatures": [
+            {
+                "signature": "49717a66d9ead768efa617290ce404c96381cee385875bc2a9a118c0377adcbaa23ef8399cc391bdf25d0124d8f50c836ceae76e410d418fd0a739c83617d500",
+                "publicKey": "5e3537791bd5c62dcf54be6a438615186566fafe543571b18066f5552902a8b9"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "STU",
+        "signatures": [
+            {
+                "signature": "f03d25cd034ea9d558964f4e48d5b2b273219d1c9c6ec84d001daad4b57091f96bcb047095e52a4b5bf1dd2bbfb31a30e714139cdc09c85f0fb7efbddd44b40c",
+                "publicKey": "5e3537791bd5c62dcf54be6a438615186566fafe543571b18066f5552902a8b9"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "a7e69d733c6ccade42c7a9ed207bdc88a2b4f729a0a7d88ba847019222fffd59a5146fe60b83c4097fb64534cc8acbd5904ddba72b5a24f29e0a78ea9339dc0d",
+                "publicKey": "5e3537791bd5c62dcf54be6a438615186566fafe543571b18066f5552902a8b9"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Reserve coin for Djed test USD",
+        "signatures": [
+            {
+                "signature": "a4456f8e233b25c8199816f3964fb68401c0a8a82a7f352e0de8be0c529c020f53f84cf9cc0b4cad41755a29b024428716b4f2dc2d9861bad99d6ef0a27ff70a",
+                "publicKey": "5e3537791bd5c62dcf54be6a438615186566fafe543571b18066f5552902a8b9"
+            }
+        ]
+    }
+}
