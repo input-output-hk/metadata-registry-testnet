@@ -1,0 +1,63 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "3a7254e853cf75c339b52f19db748fa5cc7a37207c38789611d21a8f1ef93ca2f7167bf5c2777f37a925ee90e6989513f4b9efeb4c9fca17015e4f915a318f09"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "tCOPI"
+    },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "98eb53f3fb2883ffa97fabd6a836fc1b0903b6beff0520aa252d107bcb2cb479019fb2733c0f6a1623d96339cc658417afcdfa3191d6c6d5d2225fe1551c0603"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://meld.com"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "8ca51ba4cd804dfcaa77ffb2ed71017513f02bfe5b5af971edb18d39101b09148254f6239391db99fce0aa5c810bb75345ee22ba5ad7050a7f4d1adb5b40e704"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "The test COPI token of MELD protocol."
+    },
+    "logo": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "8bf28c865ad59b4198b1bc82c1ac35f10236301553f4217905de107c97d8c6fbff0f85905e950e05b6468d3a9d39396c114b47431be6ed9b1efcab70d0ef3d0f"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "iVBORw0KGgoAAAANSUhEUgAAABkAAAAYCAYAAAAPtVbGAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAASQSURBVHgBhVZNbxtVFD3zZvyZ2HEaRTXQJLNDQqAEwQYJCUdCVIJF+QmFP0DZsmm8QMoGwRax4ENiwS5BrcQCVHcHKkLpAlBIpLhOaADT1K6N4/l83Ps+bDdt0pEmM/P83jn3nnvue3HwhMv3/Ro9XnMcpyaEWAGcCiCRpmlHCHeL3m8nSfJJk67TMJwzwFdo8ceu69aIQI1lMhnQGAicnjGkJACDQHMa9Ns7jyNzH0ewuLj4HgFsEIHP35QBXNdjIHq66ul5Hr0LIpLqd7p9er1Sqcyg0+ncPJOEMrhKIOsMxAD20kSawGbGF88plzycn8+i0414pFYul9HtdkdE3okMmGCNQUhzdU+CxnGMN16dxZuvz2Ph6Wnksym6A2CuksXXn95Gq0VzKC4KZo2CBSlXV1Jagmq16udyuT0NKpTmRmsdwFMFfPSBD/FfgB+u7+DnpsCDQODChSIuvljA+jdH6IWeqhlnxxhCOKu7u7uNUSbZbPaGlUjKRE1K00QTVPP4ou4j6Q3w1eafuPZrCcNIqgDu/J7ij/0++lGWMnCUKcIwIIyUq3GV/jQcU4caSXMjTeWomFamUtHF5voCzuVTXP/+b3x4zX2oVjZTHouiCIzBBOOA5argCURw2ZRxBC61tnj3YgnPFAIUgx4+uymVHJN1iqJ4RMqO42GuJRuFCel628q1bB2k53PaQDHn4K3nIgT9FN/9InHYcSaCkMZ1+p0BWV4m4H5i2YTgb3nJM+ArY485Jl2Bl5aoB6IQ280E395imYSSc9J1VlqzC6h13FNxHKnvOE7hUT18O1FnIintjCJbmonQbke4dWeAnb9mSKpURc6y6Oi1LEZy9dQ1TccxIx33CZNYvfNegtpiiIVCgva/wP1ehEEolOssuNZ7XCP9rQMd21h/M0lnvFBHkPdob+JFwwD/DGkpdRhRkNZZlYnOODFOkqpJqQUUuMWwNWPzuLTPDCuVymVirVjHDGMXew9ymBPHqiaFPLDdnUaQiIcsa6NVQK47UoStbJqR5zSFWbCp3aGz0YUHDoMcRScx7aZ4/vxAgXBdOGKO3jpyUoU4Tsy8WJHRtWX7ZIPtp20nFADfv3WnEJGjju4D57yh6YvQbPca3AAh48SmXmPJTJ98qUgODg4alG6DncGL2eecdj90sN2fAq/hPSuPY1VcloKDCMNINePLsz1cqh7CkwHs5sqEhMfHS0NMuKtuNzaOQEsS4cf2FHZ6Bcx4EsvFeyTdUI1rV1EGQqKSCXF34OE4FiO5jJSrqvh2gAzQpHPA4fPApsvycX1axwX0Yw8vzEV4tjTAbDbCXE7Cnwrxynwfd6l2P90r86ZkDMFSJfX9/f0N3d4nLjpT1mgi756q6WwXa9umWCoO4ZFrpjIS7aGLdpChdtO9wfM5E1Ki3mo11yzmIycjnWgNzojP9vGoHG0nR3SGdOIMDgd0nlDNpIlTN3PK895vNvfWJzHP+kfCp+J+Tq8127mcEdfBdjTLwr1gOr1BwRBBc+sk1qkkk2SUwRUiWqYarZBkFdOEHQqCAfksb7BDT8P4HxKtx0+SZ6GrAAAAAElFTkSuQmCC"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "db5264f677a4ee712c5a540ec312499d21e75311cd844f4aa64fd9ac23fd7c3dd09e85db3b44547be0bae5e964609ba7c85839b459a5bbdef2eb6a12e7b72402"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "tCOPI"
+    },
+    "subject": "f6f49b186751e61f1fb8c64e7504e771f968cea9f4d11f5222b169e374434f5049",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "fd28c0dd642a1f401c8e6f300e4b1806472603d1c9a66f1ac8243224597ed03045ab995bc0a44e107bbdf6b21097bf8d2299914bfc37f56352d7730e5b44ee08"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 6
+    }
+}
