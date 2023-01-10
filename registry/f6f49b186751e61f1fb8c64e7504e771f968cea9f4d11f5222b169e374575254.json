@@ -1,0 +1,63 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "82dad9b62cf70351e74c8bc2ff7a1b5fc51460de95b39b512422bfe2d1c5c1d479be1767ee0c3d15e8720730e9c4997c500bd5549422fb88272c2e3f97438405"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "tWRT"
+    },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "8f4ff22afaa086e417c39d9a2ba6f353b854697e78d95567768fdf92e00ebc8d71e5282c46ad29f14f78888edd8de82697b36f6b22718ba24f5bb77a005dad07"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://meld.com"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "847f7a1c1644998d937ad6462c76247a525c31b20391a06533ff2e4b307661d402cc03347bf95ef8ff376f957bb485d3299ac16a9347e0b417fcbe9de286410b"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "The test WRT token of MELD protocol."
+    },
+    "logo": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "2ac822108d4e40020b8f56c795f436ffb1501207bf658738fd4dbb650b455c1acaaff27367ee11216bcaba388d6318f0a92d4e9cfd419e3b2febc39fdc472403"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "iVBORw0KGgoAAAANSUhEUgAAABkAAAAYCAMAAAA4a6b0AAAB71BMVEUAAAAA/wAAqlUAol0AqlUAqlUAoV4AplkAnmEAo1wApVoAoV4ApFsApVoAoV4Ao1wApVoApFsAoV4ApFsApFsAo1wAo1wApFsAo1wAol0ApFsAo1wApFsAol0Ao1wAol0Aol0ApFsAo1wAo1wApFsAo1wAol0ApFsAo1wAolsAol0ApFsAo1wApFsAo1wAol0Ao1wAo1wApFsAo1wAo1wAo1wAo1wAol0Ao1wAo1wAo1wAo1wAo1wAo1wAo1wAo1wAo1wAo1wAo1wAo1wAo1wAo1wBo10CpF0DpF4EpF8GpWAJpmILp2MOqGUPqGYRqWcWq2oXq2sYrGsZrGwdrW8erm8gr3Air3ImsXQrs3cutHkytXw3t384t4A5uIA7uIJBuoZFvIhLvoxMvo1Ov45SwZBVwpJWwpNYw5RhxppmyJ1nyJ5syqF0zaZ6z6p80KuB0q6C0q+D0rCE07CF07GG07KH1LKI1LON1raQ17iR17mS2LmU2LuV2buY2r2d3MCg3cKi3cSj3sSm38an38eq4Mms4cq55tLC6djE6tnK7N3L7N7N7d/R7uLY8eba8ufc8unj9e3k9e7n9vDp9/Hq9/Lt+fPu+fTw+vXx+vby+vfz+/f1+/n2/Pn3/Pr4/Pv6/fz8/v39/v7+//7///+X/25xAAAARXRSTlMAAQkLDBITFBUkJSYtMDEyMzg5O0xOU1RhY2Vnamt1dnx+gIiJi4yXrrCzuLm7vL6/09TV1tvc4uTn6O/w8fX29/j5+vu6Er9ZAAAAAWJLR0SkWb56uQAAAX1JREFUGBlVwQcj1AEYwOEXaWirtJeSFo1rJ+fwM5tKGkeldZqcM65FUUkRUTL+3PF+0N5bHc8jcUs3HzhR4D51ZOdyWSB9TxEJeSskad055inZKgkbPURdukrMPolZU4i51vlLdbz3DhHbJSLtDKZhVKNCzzClq8TsxtT+0bjZRsxREUm9gOnW/4bKMZkiGzBVk5pUj8kRycXU6V9VDY2o6mS4CeMSyQM6W9T3W/X53SmdfeQEvgOeFDkOBNvVe2/mHTyee4nTNoBZLMeAjjb1cr+SSh6AE+jHpMthoDmgvip48bkcbjmtfUBRiuQCV25q66eyxrC20xR0fNcBl8h6TMX0a+2aUNX3oY7pBsxekdQCzLevPTo2Ex7VweDURcxaEdmFeaIt4x/9zW8nXs29wRwSk3YaKPvyYXjM7x/QwM/LQMlKiVhdCFQ/vP1DdeSp9wZmm8RkeYiqqa0gKkcSMs8yT/EWSVqU7SbhYIYssGTTftd598n8Hcsk7h/XOaugQ2WlIQAAAABJRU5ErkJggg=="
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "b2dc375b2e13194f9c8af2aa673a21f1ca6d7d74828707fc8a53e8d2e26136ed697444d5d8ad46454a9cd4f74ce7333b609ea8adf20bf58ab2af5235a4cd2f0e"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "tWRT"
+    },
+    "subject": "f6f49b186751e61f1fb8c64e7504e771f968cea9f4d11f5222b169e374575254",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "41dfac4dbb3962a8e149fb74eeb3233d6da6c18f5783621fa9e036b3c12c7198d499afbdc15176ab9033cbeebdcc3c211f0b834f80ba89ca2ff922c95da75300"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 6
+    }
+}
