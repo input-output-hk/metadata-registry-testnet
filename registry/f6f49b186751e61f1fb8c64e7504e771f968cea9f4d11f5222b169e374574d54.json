@@ -1,0 +1,63 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "96c8c365ca954c5640bd8d1ec4e54fc57488bd38d9edb2e39c1617db1c17a1ac9ae8900e1f02915c390969e6bae2c3bfe0122009e7a0bd023f39d49f95603503"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "tWMT"
+    },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "3882ba6614972d15b8b844e140beacbd967fe01ef070819f1527c00cad42f50c8089047f1f4f0b1e035c5ba5df82615983567d5d0b4bc825da823406ddb0110b"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://meld.com"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "36f8a6908373f3d2c1b94c4db08ad755ee00659825753f66f10744d80b2a15e7bdc35727c513c1a0c8f70b0d72234d2403bcaf4173a6c4147a0b363855a9c00c"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "The test WMT token of MELD protocol."
+    },
+    "logo": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "1a1ae0afa72c7b6902636073d9ecfae5441d1f856aa3acfce40bcf3a785fa2cb62dfcfbfffb34d228c5740382a2519b9109b3350e8ccd219c5bf3af4324b6e01"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "iVBORw0KGgoAAAANSUhEUgAAABkAAAAYCAYAAAAPtVbGAAAABmJLR0QA/wD/AP+gvaeTAAAEe0lEQVRIx7VWfWiVVRj/ve97v3Z3p23t4+pMcbg5J8YlY3NukCkkGmb5h0VlSCiKQWirSZFWkBJpZR8oGGVJabMSFRouLQJZpbmWtxzTbWxuTN3dvbe73bvdj3PO8/TH3X3d8HYdRA8cnuc8h/P8zvN1ztGQgeJ7m8qNoNjO14LLeXAkj/6O2mg0ppHLpnhaThjunN+oeOq7U3c8fDqTHS2dMvbe2RJb59ARau6u4oQAMScHGGzKlOQaoHuK/ZaFszZO2b78xKRAEru/32Q0tu/n4KieMkwgYHYeyJ0DtuhQgQjoig8qlgAjCcoWHcZDc48Vfvj04xlBxM7GvfqptjpKnb7QBV53H7QV84A854SNHJdQ57oQ/ewXiNbe5GGY4Vh9b3PRvqdq04LIN0+v42//PMwxmQzLmgXAiw8ADisyEjNip7yQXT4wMxiArbrk9dxlC96YAMIHmgvF0ZbrPBgxiBnYshjYuAj/gSQRVWZnZ7cCgAUAxJWBo5QCWFUBLQ2AEbgEve8MQApMBCgFkAQrGtMpQCU5K2XR7VNOAygCAI33n8uNfXo+wJGYRnc5YJzaAOTYbwOxth2E7veClQKUBCs5QYZSY7pbMpWt3pS9tP6gJTEw/AKFoxqBoa31pAUAKyARhnIW38kDaEqA/VcBJWEM924GcNAi+0OPqbHKsC6f+y/dZEB46iaVDAYDX6wCJ4bAge4KALBQKOpWTCCrAUvHIGTnINgsHB7bOLaZkzy17qgqgZ7rvL0r8suBnmZwqM/OH6ywW2Qo4iImUFxhpO64We8EGtfd4zs+2elsMzDr11fTu+MsMHMWLvPMtrAgKGYQk2mMxxserzd1jKxFJdBdjvQhk3GzKBBPQAuf+P0ia1iYjEwqFEmeSWedUwh7qTu9JwOXwcP9YCWFs+MrlxaNRg8A2Iz/h9qysrLmWzoaVXevNwbFEjOrrChfeiuRSjAadncgIQUkS0iSUCQhWUCl5mNc8kRZkkRZuftGsuPt8uNhn3hrZCSuBfwjKKl2wJalAwCutYXR1zkEQQKCBCQJCEpA8vi5gOBbsslZoMIz40vz7mrad+PHrouRByULlNY6sWR9EQDgQuNNeH8emLQH/dcDCA1HIFlg9pz84KHPt91t3l2umdoTtg6+Hg0Kw/uTH64iHfevKEDlSjcqV7onFfy/LvXhtVeOQbIA64R584u3pNZ0AKhZ4/bN8NifZUNCkMAPR3rQdLgbUtCdO5yBpu+82PlyA0bjUQgSqF1S/nV9/dqGtI/Wyf1X3/ae870Ui8chSMCVZ6DmkXvgqZkOp2viu5KIS/zR0ovjDedxua3XzNPi2rILe/ZsqMr4/H7zkfe59pbA+8FAxEglWbJEwQwnpubbwRrB7x9Cd48Po9GomWTdClTXlB7dtWv9k5P6SJz8pH16b9fA8Y52X9VoNJaxipQmUV4x7ebcedOe2bp1zZlJ/1ZMrw61lvr6gzsGg+FlN2+E8kNDEWtcxDVHtiFz853DeQXOCwWFrnee3/bo2Ux2/gES9z0i/lPPwQAAAABJRU5ErkJggg=="
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "1ba6ba42bf9b6dd2db85fefdb601969a27481496d2db5c89abbba431978c8682cbdcc71f16d72cf850bbc917c69aecebac1cbe9facc52e4f3eafa6a705fe7803"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "tWMT"
+    },
+    "subject": "f6f49b186751e61f1fb8c64e7504e771f968cea9f4d11f5222b169e374574d54",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "90158f95dc76e4fff69b55d6edfcf36137f168f99a56064b336e8cf8e95c9c35473c3c04e80078fc3f0664116eeef21bd44b2a1c9363def4eea4088db13de400"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 6
+    }
+}
