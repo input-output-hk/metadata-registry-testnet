@@ -1,0 +1,63 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "d60b4137168ee754d7b354d1aa3002c7f89f61b52f21c301f94da8ae0e8f4e703d194bcceb323d2be9ae30ca14ce2f26c01836c283cf3fd961b0e419aa6d7d06"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "tiBTC"
+    },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "60372a95944e784427dba18df120e3815b18f0e8d878e50ca2593731e990158dc1a731ef232390b788ba31b21f420147e91b12badbbd83495c341cb97bf01509"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://meld.com"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "3913b23ba598feb04aa13e0c020c59e29d81afaa32143536ee3836761508e7a175bff657ceb43a715d86d72c5df5e8166a553de86ff6fd22991d215b387be306"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "The test iBTC token of MELD protocol."
+    },
+    "logo": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "e3c1a0f2286ddbac0d0f41bf378be41f8ee4b0ca892b59a6f6569c8886beb488f602f639ad7fa513ce2022ced3b94b7e5f29dc10c1388a8f2b3202dadb143404"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "iVBORw0KGgoAAAANSUhEUgAAABkAAAAYCAYAAAAPtVbGAAAABmJLR0QA/wD/AP+gvaeTAAAEzUlEQVRIiY2WW2xUVRSGv733mXvpDLW0yM1yMdRCFSgmGCAEAkZDWy4SqT4YnyC+CAnEBxIDIcqDkRgTxcurCQoYIjcjECBiFEUhUYHYguEiqZYCvc50Zs6cvXw4Z6YDCLJOVvbDzlr/3mv9699H8T/2CC31Gr1coxeBrldQCUQFuaiwHR5ysEB4bw97+u6XQ91vYzTLGkBthdAKhaMVGtCoIEQQwCJ4CIWsxf3IIptvsn/goUBqaH1NE96uCMc0IRQOShl8oHIQDxEPoYAlj6XQacm/1M3+kw8EqaH1XU10gyaCJoxWIRQhFAaFKQuxCDYAcBFxseSw5LJCrq2LA/uKOfWdAC0bNdENhihGRTEqhiGOIc68RY28uX0lhgRv73iRpjn1pT1DHK2iaGJoolFFZHc1rbPvAall6XRNZJsmEgQUg3yg+sbxrHhlJoY4bWufZuKU0X5yYpiiqwh+BSJhg/NFFc9XApgiSILpXxqiE3VwC02MVDLF4tZGpk4bw+z5dUxtHEX/LcuC5jo6r2S4fmmQ/h43KGFQRiWAAFKlkXSa9u8UQDUtsxyiZwxxjIpjghvUT5/Awd/W/Bc3SvbD0WusX/0Vvb19WIbwii4ZPDLdhnydAaigYaMm8owmWiqVIcrALWHnhxeoTMVpaKpmKF3g1XnHObLrGp5nqZ85kvGTk+SGhJ+/vY4gCBbwip6weD85PsXMEoUJaGp8yhLCWoe+m5aOX/sB8ApCx5k8kOPMid9ZvHI8FckQY+tSaEIILoKDBJRHDBZZ5MAWrTg3RaHx3ZStPphWTonxVdVJqmpDPNtWTUUyhLXCkd1XUMoBMUGbi4Or0ZinnFGcroFEbLh5imFAfccAViQdDnfNvaMnnZfTiB1OqoKPIE5QScclnDU82LT2QTIDHptWXSSSUDz2RIi2dWMZN7mCHYeWsHzGTTrOp++JVUjU6WVG/2jOWRAdUC+Y5GH3aQkF1/LjsX8Awe7L03mth7c+a0IbxYw5tbSfvxo039e1QHyuathiBXtuOKlXthYQXLSxAIiIT03JEI67zF5YVTpx7+10GassRdlR2EsOgKVwXOM9KeIhqiy5LvDxoeeYNqsGgESlwwdHmognHCY1VJKoDAFwub2Hk99cxFLAUvDjpQR4xAEw6M+Fwnqfgi5CHoth1NiRTJiSZLA/j9KKEakwDU0jGZEK092Z4cLZbr4/eoVdn54lM5RByCO4JTBLobuLRw+XVLiW5UcN8cWaGEYVNStKUY3XbprL6jWNNDfs5MzgWtat+pqje9uxlNQXSxaPIayUJn/zDfZtLQ4AFvuGIn8KTKRc0of7kwcET3wGWcnikfFlvgSUxUoueFvyf8bpewfuek9Gsex1Q+R9QxRdUtQwihDJVAUjKmP8/dcA4yamuNk1SCY9VHpPLDms5H0gshlLdvENDp7y21FmGdpPJ3g8LMh8gnugfJZks1n6+9JYXHp7Bsi7Q8GJ/VJJCSDnergvdHPgRDHvPXOY5o9jMSbfUshCQUKld7yMdX55XCQ4vU+ULJb8VSHXXA5wT7nKrZalkyD8nsJpfogfiQGL+0mOwrY+DvXcneu+IEUbQ8sEF/2yQS8Q9BQFY4AhQW6D/QXkeIjw3uvsuX2/HP8CpFpBLI9vAfgAAAAASUVORK5CYII="
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "cdc5e2ff5bc3ecbeaaf9f4291d0dc310cb24066f1046d224b9b51161b5b04db9a0ca4dd4a5a9aca76be71347d0b56884cd1efc168296cc530118aeb2d908690f"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "tiBTC"
+    },
+    "subject": "f6f49b186751e61f1fb8c64e7504e771f968cea9f4d11f5222b169e37469425443",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "6a72e0f524d7598042446b3dacabae4739457e4af4b4153784b1279947480b297c396e39df7165438d263740533757f895beefce3ee70980f9137d7263391f03"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 6
+    }
+}
