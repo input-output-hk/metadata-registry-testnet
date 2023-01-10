@@ -1,0 +1,63 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "d561f99dc9f0446bc48a69a3bf0bf7b3a97d6908863ea5b198a6c14154816184cc3d0f99cdbb0d74b11d85a79bf93f919f0e68f8ddf79395bd96c5ff6f844c0f"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "tMIN"
+    },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "94a1433915f79807e932e03c66e31a36d7ad60b9f54bbb30714a6e1514fa0190d7a435fada1df9654ca5f375a5ef2a4103e815dcd1370baae408efc205f3f90a"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://meld.com"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "8de370ed6d43c43d4a549e03530cc9d46251d221ab1ccef6425a5edf0bf6a15b9bdb013c09c2ff125befab6efa9973270d0246ea1d7ff04d3c416be90202b904"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "The test MIN token of MELD protocol."
+    },
+    "logo": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "76a190475798d09b654ec60ccdc0dc5c591d28a32c981aac927699cb6211b58e562c6d38ee893b1f1d23376a934273f3695d324996722cb5ab14e01a9ad1c90d"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAB11BMVEUAAAAxScIzR8IxRcQvQsYuScgsRsEzRMQwSMctRsQvRsYuRsMuRcQwRsYuRMUwRsUwRcYvRMQvRMUuRsUuRcYvRcUvRcQvRMUwRcUvRcYvRcUvRcUvRcUuRcUwRcYvRsQvRcUvRcUvRMUvRcUvRcUvRcUvRMUvRcUvRcQvRcUvRcUvRcUvRcUwRsUxRsUzScY0ScY2S8c2TMc5Tsg6T8g7UMg8UclAVMpBVcpHWsxLXs1MX81NTU1PYc5QY85UVFRZatFZa9FcXFxcbdJeb9JjY2NmdtRnd9VsbGxxcXFzgth2hNl4eHh4h9l5h9p/jNuBjtyBj9yIld6Njo6OmuCPm+CRkpKRneCWoeGWoeKZpOKapOKbpuKdnp6gquSkpaWmr+Woseaqq6urrKyrtOe1vOq2tra5wevAwMDBwcHCye3ExMTIyMjKz+/Q0NDS0tLU2fLY3PTc4PTe4fPg4ODh4eHh5Pbi4uLk5/fl5/bo6Ojo6vjp6enp6/jq6urr7fns7Ozt7Ozt7/nu7u7u7/nw8PDx8fHy8/vz8/Pz9Prz9Pv08/T09fj19PT19fX29vb29/z39/f3+Pz4+Pj4+fz5+fn6+v37+/38/Pz8/f79/f3+/v7///+3CVNNAAAALHRSTlMAFRkaGxwdHiBJTE1OUGlqa2xtbm+RmJmbnJ6iqrW2t7jX2Nnb8fLz9Pv8/R/3l70AAAABYktHRJxxvMInAAABbUlEQVQYGVXBiT+TcRwH8G/yEKbYJGHZxvbw/D5UstxXuUO5dVG6ELmvx5GIdCAN1b7/rO/m4TXvN1li7S5Pbq7HlRxDkaJvGLCozCt0LlFHBJ+NLCkKFygHhSUqAPltZRBVDRDKRkLTIZ7w70qg9sdhOYTvMhGlQ/i/MvejeJX5OULSiGINiH7+1t34eHz+2UAPQgyNHBB3Nxa7p5g58OvVfYQlURbEI/7MYbtbS6UIcVIOxDs+s/NluhDCQzrEMp/5Z/7shNBJB3DnPzN/5PU55qH39TMQXsoGUMJisKl1bfjlRNcnLgLgpiwAt//wqTcVm+Ya+wE4KRlilEVwu7n3QbW5OQ9xlWIMAA//MvORuTAyNmsedQDI04huQrQfMwfXTdNc2f+QDyCViKJ9EHWTzMHA3sH3pwUAvFEk4gyE1PS9fvui5R6ESqAwh8IFyk4Wmw8RvPF07tL1PFhURhRF0pJuuXXd7bym0akT8JCFuvOPqIIAAAAASUVORK5CYII="
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "9c1d9c291b9d5971f2ecfc6c71ee1a5d191c30529793cd52ecba8cf6181beaa283dca0b4f5bd3e76152442b39b826951f1528f53b4a29844a040878483627e0a"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "tMIN"
+    },
+    "subject": "f6f49b186751e61f1fb8c64e7504e771f968cea9f4d11f5222b169e3744d494e",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "65ab98e2a1a1a63e63d2477495ea8672df51bc3980d4e5087d070fc4e5e8405cd76c4a72569931fd2640374bead25a86b6c16e4371bbb78d74e196c00b324805"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 6
+    }
+}
