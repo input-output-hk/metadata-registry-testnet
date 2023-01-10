@@ -1,0 +1,63 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "2802cdfd44a2dccb0021a44377a4511fa01805d46bf62bea22b1129341fb5af24b30e1c6d582ccf157f990284778df30121c01c21fd322276104b3d942ca3503"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "tC3"
+    },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "16ba0a0c2807fd32730b39687189da67c11f6d80550221326a643db29caa7e5cf702f4c7553be7c1943445354c2c47cc0de7db9d111ad3c81009b3738092d801"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://meld.com"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "a8ab0dc42e95683b5fccc9aa4992838c653673c06d7efda26eecd65beb73935737f6d1dcf2f11db7ed803ad7c8e06faa602e4a048d417f1f55d83d495613c108"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "The test C3 token of MELD protocol."
+    },
+    "logo": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "09135d1a70e45d7671ae63770e7d30994c3952fa615ad16fa89722308a7117c9ec4df0c90272bf0eab5bf460f6e5092d9c8e7bfa6b5f47d97a6165b8a524ff05"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "iVBORw0KGgoAAAANSUhEUgAAABkAAAAYCAYAAAAPtVbGAAAABmJLR0QA/wD/AP+gvaeTAAACPElEQVRIibWWTWsTQRjHf7OZ1GSTWotpxYiJtLQqCBGFYi14UFDwJOgX8CJ4EA+eil+hgl4EP0FB9GIFBT1V8SD04EGsgqJFI5pKK2bz0p3NeMhuu9lumm2bPvDA7Lz8fzvPPPvsCDrbYeAScAHIAVlgBSgCn4AZ4AlQiqAVKv4QaAC6g9eBB8DAZgDX3bftJB70n8B4FMCdLYj7vQZc3ghwc5sAz6vAWBjgJGB3CaKBBcAMQl52EeD5bT9gYgcAGlgGEtKFhB5U2jAYT5uc6U1xPJkkE5cMyBhSCP4oxW/b4WOtzuuyxauyxS9bBSX6gHPCffgAHPGPmobB+2OjvKtUmf1nMVep8n3FZtlxUBr6ZYx9UlIwE4ylTM7vTnPl8wJvrUoQdB9A0PyYWrbaF4vpYuGo3iVEpNDMjBzSZ3vTYWPPDWAv0ONHTw/lGIw3I+m4fZP7B7l7MLs652qmn+mhHFI0g+FoDcDj4TwZKf1yWcOltZiDxnYXeYsNoMcQq3MMBDHR7PdbTTdQukVSe+GqtgtXfPvheibdxlcCB29rTV1rHg3nmS1bzFkVftiKJeWgtF538IVkgr8NhxD74u1/CrgVHPVSeCKdomAmyMi1FC4ph0VbMe+m8JtyhZJal8IAF73G6Sgh2YIvAQk/8cUOQCaD2zpBdwvkN0IKJMCNLgHalnrPproA2PCn5dk1QkpNBC8Cp6IAPBtlcxeJe8CeMCER1hmwEdauRHnggCtaBOaBpzSvRYvtBP4DS+Ws+2+ltnkAAAAASUVORK5CYII="
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "f965149e249bffc337bf1e5f9cedc61d180eb5cb5f8eec0e247c1c575e715ab8b02abcba88112447ef6ee28ab68fc61f0aeebbc4e9dd79a2bd146eeecc979d02"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "tC3"
+    },
+    "subject": "f6f49b186751e61f1fb8c64e7504e771f968cea9f4d11f5222b169e3744333",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "06d5cd1fcdfdcaa31cdba79886cb5c05f96b7ae356e9dcfda20b3b7c44a3daa55a38594ac69c95ecc7fc8ba195335a9cd44f8b56911d2acb54526e5e06825908"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 6
+    }
+}
