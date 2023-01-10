@@ -1,0 +1,63 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "6c163933cd3a042f1b9d9eb8715368d850865d3d3f9c80d855b58d087379060e925c29c1b87893561ac23132a7cb90302a015ce748a37e1f8ab5f2a9ff4ad105"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "tiUSD"
+    },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "2732532f8c7d0bdfe0a0cd9b2f208608c703e695efd5ced929f3b39ccf35e9b74511cd94d645c105df64cbb1af40c03ef5c50f1a97c1e2ee44bde38435e2bd0c"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://meld.com"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "581bdd73043def68a1cf77aa7f6a5b5fe52e51e5c6b7479d89caf54561780e0edbe69a01bc7a526215e18f5b6c836d0c4c6df68474b56dc67866413d3f2a320e"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "The test iUSD token of MELD protocol."
+    },
+    "logo": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "e1e0b12aa9a99b59ff0db48ca3edb8ca70505e0b4a083bf6943faf961517e9e6aa66896b8a30b7f4d61106a9758f4609521f22c1224075d3d180eb7a4ab36f05"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "iVBORw0KGgoAAAANSUhEUgAAABkAAAAYCAMAAAA4a6b0AAACmlBMVEUAAAAAAAAgAEAaAE0XAEYPAEsbAFEaAE0YAEkXAFEUAFETAE0UAE4YAE0YAFAXAE0WAE8WAE4VAE0VAE8XAE0VAE4VAE0VAE8XAE0WAE4VAE4XAE0WAE4WAE4VAE0XAE0XAE4WAFAWAE8VAFAXAE8WAE8WAE4WAE4XAFAXAFEXAFAYAFEYAFAXAFEXAFEXAFEXAFIXAFMXAFEXAFIXAFIWAFEXAFMXAFMXAFIWAFIXAFMXAFMXAFMXAFMYAFMYAFMYAFQYAFQYAFQYAFQYAFQYAFQYAFUYAFUYAFYZAFcZAFgZAFkZAFoaAFoaAFsaAFwaAF0bAF4bAF8cAGEcAGIcAGMcAGQdAWQdAWUdAWYdAWcdAWgeAWgeAWkeAWofAWsfAWwfAW0fAW4gAW8gAXAgAXEhAXIhAXMhAXQhAXUiAXYiAXciAXgjAXkjAXojAXsjAXwkAX0kAX4kAX8lAYAlAYElAYImAYMmAYQmAYUmAYYnAYgnAYkoAYooAYsoAYwpAY0pAY4pAo8pApAqApEqApMqApQrApYrApcsApksBJItApstAp4tBZguAqAvDoQwAqYxAqkxAqoxAqszArAzCKI0ArQ0ArU0ArY1Arg2Aro3A743A783A8A5FpE6Da06GJI7DbI9FaJAErVFEcxIJqFPKLNfQa5gOsJnSLdoSrZtTMJuTcJvSNZvTsJxV7VyTs1yV7Z7Ws97XceFZ9CFb7+HatKNdseTfM2Vf86ahs6bgd+fidermNytnNitnNuxo9S4pui7rt69stjBtuDIuu3IvObPxuXQxunb0vTg2fLg2u/i2/Tj3fLm4fPp5PXp5Pbp5fTt6fjx7vny7/r29Pn39fv6+fz7+v39/P79/f79/f/+/v////97qhtVAAAAR3RSTlMAAQgKCxETFBUWJig0NTY4Ojs8SkxVVmFjaWxwcnZ3enyNjpCRlZaZqq6wt7i8vb/R0tXW19jb3OLj5+nv8PD29/j5+vv8/nEyXLQAAAABYktHRN1wZ7MhAAABvElEQVQoz2NggAJuOX1zeztjLQkOBhTAreHm7RcQGBjg5+WkzokkIeXiExQaGRMbGx0REuhlLQSXUPEICI1JTEnPyEhLSYgK8XMSg0rIeARGJKRl5xcevtqfl5UaF+bvwA+W4HUNiEzMzC+trD5+d15FcV56fKifJQtIRs83NCGzsKJ2/em7dy9urSnLT48L9lIASgi6B8Wm5VfUL79zfueOs3c31pblpkQF2DIxMCh5hyXllNa17ru7btLEZTcOtVQXZ8YHe4owMJj6R6UWVDV37r+7Zfq0KfOndjSU5yaH+6gxMDoFxmYU1bT1rLl76+juDQsndLdUFaRG+uswsLsHxWWW1LX3Td508vbdu5dW97RWF6ZFBxgysMFlZsxdsvbg3QtQGQMGRkeoaZu3zZoze+aZu4sgpmkzMJhAXXDs7orp0xZfudYLcYEqA4Mi1NUr71zeu+fU3V1QVwsjfNq66sTNu+e2dyF8yqALDZ2m1iN3lzZCQ0ceFG48LrAQPXB9ATRELZjBgS0Ni4XiokJoLPBBI0gZLeYcReGRKumMHNtWAkgJgQsphaiwoqYeLlk9M3sbI01xdqgAANYxy2J4PBeUAAAAAElFTkSuQmCC"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "09c602e36936f2b96b23b9756d5c3f92f77d6b4b73e9dfb7c268eb3814cfe276a21badfd7a82e834296d8b62f1913a55ab7ccbc342e5637c6d26bc2321a7eb07"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "tiUSD"
+    },
+    "subject": "f6f49b186751e61f1fb8c64e7504e771f968cea9f4d11f5222b169e37469555344",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "480e6da73ac87f37154d68d49feddc2e5a4fe0c20c42d59f21be245d4534256f",
+                "signature": "59f9aea8a785cb8545043ddfbf165d621269d0eb980ea5cf06664781df9c0698daaf9a1039e6b6d59b784ebc57722c7f5c58a1b05ae295bef21fe6b414230901"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 6
+    }
+}
