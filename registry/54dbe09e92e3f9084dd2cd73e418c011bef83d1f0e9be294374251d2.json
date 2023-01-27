@@ -1,0 +1,18 @@
+{
+  "subject": "54dbe09e92e3f9084dd2cd73e418c011bef83d1f0e9be294374251d2",
+  "name": {
+    "signatures": [],
+    "sequenceNumber": 0,
+    "value": "Liqwid Finance qADA qToken"
+  },
+  "ticker": {
+    "signatures": [],
+    "sequenceNumber": 0,
+    "value": "qADA"
+  },
+  "description": {
+    "signatures": [],
+    "sequenceNumber": 0,
+    "value": "Interest bearing qToken for Liqwid Finance."
+  }
+}
