@@ -3,31 +3,61 @@
     "url": {
         "sequenceNumber": 0,
         "value": "https://anetabtc.io/",
-        "signatures": []
+        "signatures": [
+            {
+                "signature": "f4c3c3c4cff986feccd441fac674e642bdf15eac2554ce8885db48dd50f159653a3db11618e1bdfd697b89cf989d7179ecff98d4be773563d4e1b20caccad704",
+                "publicKey": "5b4cf30b7a56fd834437147f33dc3e995ab8fa1612424a587de753eb875c226c"
+            }
+        ]
     },
     "name": {
         "sequenceNumber": 0,
         "value": "cBTC",
-        "signatures": []
+        "signatures": [
+            {
+                "signature": "a7ba332d49b1373b5d35e4c6df93014ef75d4053e390db195c4f1aeb6bd0e7313010351c417d04a7991948abe0dc007b1a477314079090484557f1c621754101",
+                "publicKey": "5b4cf30b7a56fd834437147f33dc3e995ab8fa1612424a587de753eb875c226c"
+            }
+        ]
     },
     "ticker": {
         "sequenceNumber": 0,
         "value": "cBTC",
-        "signatures": []
+        "signatures": [
+            {
+                "signature": "5adc2353de8183e709574e70dc07a464d7dc51492cd4a00e78cc50d6967ecb35f53d969531441ac8b3a32b3b9631ab318296fa3e7197963d00ed3b6dec29460d",
+                "publicKey": "5b4cf30b7a56fd834437147f33dc3e995ab8fa1612424a587de753eb875c226c"
+            }
+        ]
     },
     "decimals": {
         "sequenceNumber": 0,
         "value": 8,
-        "signatures": []
+        "signatures": [
+            {
+                "signature": "d6fb5a1f45db6ad4814949e0ffef7765da5ca1893313d5aa22415f025f495f3f7886e1c46f0283f170316251ecb282acdc295cc013e7f5b32d4cb4f235da4807",
+                "publicKey": "5b4cf30b7a56fd834437147f33dc3e995ab8fa1612424a587de753eb875c226c"
+            }
+        ]
     },
     "logo": {
         "sequenceNumber": 0,
         "value": "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",
-        "signatures": []
+        "signatures": [
+            {
+                "signature": "8b685cd0bfc991bb4afdaf19a6e7540221294b3bb76092fa041d029af237266bfbc1da62f6c0d1b454890e8fb69193efd8ebbe35eeaf6639a70f841567723f0a",
+                "publicKey": "5b4cf30b7a56fd834437147f33dc3e995ab8fa1612424a587de753eb875c226c"
+            }
+        ]
     },
     "description": {
         "sequenceNumber": 0,
         "value": "Decentralized,On Chain Wrapped Bitcoin",
-        "signatures": []
+        "signatures": [
+            {
+                "signature": "d43fce108cabc2f6410eca7f0ed4b759b820b81aed014260dc49cb3f39e1df98a58075e08cbc114bc4e6ab89b16dc48eb453cee8cf201a79439d5b77832b470b",
+                "publicKey": "5b4cf30b7a56fd834437147f33dc3e995ab8fa1612424a587de753eb875c226c"
+            }
+        ]
     }
 }
