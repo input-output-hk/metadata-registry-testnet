@@ -22,20 +22,20 @@
     },
     "ticker": {
         "sequenceNumber": 0,
-        "value": "TTWT",
+        "value": "TWT",
         "signatures": [
             {
-                "signature": "abb9360ab9ae729f0e85ad03b3a21970a00b58ea55f2f8c6b24085a042815ef3d275c635d0af42cfc2370d6e42235615b32ef21d9f214255694ed709fa7a3503",
+                "signature": "f191fbd6cdc50ab6f6e73ede707a4b617211d092bd430b25ea1082dee8421cfb6b0c8ce662479b8ff9a4df48fc23310d5b275a5e70bb16adf5f23bcf66d3460e",
                 "publicKey": "493d541758f8a5281b82a20c14cddb71ca6550a3e97e353b9b8a2cb750c5f146"
             }
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
-        "value": 6,
+        "sequenceNumber": 1,
+        "value": 0,
         "signatures": [
             {
-                "signature": "b0540435140f7c94d87829fcd966e4bdbbd61165e79099d2a51c1d5199288460caa47c7cc3e5d75324a3f66a9015bf59202c2bf877799ca60145984eee914b04",
+                "signature": "aba0f479d279b9e15740216ce447c568bf4231273f607dfbc3efc7f90e44647260908fecfa479d6a0b5c7f7146975db63b202cdd2399e2dbbd6969722f78a302",
                 "publicKey": "493d541758f8a5281b82a20c14cddb71ca6550a3e97e353b9b8a2cb750c5f146"
             }
         ]
