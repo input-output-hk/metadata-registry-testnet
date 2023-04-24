@@ -11,11 +11,11 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "GRAB",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "8182b1e346a992c0418fc1bb2bb44900bf5892c764d48ada35c7a1c8098764218fccbc6796a760a64ace1b5410d7fc734620baa35876d24b796c25cdc146d606",
+                "signature": "fe98a26807785167edcdb87a450603fad003ac172050cf35c294dc60b3cc2e1e682d0cfa581e5b71a9adddb690734e9eff135c0b774e498f20e817cabfe23301",
                 "publicKey": "e0e40ca01f17a2bd7cfa9865854138d7484e303b57de5df38d852cca9fd95626"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "Grabbit Token",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "f0d1e4aa8c376ed0d37dda69995cab19d6d5d0a2e234bf769cebcb008c2256708503ecbacb53318acc6a36a24c6b20388aa319d71ac4cbddd7f5d361f471ec0b",
+                "signature": "f713538fd18716205a265dcee69cbde3b5457ce8bbf46b3cdd951a0f41fbfd1401f09c2da78ebd206354d81eba586cb33533558580e14ad746a8fbf811dfc70c",
                 "publicKey": "e0e40ca01f17a2bd7cfa9865854138d7484e303b57de5df38d852cca9fd95626"
             }
         ]
