@@ -1,0 +1,33 @@
+{
+    "name": {
+        "signatures": [],
+        "sequenceNumber": 0,
+        "value": "DAI"
+    },
+    "url": {
+        "signatures": [],
+        "sequenceNumber": 0,
+        "value": "https://app.preprod.wingriders.com"
+    },
+    "description": {
+        "signatures": [],
+        "sequenceNumber": 0,
+        "value": "WingRiders preprod DAI token."
+    },
+    "logo": {
+        "signatures": [],
+        "sequenceNumber": 0,
+        "value": "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAADAFBMVEVMaXG/tSPymjH5uzj/vzH6x1P//0r/8RX7jxb4qxP/AAD5rBT5rhr7w0r4rRf6xU/5uDD5tiv6sB/5wUX5siT8y1X7xlD5sxz5tCf6vTz5rhr/tkj5rRr8xkr7sRv7tR/5v0L7wkT5sRz1v072qRH6rx/6rRL5vz/5wUP7yFP9zFb6rRH5uTP7yVf8y1b6vTz8yE/5sBv6sBv8sxf8xUz6sBr7w0n6xk30qxT9zFL6wUb5vEL6sBb8y1P8xUb8y1L5wE76tCP6sSL8tiP5wUf3v0L7rhT6tCT5v0H8sBT2wVf5vkD6tCX7rhL5tzD8zVb6qxD/rxP5qxH5uzb5sib7rRL7rhL7wD77tCf/wyz6tSr7tSn5uzv5tiz5ujj5ty76vj35ti7/zVf8ylf/zFr8ylf////5rxv6v0H7xU76wkj//v77vj35rRb7tCb6sR/7w0v6sB77w0n6sB37xEz//vv7xE36uDD6siL6tSr5rBT6ty75rhr6wkf7wkT6sSD6v0D5rhj6uTL6wUX6siH6syT6tiv8xlD6ujT6tSn6vTr6tiz7uzX6wEP6wET6syX7uTL6vj/6vD36tCj7uzb7xlD6vDn6uDH6vDr//fn6uTD7x1L82Iz7y2X7xFL6tir6siD6uzj6sSH6sBv6uC37yV78zW////77x1P//vz7uzv//fv6tST//Pj/1FP/vR79yVb/1ln6syH8y2f6qxH8y2P+yVP8tyz7x1j/xT37vUH7xE/7wk37ymH7rRL7yFT81IL7yFv/z0r/wCb/uRX6rxj7xVT7zWr7wUn7rhX6sR3/viz6v0P70Xb82pH81ob93Zn7v0T/+vD/+ev+8db/0VH/uhn/zUX8z3L/tBP/sxL+6b3/wDn/wDD/0Vn6vTz//Pf95K794ab6uzf+7s3/thj/uiL8sBf+xUP9ujL/shX+uij9vTf/vTH/rxL/zVb803z/yEP/shT/zVj82pL+9uX+68T936H+9eH/z1j/0lr+9eT80Xr95LD7xlf+7MlcjeWRAAAAf3RSTlMABAb9BP0CAQL9Afv7+v78/fz7/fzuZSz9/JUHZ/rJ+vvxjRocGO39K5WPk9362pSwubD2sLCVuTH2cBdyxv1yMe9w/cuN7/J8fB3dfNjwfNxDvvDd0mJBQf7UkmJiv5XUv0O+LdL////////////////////////////////+h/Oq2AAABlRJREFUeNqU0gGHMkEYwPFnx2hmd8ZiYVlrl2RhQSVC4EWEqKiv8IJzckCO3Fe5LzAQgAUT+gJLAVARQp/gnhtHV7td9cMY4/k/YKCIUzyoP0lHg8ReLOxkMEonvnnkcB/DSTJMx2Kz3hyzBcqOeBXjdEhwBYM7MK/1+mt9yuxvM2Qu2Umv+72aGfhDBfNqVx9sge0FG58OulutmaFbLOCdRK+EmJUSYqWTDsexcg6FdpTvhftykyv2edQG6kAJxiFsbgt5YcW2GQJnUMDBCfKl/LhLLvPAAV7sSUtJ9/0BrlQtcr2BcVJX8v+DpKoTzi56yhoP92ZDA5OL7xMo+fYEqQKgv/tQedOneCo8b6iAH8fT16dM49jH0HCoFe28+dnnlXkZbxdZPx/Kgn9fjNUDkCNbFAbgU9tZFGeSWqW0tsrGs601nm6t3YPqRSqqjnc83RWOukaF5GmQsW3PBM+2eYPtvkmevvKp//xJGjftCq0k63Yp6drtLJsuS5tC0X4fXsVWrdx27/0lWRJtXhWJzStt6r2NO5KU3H/vtpWroldgc/tqneRiaQ/HcbXB2qhgcOzXP0feNPVeytMlWd2+GS/DKtj28MXVNkleaSNK8f2Ip9dm09lIqy8+vA2vy+CJ9tUXCYa+RkEQOBHCBITGWvqyDLaLpNXtT+D1lcte+HR9HgEXoEo0mD9aH9Pot/9QiWiE5hmtIY+0/tMXlq0EONRP7GPZlyIF/l5bVoy7tPNSTxghDk0U6bITG/oPAcDRw+sNJL27ARf43Iw+zmTSZ3X+8StueO+iIZuMrj98FEB2pF+eTTJpnZGCPhM5Y/o8E7jhx1Jpisn7j8hgnfxtPcHEZNoiBd3eIoakttWPI1ro0mUyjElMvy1fB8f75SYJY3DrOntwQXmTzp1A19RaXY3mO71arxSX9x+Hk4tyRuIa7e5+cxidQyO+mYokvp+QQP/m6HZI302+eBJeXkyX9ovcLeg/cVWmzHg+ffFl2Pt5eqZI7f2K5uhKnKqkU1UK0fl4LlMUz6d/vhee+ji9SMR6/8c3COKCuPSPn4L0O2pC5qjDUd6Cr8F3rT5HEl/rPEK1M34/y4v5O+mgTsBmukze2HPAuJIwpUOokhvVmdQkYBOpebXhj8hzUMPySVjvd7igx8WzJKDMrORddY7T2TODC1p6upxJukZ/xxfA39jwrrRgpuD5z6h3RcWulkquMnoXUkXnAl05NsB64nnqs+dh7wLlERXr/60ARefRgjhqYS+cqKMKRQH9MPpPlZp3i+N5qu4EHKijikVGtnVoyB7GtzE0bE82/D0SuBH7kD2n8G6eqjsAx+oooyTwbhlf0xV9G/myBLzXz9FovgaPpThVdwx2Ks8HSDmn3/VHjjT2dA5poPAyfp0ry9/FYyl8XrkTZKfqlOdJKnO0QK0iZjmn1ZrogcJLU0xZd0oGcGBamUNSJX0D1enTqkLe8VPkSCvOSaCcPgAAB7/eoSJZCt/EBTN8wBhTaFa/2xo6FzlUrYHTKtKOrw8CPtYf/2jHaUKsYLix9Z2oVv/gyHuVeIJ+sAYsKjK546PH8bEug0emN5Jja/GbSEA0F0ff/WP5zphjPZ1g4/QjeH0VbNl0a8Ai0RgdKMV4uOtdq9WSYODWpi14HVbAg20bNVaRJuDAzystCo5PhL66/K7qJs6QNBvbHvyr8jrwUBiKAzi+cmsTz8NsMEOCNjYhpVKFQND/UMXdwMw5YBxDHAHu4Ag4Djx7MBGi/2EA+xdCoAP3q+vu1qxaH/Dwfg+D/b4wvP+9NwttwY2wP6IW1vPby8x044R2ocnxPwtGYy047h/HvY+auY5pOm6cI6wbTOa4I2Z68MI/M8ZJAPO9zO+umGNKimLeSFFKhy9wfEEKkH0TFEjRcLhjqgRZtpWSbSFSPWkXjucqBD2mhkiFiy3LvFwj6CklRGpyPBl4Ri4TvHxIYYlJWU4KhrxKpvj6PJ4SFYIjMXmkeoDx60UYB3UpKXlAPsd0W9TH8/Pjc+zTVpfJ5c9nX0ekPsu+J2JZn4odyL6L4VnURLphwecJFmyoqBXh0rV27Q+MkO48dm8FDgdvR0Nj0L82Dji4kR1qEz38Creet1p53haO+kQbZmE8Ob4T8p8fS+rIEPXFQheNkSqN+TP5/w2munmw3l4qPAAAAABJRU5ErkJggg=="
+    },
+    "ticker": {
+        "signatures": [],
+        "sequenceNumber": 0,
+        "value": "DAI"
+    },
+    "subject": "648823ffdad1610b4162f4dbc87bd47f6f9cf45d772ddef661eff198444149",
+    "decimals": {
+        "signatures": [],
+        "sequenceNumber": 0,
+        "value": 6
+    }
+}
