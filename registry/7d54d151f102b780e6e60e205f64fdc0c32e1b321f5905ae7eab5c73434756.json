@@ -1,0 +1,87 @@
+{
+    "subject": "7d54d151f102b780e6e60e205f64fdc0c32e1b321f5905ae7eab5c73434756",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://www.cogitoprotocol.com/",
+        "signatures": [
+            {
+                "signature": "3556e0aa24c0c66a3fe88786f4ad00ec47330475a3a048dd84b52c7c3b2d9d9e546faa0085bba23380d300cb378962a6b29a4856bba97fc2ddee345336c50709",
+                "publicKey": "dfc58d006774f3ea1f4279a5538376b57b505160b8ec9faafb1ae2fdea722083"
+            },
+            {
+                "signature": "bb963847f0569b62367dc010e97faecee3e1013eff7dc3a072a9620f576491ed07b5dff2a864982fe21d18d154299fa85d314b00834cacc9ab5fd32a7e32f30e",
+                "publicKey": "e4f21703db39674f8818c0e74b0b9b7822530f1d683583e796cc1514a4dd8597"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Cogito Governance Token",
+        "signatures": [
+            {
+                "signature": "ccc13112c4fec05772698d0b6cb971ef8a9deae5227a3da19f76fe7950fac06a27801cc46ea87a94867dc9331918667b9c42cc374609da706bbe9bb8c38c370a",
+                "publicKey": "dfc58d006774f3ea1f4279a5538376b57b505160b8ec9faafb1ae2fdea722083"
+            },
+            {
+                "signature": "4b97f304b7679f670386f8ec1ab1ceed2a5c4cb5f048604042a0cecf13bd5c2b38eb4a81483e978f9a4fb8b8348c1b9a9e1e51833bf7e19bd967d335c6b4e20b",
+                "publicKey": "e4f21703db39674f8818c0e74b0b9b7822530f1d683583e796cc1514a4dd8597"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "CGV",
+        "signatures": [
+            {
+                "signature": "c9a99e40d8fec433a4a1b0a2720f016661e3652b170ceca00271a2c4aa5aa87fc98297f249d0e21f51e24f48e96f05023578e62b3b80ae27846bb21a2d76f103",
+                "publicKey": "dfc58d006774f3ea1f4279a5538376b57b505160b8ec9faafb1ae2fdea722083"
+            },
+            {
+                "signature": "1b088b7b1fcf9bb47b43c863530795700a2fd927d9464490e6cfa94c8fdf21eae02e7632a03a044a98b3b77fa1aca8058981198277090507ba464af0b77d880c",
+                "publicKey": "e4f21703db39674f8818c0e74b0b9b7822530f1d683583e796cc1514a4dd8597"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "9df8cde822d9ec3adf5ac286575b67596b53a8708c4c8fc7f39d5d0a4533db9dada8aec20046ad860106c97ffc8417b09372ce9c9123f53876ad9c48f5898c01",
+                "publicKey": "dfc58d006774f3ea1f4279a5538376b57b505160b8ec9faafb1ae2fdea722083"
+            },
+            {
+                "signature": "0a9e89b1bd05d5262ea4efe74cc5f2dd9a6634a6d1207b59f60261aa9ced547bc3057dfc5bc5be885236cfa162a49a16ec36a939b8044811b0bc0eb46810db02",
+                "publicKey": "e4f21703db39674f8818c0e74b0b9b7822530f1d683583e796cc1514a4dd8597"
+            }
+        ]
+    },
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "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",
+        "signatures": [
+            {
+                "signature": "8cda7791239f15bba5705cc7104576a9ef5b6e36ed157f481d9624eb56d76e73b4373fe792d0df1665ab68bbbd77e36ad2801dd8957d6feefdcf640031269703",
+                "publicKey": "dfc58d006774f3ea1f4279a5538376b57b505160b8ec9faafb1ae2fdea722083"
+            },
+            {
+                "signature": "8c96d9a24e8c2f3bdc0414b9cd117a783a3c2e958085d030b36955cdb9fae78b05b74d5b39ac9ce5e55b7c1ec8bcd510b08b185d9d90a96a5b8606fdc523c806",
+                "publicKey": "e4f21703db39674f8818c0e74b0b9b7822530f1d683583e796cc1514a4dd8597"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Utility token of Cogito Protocol",
+        "signatures": [
+            {
+                "signature": "cf080d48ba4e9a999c9903221fa5e31374018809127feb5c125d97a6268ef40cdf63a447a5e9c10c5072b2638c3d378adf3c549c3a046097e07562d4b3dd7d0b",
+                "publicKey": "dfc58d006774f3ea1f4279a5538376b57b505160b8ec9faafb1ae2fdea722083"
+            },
+            {
+                "signature": "75c7b2911f20d9ff5a2e8b837fabfcfb532c70ba66d77e685fab2dc5e52ba6588e7eba502c1fbfcc7c76efc4ae13c4e02075e35fa5e3905d80bbf7835237f00c",
+                "publicKey": "e4f21703db39674f8818c0e74b0b9b7822530f1d683583e796cc1514a4dd8597"
+            }
+        ]
+    }
+}
