@@ -1,0 +1,44 @@
+{
+    "subject": "16b1a90ae98adfc92bd40fed1caf5869ba0aa08b43a8d21c96cb501674555344",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "tUSD",
+        "signatures": [
+            {
+                "signature": "8abdd22ab0a51018c3449c1f460ba197661b73ee885676161d3f5bbeb45ff474282f153bbc40afb95aab440bb820703c65f4aebb38e02a0d35bf53dda6492d07",
+                "publicKey": "f0b8380a408c5cb2ab0db35db480baf8dadfcfa2a12bd0eaedd87a984c943eda"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "tUSD",
+        "signatures": [
+            {
+                "signature": "8d0a11ddd6e8b8b4207bebe93819bcba1ff484d01a944166a9d80734c90e47e7b933f08047db7300b3cc1a129210f9b82b37d900c3f31f4bb7dfe5e3e679c401",
+                "publicKey": "f0b8380a408c5cb2ab0db35db480baf8dadfcfa2a12bd0eaedd87a984c943eda"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "28b3cb6be040211803952cabd3e9214eb9c1e9a20bf3d18c27c7910da430bd76f10d25ca8279b5d41f9d4a4092abeeafeeddf2ace067992f9d8a5bb48126de07",
+                "publicKey": "f0b8380a408c5cb2ab0db35db480baf8dadfcfa2a12bd0eaedd87a984c943eda"
+            }
+        ]
+    },
+    "policy": "82008200581cd464987bfd2c3e2c3f48ad747d0a37f99be745b2f335f0802a07f689",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Test USD token for Yamfore's Public Testnet",
+        "signatures": [
+            {
+                "signature": "f3b241d76d713955a17b3b97812acaaa705da0b34b4cecbdfa5b6e236a8a3b1b4d5227896d6031c727b73818e680008c091c8f8f5ea5a1f516e353e7e6b72c0a",
+                "publicKey": "f0b8380a408c5cb2ab0db35db480baf8dadfcfa2a12bd0eaedd87a984c943eda"
+            }
+        ]
+    }
+}

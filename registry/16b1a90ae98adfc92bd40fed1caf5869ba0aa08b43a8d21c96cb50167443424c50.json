@@ -1,0 +1,44 @@
+{
+    "subject": "16b1a90ae98adfc92bd40fed1caf5869ba0aa08b43a8d21c96cb50167443424c50",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "tCBLP",
+        "signatures": [
+            {
+                "signature": "7ed8a3c4d837e8e2947bbdfe1907d9edd3469c97871035b1cecb8beb885e7c9d2e6b93ca2b42e1ed3bacbc60c902d70c14b733ad5d540481f942cd1726f6e101",
+                "publicKey": "f0b8380a408c5cb2ab0db35db480baf8dadfcfa2a12bd0eaedd87a984c943eda"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "tCBLP",
+        "signatures": [
+            {
+                "signature": "0b222bb7dcac6ffed6319b528adbd97238cfc5ca6d1494c75370ade0316b96744e6b8aef391c54870013ad73804ae3cf95bf19a6d1a0ebf8aec24cb057c7250a",
+                "publicKey": "f0b8380a408c5cb2ab0db35db480baf8dadfcfa2a12bd0eaedd87a984c943eda"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "1d85155f69483d569613ff4556c79c7d5a6153b4d131b9d1d0f872e10a7e5e6c263abe5c706ea135a67ae67d510b46bb39108f9e6fc6f8d1cbda307d184f900e",
+                "publicKey": "f0b8380a408c5cb2ab0db35db480baf8dadfcfa2a12bd0eaedd87a984c943eda"
+            }
+        ]
+    },
+    "policy": "82008200581cd464987bfd2c3e2c3f48ad747d0a37f99be745b2f335f0802a07f689",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Test CBLP token for Yamfore's Public Testnet",
+        "signatures": [
+            {
+                "signature": "f945f6317064f97983e2ec5b563c5c8aa343ff16f78112747e56244887f73166bf78282c668ae5f45585525b4e4f05d52c1fe703cd547e19812a1c8ab272c907",
+                "publicKey": "f0b8380a408c5cb2ab0db35db480baf8dadfcfa2a12bd0eaedd87a984c943eda"
+            }
+        ]
+    }
+}
