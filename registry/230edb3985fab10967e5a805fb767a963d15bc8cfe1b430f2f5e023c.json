@@ -1,0 +1,43 @@
+{
+    "subject": "230edb3985fab10967e5a805fb767a963d15bc8cfe1b430f2f5e023c",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Liqwid iUSD Collateral Param",
+        "signatures": [
+            {
+                "signature": "95680870e86b4eae1b56456e9d6b22b6e355ac801c5d2db9601a93c970c6848ffa578d64cd29416c0de5c33459318406430d3e8edd0657db64af7b228756e400",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "iUSDCOL",
+        "signatures": [
+            {
+                "signature": "a0ddcedecd485467548d84707fb5dee504bb0122fc1a7d1877589afffc87096fd6e0dfca1909d8ff70ef8b242cc85669583a23d504441db8c22f6af9818aef08",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "1a616549e78dde56645ca880ee832f927ffde8e54574015ce85d5197e225b69b7eb6eae2ae78ce715e2df40a34032ccd69a175ef4af38063d0dd0a83f510100f",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid iUSD market",
+        "signatures": [
+            {
+                "signature": "7e700692ad80b127345f6e61adb5f7d2a763fc53f9b35ac670d95987ebd86eca5243c7c3a29bfc479714747c92f29f720c2111132eae8d4c002919adb1ec2608",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    }
+}

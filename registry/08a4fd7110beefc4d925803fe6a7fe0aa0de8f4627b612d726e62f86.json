@@ -1,0 +1,43 @@
+{
+    "subject": "08a4fd7110beefc4d925803fe6a7fe0aa0de8f4627b612d726e62f86",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Liqwid SHEN MarketState",
+        "signatures": [
+            {
+                "signature": "408fbf12fd462ed47ea6042a69c34f2834fb5ca8a0fc52530ec4945f3e63b0bf4dc31b3ed8906593e22cc9e5866a70de01b15c4ac2dc752af0cca97fdfc7990f",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "SHENST",
+        "signatures": [
+            {
+                "signature": "fd570bbe9c4bccf4da3083719b0a406214c0377045ae910d44dc2c148a854532ce12d7ec592c7dc44c8f9421d9b9606dc027c3aaf95508478c259bf8b3ea880e",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "329335ceb32e94997a5c20d4292c09ecb4dbf7435f451ef7cccbe584c036ae78257744ff4eacb2a829336c16e44fb17108799fbe922de2b5ec53c456cee9860e",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid SHEN market",
+        "signatures": [
+            {
+                "signature": "a3f31eb58da73d63b0c622fdf54958bf41451787254aec21ae78cddd4c4029663c9aa3155b5031fc5ecf5c3414ca1616e1ef90d9f09517bde1b630433a608002",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    }
+}

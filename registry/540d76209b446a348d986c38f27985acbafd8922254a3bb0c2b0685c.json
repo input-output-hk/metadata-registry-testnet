@@ -1,0 +1,53 @@
+{
+    "subject": "540d76209b446a348d986c38f27985acbafd8922254a3bb0c2b0685c",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "qiUSD",
+        "signatures": [
+            {
+                "signature": "a5579ae38832c5de4516edc5cd4c5418a784be3ad0e6a201ae143870b90bb27c9638fd0fc74e3096400ded1f640e16fa4c2f906e26b9473beb73e6bc7a2cf709",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "qiUSD",
+        "signatures": [
+            {
+                "signature": "1aad2e87d8ed375dff93611523b8e700440e3bf7cad8328c5475c772b7f43043ee9fb8f868784c2af03d11d6f6c44a15d5b5798487d1fc5b5e4485a90a053e01",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "4657e0b0006523e8d8b7f9a8dea4b13a55fa91f8ed8bea91a15c3e53458be08e368e2878d8fd188d9b2b581f1b1dfbf7cbb608f162900fc6ed28e575e7a1dd09",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "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",
+        "signatures": [
+            {
+                "signature": "220cc52e1a49898f1981ebc22df06b661b677ac913caff57d150295226cdaa8137a39ab53f30a0563fd073ab496a9a61673385bc5e9387f04ae8b324c6819502",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "qiUSD is an interest bearing token minted upon deposit into the Liqwid iUSD market and burned when redeemed. The underlying iUSD is loaned out to borrowers through the Liqwid protocol.",
+        "signatures": [
+            {
+                "signature": "6de26898b00086f33c179eb58e3d8dd0e7fa1b446b5766dfc73fd19db3b7c254d521bfc866801c8c17f2377cd937313fe14e4bd7cba17b6de582a6e18cb0f800",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    }
+}

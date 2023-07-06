@@ -1,0 +1,53 @@
+{
+    "subject": "6f262e859569d245aab15265a902dccf33f790a57227ea30edbbdef4",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "qDJED",
+        "signatures": [
+            {
+                "signature": "1d0824b06746695f5d1466de807c90e4f5e5bdabd57b33ca22f75741e892c7c4d9a487c22f667453b77d7c6405e12f39aaf9066ebe0f79b1a88a9e5d4ffd7b00",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "qDJED",
+        "signatures": [
+            {
+                "signature": "020296de3e7d95e793945f85774f6e710c79b14facbe8836c0cac309ce5397dab7e455967c1b59773605747adfaeedcb394a735e31c210366017039d323cfa05",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "751b1572829aa5d284f1bfb1aa07ccb963e83bdc3d601735dbc9f5a48ddbb7c3a712ca1519dd8e4b9f5f42134993847a5c50e065fa93aec6d29e9c798d1d7e04",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "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",
+        "signatures": [
+            {
+                "signature": "08104552b52138307d4a6e5ddd4a1de1508ba5c23ebcab6a46e38bfb890d10a9765c9b563b73ac2a5fb463e874120c29d5b1954c8a65f965103b088f10ff3e04",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "qDJED is an interest bearing token minted upon deposit into the Liqwid DJED market and burned when redeemed. The underlying DJED is loaned out to borrowers through the Liqwid protocol.",
+        "signatures": [
+            {
+                "signature": "30e2b18613407dba974583075dc5ac9e11711d06d1e67930d2614534745eb9c448d89d519826bec5e84fbcaf79e7c67881551c210169ba11450d03d499b39a06",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    }
+}

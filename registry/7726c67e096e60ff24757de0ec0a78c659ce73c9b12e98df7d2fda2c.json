@@ -1,0 +1,43 @@
+{
+    "subject": "7726c67e096e60ff24757de0ec0a78c659ce73c9b12e98df7d2fda2c",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Liqwid iUSD Batch",
+        "signatures": [
+            {
+                "signature": "552a3bdb9fd8a756622ce89ae98b207aba524c031efca958f1e1117f15682dcf9ab0813e7088993307ea76b48e654bd318cf9cfe57e888398414a275813db203",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "iUSDBATCH",
+        "signatures": [
+            {
+                "signature": "cdffb58d6ab9f50ce7b07853a316ecf5bedf9459c821cca4c4d30308fc008d8a3565074428474f3a24bf46d5a731976bf5339d7b555670b3b756df3751f3190b",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "2d35627c2c5939d002ccc8fe198bc312fef275606e1085fa98ec792eebfd0c840eae9253da7b73cda865e012c621af6647adf0b06d51b8b2aa20ff7b1dd92708",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid iUSD market",
+        "signatures": [
+            {
+                "signature": "7f82f4bd0610bab656d90951da2c8e7c1d1efdecf4198361264b00ad4051bd3be38e156965e0e34fe51bc3cb4be0d9ab4d90e87f1b4ee4404e694da04ca7e20d",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    }
+}
