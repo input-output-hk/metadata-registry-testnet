@@ -1,11 +1,11 @@
 {
-    "subject": "b7ba0d56c1f7e51a00cda2e6c9b6f91448c3764990b57f5c97ef925f30",
+    "subject": "b7ba0d56c1f7e51a00cda2e6c9b6f91448c3764990b57f5c97ef925f00",
     "name": {
         "sequenceNumber": 0,
         "value": "Liqwid iUSD Borrow",
         "signatures": [
             {
-                "signature": "0b9f8daad4c912d33b2b88dcb18b6e0d93f04dd953e02bbd9a401c5b5e30bf12ca0739a046d1c679057c271f09fcd8bc94c65175c40da22e1e3459ac43c7ca09",
+                "signature": "06b3f05e52c0359045c5d0b6055d309320ab82ae95b8005f9d5caded24a6233a7e447ef25163f5b8977433fd053b2e507efa9c9f4741e8bb38543b34246e4d02",
                 "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
             }
         ]
@@ -15,7 +15,7 @@
         "value": "iUSDBOR",
         "signatures": [
             {
-                "signature": "b3c1a58e4a5d483844ac02c1cdd19092912fed93c569e5eaa894df445a08a0e715f797340467a2f3bd5236278899a88fa29658476fe2f22a270a95f996bacc02",
+                "signature": "a0519462e0f8b1267f1151d2c9c14b81684d2bace36200e84c993505e66588830a12ecc0791d10b0a9b354593cb65e9f8139dc9b59525a7adbe43e2b6fa25c0f",
                 "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
             }
         ]
@@ -25,7 +25,7 @@
         "value": 0,
         "signatures": [
             {
-                "signature": "50271a937165734e55b97f59b1c12123f3aef89e4cebdfc68138efff3d225a8de615f675771c6db45b9bbdba316d9977dcded5c32fdcc3768053a71c5e1aa801",
+                "signature": "6f2a1c27b9c99fec6260fe4ae63b2262711d6d72142e7d011a826cc06184f6f4ae54593be886f2fc14434ad83d321b39f06da859e62dc0089ac7a9afc131c004",
                 "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
             }
         ]
@@ -35,7 +35,7 @@
         "value": "Utility token for Liqwid iUSD market",
         "signatures": [
             {
-                "signature": "3844f8d11a6c0aa42f5b104f52b93e9abe61426f5e98a45a4fbe3f166499e0880947812a225836a67a6531c7b2040525d4a1676528f8353380c725c9a1a5a205",
+                "signature": "79e3aab432672667ade9b898fd9eb56b3362010745e4a3081e93094e698b2b57be960468621dc84fce1c9c475ae68ca4b1a878db7e438689e202621a5d329809",
                 "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
             }
         ]

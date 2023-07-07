@@ -1,21 +1,21 @@
 {
-    "subject": "504c4b0d17cedfb06fdc5c12699d1cc50ad4f6eb1928a768c834640731",
+    "subject": "0c78a2d7607eba9d97fb3d94a0d3860354039be769193273d102a21100",
     "name": {
         "sequenceNumber": 0,
-        "value": "Liqwid DJED Borrow",
+        "value": "Liqwid Ada Borrow",
         "signatures": [
             {
-                "signature": "b06123cab25c96f0c4ba9fc40b1e0b222cf331ef7286e945c01a11e67acf5d1828e57d8849d97aee5d37d0c65e6e6db716a23e9cddd1031ee0bf26b148d3ee0e",
+                "signature": "6877f63b1b3f772e956310a8d7b353c6892bb94e238bd04dd24b276722d8686db156e2cebd1b9a4381efe05cb0617f2b848c89654770b8cce6273e62808d4e06",
                 "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
             }
         ]
     },
     "ticker": {
         "sequenceNumber": 0,
-        "value": "DJEDBOR",
+        "value": "AdaBOR",
         "signatures": [
             {
-                "signature": "ba7071bf42e2435cbd5e115d9257cb738a0e2e954c8268b84f23a538949e5d9742187ea8c6f35f040ab59040442cebf39ae18665fbd02a2d32ebfb995191860b",
+                "signature": "3fb190d638debcb596b3a416dbe1a0f66cb56b05e7ca0df4f9126fca59a8d0f3607c746929ad5cf1adb87b42a34a27de322a8afc0115941bff69fa7e1ef2640c",
                 "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
             }
         ]
@@ -25,17 +25,17 @@
         "value": 0,
         "signatures": [
             {
-                "signature": "fb49284fefbb6de28f589d32264dbbd8c5670347b45c1ee775428b5eef095d604ff429b41c69f626421e2f0c39e7ea55f6f75a3993f3ae2c5495edda6868b403",
+                "signature": "48345d1709e9e4aef8e4a85baf12f65f0cfcb2594c4a8613953e5e85758d9d6ee2bb32f77a683028e464080cc48db3f4fe23b4dc20d86b1abacba932787edd0b",
                 "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
             }
         ]
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "Utility token for Liqwid DJED market",
+        "value": "Utility token for Liqwid Ada market",
         "signatures": [
             {
-                "signature": "589a3e26f7d649818a786ebd6f01cac1937354f8455a847dac0494041847509b6abbe62b7e703ca1fbec13c8bf22d4b4a0b2032342976eab26e33a121c2a9d06",
+                "signature": "8396375932631263f0cd71b74df9813d0f6fd73e29443ab56297a1ece320c156ed64e5d7bd353c13c3bc69104a6f8046ca2eb968aed3771e1433c6b95ac69600",
                 "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
             }
         ]
