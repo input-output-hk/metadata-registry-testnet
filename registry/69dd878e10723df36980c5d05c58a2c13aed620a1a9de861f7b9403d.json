@@ -1,0 +1,43 @@
+{
+    "subject": "69dd878e10723df36980c5d05c58a2c13aed620a1a9de861f7b9403d",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Liqwid DJED MarketParams",
+        "signatures": [
+            {
+                "signature": "2abc481289e56e0f223c22e28f66de718a42e865d1ee8d132d7ca2cb093ddbb57642fb9b6cf8a40902cfd8c2ab09e7887273b41b24563fa3acd0170aa116e105",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "DJEDPRM",
+        "signatures": [
+            {
+                "signature": "5495c660fc13cebf727438294ac4e926cd5eef073329a81e782d2237581a7b94d80c8b480866a46b6001b297d58e7263e73dd42e691192e22b76d8fdde47c40e",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "f7c02d298ec1fe9f8a8bbc10379e1e28008746c53d220dbff462b0c745eebbe9f18b68da468953597400f1469c25d63811fd4d3a2a9f4ed445d427ff3b0e7f07",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid DJED market",
+        "signatures": [
+            {
+                "signature": "fa533263e97da287777dbab25a0995b0710b5eaa25ca57cd36de7ed6a5023a52ebea810607975d8af972fa94e6131bd6263ccd2f5ee7885e8d6e8eab5e74f90a",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    }
+}

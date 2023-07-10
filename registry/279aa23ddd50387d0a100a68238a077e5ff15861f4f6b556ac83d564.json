@@ -1,0 +1,43 @@
+{
+    "subject": "279aa23ddd50387d0a100a68238a077e5ff15861f4f6b556ac83d564",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Liqwid Ada Collateral Param",
+        "signatures": [
+            {
+                "signature": "ed8fab1de21a28c29f84ed7b1b18048cef8d1bbed77ae98690e7f58ee7021944225feca6d0ee181e07acb54da2df50327f838354a1c9be11b23f98fd75b2430f",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "AdaCOL",
+        "signatures": [
+            {
+                "signature": "37846781821f2c2d69c8f0f05c2a490b3b37c6ead2ee5eff97ce4c9c40d4ee3118641e39e204d8921caeeffc4dc7420fdd10848f9f28a314236fb327f7520a06",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "6f65679ec2ee665638597a0bfe28dc6c64931ed11c79202e98016bdfca8db2fea612a1d1931150131cd49ede914ada3513287f927688ea79417ebb91273a130e",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid Ada market",
+        "signatures": [
+            {
+                "signature": "9ee343f7f18e7aab86d8ac5f9294fb44f56c6116a7d56659915bdb8009d0361aca088ea2c6efa36703db23cdeb0e3feb93446471cb571097270271a07670da0b",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    }
+}

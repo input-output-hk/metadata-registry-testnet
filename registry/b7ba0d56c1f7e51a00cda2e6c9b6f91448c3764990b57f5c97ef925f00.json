@@ -1,0 +1,43 @@
+{
+    "subject": "b7ba0d56c1f7e51a00cda2e6c9b6f91448c3764990b57f5c97ef925f00",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Liqwid iUSD Borrow",
+        "signatures": [
+            {
+                "signature": "06b3f05e52c0359045c5d0b6055d309320ab82ae95b8005f9d5caded24a6233a7e447ef25163f5b8977433fd053b2e507efa9c9f4741e8bb38543b34246e4d02",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "iUSDBOR",
+        "signatures": [
+            {
+                "signature": "a0519462e0f8b1267f1151d2c9c14b81684d2bace36200e84c993505e66588830a12ecc0791d10b0a9b354593cb65e9f8139dc9b59525a7adbe43e2b6fa25c0f",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "6f2a1c27b9c99fec6260fe4ae63b2262711d6d72142e7d011a826cc06184f6f4ae54593be886f2fc14434ad83d321b39f06da859e62dc0089ac7a9afc131c004",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid iUSD market",
+        "signatures": [
+            {
+                "signature": "79e3aab432672667ade9b898fd9eb56b3362010745e4a3081e93094e698b2b57be960468621dc84fce1c9c475ae68ca4b1a878db7e438689e202621a5d329809",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    }
+}

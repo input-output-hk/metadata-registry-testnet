@@ -1,0 +1,43 @@
+{
+    "subject": "0c78a2d7607eba9d97fb3d94a0d3860354039be769193273d102a21101",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Liqwid Ada Borrow",
+        "signatures": [
+            {
+                "signature": "4872df449d7a9ece7893291768021be14056256924f6c5f271a4031dc1f943eeda531b50e19b534e9f8e77968c1ab5bcf6a2d8c4a35670f9bc797ebbcc88ff0d",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "AdaBOR",
+        "signatures": [
+            {
+                "signature": "d551378a79d31d6eede540396a642e0951056604916a1762e5a07b051c3b2c9d85fc75106df0971ccca94d93a2c9e6f92b2a97fbed91d3d052e718e25a326b0f",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "4e7423e8b94a07b105e4e3a12233b515097d7510cd6ca70e641f0ffce65cea265bd75b69ee765f08d50bdfeb6e66b3105c05a6ffb7b48db52bc5509385aaf40b",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid Ada market",
+        "signatures": [
+            {
+                "signature": "d74b7eded8280d6befbe14e8c16f4d359a0e06655708a3e0ccd7507d479bac0e37b1bb4be711970c9f21a1a2041f9315af957fe8b4b66fc9d0581570fdb22c04",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    }
+}

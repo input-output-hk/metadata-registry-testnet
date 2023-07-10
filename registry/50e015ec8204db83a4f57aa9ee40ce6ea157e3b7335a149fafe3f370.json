@@ -1,0 +1,53 @@
+{
+    "subject": "50e015ec8204db83a4f57aa9ee40ce6ea157e3b7335a149fafe3f370",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "qAda",
+        "signatures": [
+            {
+                "signature": "c40a504373a0b0d3c3a0344ebdb4c4bf228369611c808a6567b2eead4f1e60f83ea6e68ce546c003e6c24ede78a06e7ff91243ace7ff9cc703f79f5cbdfe2903",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "qAda",
+        "signatures": [
+            {
+                "signature": "9cc8c1fe79c61570bf8d43e2a716e41a0da7c79042dd876f29f53a5af2dde04950aa46b5189985482bbadad2799ce182462a6833606c781d85134693ee3a360b",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "0a2af26b243cba79284259e4e8fb4b991985bac5f9eee3bfd6e7c2ffccfaec68eb34cf90aed8033216290b791e0eb2d7e77987387ae1becc37c3dde5c71d190e",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "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",
+        "signatures": [
+            {
+                "signature": "6a6dbb711cf06beaf883c16d8378ac0de30438427ba8effbf91acc8f3fabe92d1e5b9a0eaa7b6587c931c56a85c4498b28889a68273b9241871d37d8b137b00b",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "qAda is an interest bearing token minted upon deposit into the Liqwid Ada market and burned when redeemed. The underlying Ada is loaned out to borrowers through the Liqwid protocol.",
+        "signatures": [
+            {
+                "signature": "62d9e39d426c76ce3a8e30037753e477075e6214bce0164a479d7fcc980addea120d976f9960d697ca3ee9c2934b9fcdb3162434235f98a425dc69030e37c405",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    }
+}

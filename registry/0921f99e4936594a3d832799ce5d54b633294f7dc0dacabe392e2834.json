@@ -1,0 +1,43 @@
+{
+    "subject": "0921f99e4936594a3d832799ce5d54b633294f7dc0dacabe392e2834",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Liqwid Ada Liquidation",
+        "signatures": [
+            {
+                "signature": "915efff2711c0e7d1ae409fe081b5a01f0006c677ea0571cfbb5ae867f0ddc3dc091fcdc3327a667d292bc1057374a630e073750bee68f32b59833ca76c81506",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "AdaLIQ",
+        "signatures": [
+            {
+                "signature": "0971f6210f8436d37df2f6220d6fb2f44b9a51a7b624d4f840864a821ca071d924a46c9fab020b862e5f42c2a21bcbd9fdf932a739a44c30fe46ab268219b10d",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "03da8a0760aba2283e7143a827f0998376e019e953ef92c29a3bd93bb778c7f9287775a2ccbf3d6849fae529be66f3306ec74627645ebbf9f0720ca13731d804",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid Ada market",
+        "signatures": [
+            {
+                "signature": "04b638b90d994e7f4ce9c6ba9858c2644a0b09c603941ac9ace408051beab70e05ebc2f5904a8c1f76189655e12585b37ef40d8ebec331867a49a4d837ca1e01",
+                "publicKey": "677f2d0441864ed66c72c6db8063620cb23b084948920075db5e7718c0ff826a"
+            }
+        ]
+    }
+}
