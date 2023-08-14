@@ -52,7 +52,7 @@ For a comprehensive description of all fields and how to generate them, please s
 
 ##  Server
 
-Users and applications can query this registry through an API at `https://metadata.cardano-testnet.iohkdev.io/metadata`.
+Users and applications can query this registry through an API at `https://metadata.world.dev.cardano.org/metadata`.
 
 The API documentation and source code for the server implementation is available with the [offchain-metadata-tools](https://github.com/input-output-hk/offchain-metadata-tools).        
             
