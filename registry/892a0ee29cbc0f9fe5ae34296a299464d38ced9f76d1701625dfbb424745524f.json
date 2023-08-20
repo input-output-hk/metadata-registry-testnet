@@ -1,0 +1,54 @@
+{
+    "subject": "892a0ee29cbc0f9fe5ae34296a299464d38ced9f76d1701625dfbb424745524f",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://gerowallet.io",
+        "signatures": [
+            {
+                "signature": "80bfb89ae45ac58cbfaf15a777ff80dbb22094111579a97132ed2f5f6f227269ff1dd39213340bc8ae0113aeabed61e841f9b08ea127b3662a2f91c3bfb94a0c",
+                "publicKey": "940b9368da42d003bade64fbbab812b658e5074e2d7bd9b31793d7d9bd7ff979"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "GERO Preprod",
+        "signatures": [
+            {
+                "signature": "31c9919d2f0a93e79062e40f6e527cf672efffd85cbc2cc988b4ca34bb55c451a454ebf1ad8888db0b097e459c733a9142bd41b077595a69623504cca5a3f10f",
+                "publicKey": "940b9368da42d003bade64fbbab812b658e5074e2d7bd9b31793d7d9bd7ff979"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "GERO",
+        "signatures": [
+            {
+                "signature": "61135b9d213fd76a3e0f688b53cca0c5d5af2231fb35e4e37a725a1120c82302a965af8e15e9f5e67ad0eef31d694bf03272d283883a824459249909db86c606",
+                "publicKey": "940b9368da42d003bade64fbbab812b658e5074e2d7bd9b31793d7d9bd7ff979"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "ca9bf359f0179de2e331689375d51c3e20ee243ae52e01433b0da96e4810a81526cd33a71a418109fac769b88a641fb963a028de0491cd3fa05064ba358bd305",
+                "publicKey": "940b9368da42d003bade64fbbab812b658e5074e2d7bd9b31793d7d9bd7ff979"
+            }
+        ]
+    },
+    "policy": "82008200581cb80410c831b974570bef20ad1c8b2d847596d0c8a4b1644306943f18",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Preprod version of GERO token",
+        "signatures": [
+            {
+                "signature": "2eb1e93a929db1acf31573c204e78f16355b4f23c3140bdb341326055bf4b7c2a59f19e2a51231dde2b8a68fe6097d8315ee469f01de7ff7cd6dc3a2f6f07807",
+                "publicKey": "940b9368da42d003bade64fbbab812b658e5074e2d7bd9b31793d7d9bd7ff979"
+            }
+        ]
+    }
+}
