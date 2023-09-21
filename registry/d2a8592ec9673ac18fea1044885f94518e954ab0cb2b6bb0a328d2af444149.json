@@ -1,0 +1,53 @@
+{
+    "subject": "d2a8592ec9673ac18fea1044885f94518e954ab0cb2b6bb0a328d2af444149",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://testnet.wanscan.org/tokens",
+        "signatures": [
+            {
+                "signature": "a8bc8645e1f63682776a0bb147846504fcf09105aa215b11f20541d3db3d208a783284d7541b00e7049fbdb0baa98f8ea364ef914c6dc3986b5526762bc46b06",
+                "publicKey": "6f6a0e6cbebaa0e616c26c30c23bbfd82826a02ee12323ef598cd3fab20f18e2"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "DAI",
+        "signatures": [
+            {
+                "signature": "4141f492a22794df0fdd7c6f8c57a57896d0301729123bfc6341b97aa67504b5a9de7808aa0204f9b9177886873e695c89f403afb30af5475d58f7682fc06907",
+                "publicKey": "6f6a0e6cbebaa0e616c26c30c23bbfd82826a02ee12323ef598cd3fab20f18e2"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "1a86f44dc2a72413e9ffaf5be08f6fef95d4b6cdd804fb1e2395d8cfb311157be589d2b8559e8644594d98c685870ac571631f9e8386b89ba9fe084cdde20607",
+                "publicKey": "6f6a0e6cbebaa0e616c26c30c23bbfd82826a02ee12323ef598cd3fab20f18e2"
+            }
+        ]
+    },
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "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",
+        "signatures": [
+            {
+                "signature": "61b802b4a65f8738c110e9b5db9117d8694ae5dde481a8c6bafb1065cf705276500f8bbaac53318f32b8c57c86035346844fb1d18389a2347781510714a3be0e",
+                "publicKey": "6f6a0e6cbebaa0e616c26c30c23bbfd82826a02ee12323ef598cd3fab20f18e2"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "The Mapping token of DAI.",
+        "signatures": [
+            {
+                "signature": "ed51f43fd6bc8e257ceac05b8518ed042730b6d7dcc9a566af2ce05b22518fee9339428908dbb2a948f908014e5366b3d3a470cbf3e5df9bbfe19c8ce7ac260a",
+                "publicKey": "6f6a0e6cbebaa0e616c26c30c23bbfd82826a02ee12323ef598cd3fab20f18e2"
+            }
+        ]
+    }
+}
