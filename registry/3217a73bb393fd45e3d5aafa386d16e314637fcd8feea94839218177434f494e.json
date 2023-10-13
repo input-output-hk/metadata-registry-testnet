@@ -1,0 +1,64 @@
+{
+    "subject": "3217a73bb393fd45e3d5aafa386d16e314637fcd8feea94839218177434f494e",
+    "url": {
+        "sequenceNumber": 1,
+        "value": "https://casino.com",
+        "signatures": [
+            {
+                "signature": "3e22f7face0f0a562e3923ad6b128c7e7ca59740bbc6be006be1096ac6ae401257c752551d250bdcb597c96aa5d35fd095da38dfc5bba643dd5dbc02b6a8b400",
+                "publicKey": "6ac6db42dbc2f370d6a51dbd28f32f8ba857c8ef4180d65845266ffc7699ac75"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 1,
+        "value": "COIN",
+        "signatures": [
+            {
+                "signature": "fe4c68d0df0c54a69db4cfb9d89127c15c7c7553304b808506affa29f1cb8fcc88eb44ca5bfa2b9f5ef5a7fd431707149c9877cb03a2377db51508a55ee4bd04",
+                "publicKey": "6ac6db42dbc2f370d6a51dbd28f32f8ba857c8ef4180d65845266ffc7699ac75"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 1,
+        "value": "COIN",
+        "signatures": [
+            {
+                "signature": "4fdbb56b5ad31ea645572bc21f1b9dbedd0c5c9d646407a31abba01589dbef7c827f7836fc4129d7bd3d1c96af805302d101ca497619673df7f4ff323f84a500",
+                "publicKey": "6ac6db42dbc2f370d6a51dbd28f32f8ba857c8ef4180d65845266ffc7699ac75"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 1,
+        "value": 4,
+        "signatures": [
+            {
+                "signature": "186bed5d132d37a96e97ffd500835ec0f2987fb6d7407d5a11576d7b5f86842c05d9dad0770f540d71459f1749ac8c8949599cdf35c6ab77d43b98ac5d04bb0d",
+                "publicKey": "6ac6db42dbc2f370d6a51dbd28f32f8ba857c8ef4180d65845266ffc7699ac75"
+            }
+        ]
+    },
+    "policy": "82008200581ce0b7b24492373a178e591517bb42b9531da5a0c45098b7bb0884a2b9",
+    "logo": {
+        "sequenceNumber": 1,
+        "value": "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",
+        "signatures": [
+            {
+                "signature": "880994ffd28033bbe08fd4d6b6bb07536c3bd64400f07bf78151f28177e718500968eb1010b0d408602ae0fc20f4dde8def157b3d741203a80f3700800b4d500",
+                "publicKey": "6ac6db42dbc2f370d6a51dbd28f32f8ba857c8ef4180d65845266ffc7699ac75"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 1,
+        "value": "Casino COIN",
+        "signatures": [
+            {
+                "signature": "8898258dca1c61f76d11b36548a8d2fd525c63f08c8f8489ad2ea90792fb196a4be0b9cee0f19bfae2a724b6f950a5a83c1b77c3622075da5600a9ff09f1f108",
+                "publicKey": "6ac6db42dbc2f370d6a51dbd28f32f8ba857c8ef4180d65845266ffc7699ac75"
+            }
+        ]
+    }
+}
