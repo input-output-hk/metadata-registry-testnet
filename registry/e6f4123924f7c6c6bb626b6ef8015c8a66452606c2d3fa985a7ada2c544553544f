@@ -6,7 +6,7 @@
             "value": "ATestTokenOnly",
             "signatures": [
                 {
-                    "signature": "845846a2012767616464726573735839007df06f7c7181bda926c4299c138a91172c023b87f9a02c98ab66a8e9b2c9ccb11b9a51dc9ce5c4d1291e3fc93c9e6cd04450863b1d7ee5f4a166686173686564f44e4154657374546f6b656e4f6e6c7958407ad70c6295609274014fde22c54c6135febb0be9931d4eb003b94e5edfae79def7a1ca113f98b2038b4a6eff2144c52855a88abdd5669f6d8cb4fbf643dc5d0d",
+                    "signature": "e6f4123924f7c6c6bb626b6ef8015c8a66452606c2d3fa985a7ada2c544553544f",
                     "publicKey": "7df06f7c7181bda926c4299c138a91172c023b87f9a02c98ab66a8e9"
                 }
             ]
