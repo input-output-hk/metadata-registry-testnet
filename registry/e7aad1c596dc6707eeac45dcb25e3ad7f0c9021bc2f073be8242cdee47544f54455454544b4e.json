@@ -1,0 +1,71 @@
+---
+date: "2021-05-01"
+title: "e7aad1c596dc6707eeac45dcb25e3ad7f0c9021bc2f073be8242cdee47544f54455454544b4e.json"
+tags: [json]
+---
+
+{
+  "subject": "e7aad1c596dc6707eeac45dcb25e3ad7f0c9021bc2f073be8242cdee47544f54455454544b4e",
+  "policy": null,
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TESTTOKEN",
+    "signatures": [
+      {
+        "signature": "5b25e659e542cd935912853e917766cb99fae5d41a73824d0a296605cc82700f3cb0c0301f28669e38c66cd96bd3ee5ff696e7b55ccb891133c597487adf4902",
+        "publicKey": "c42c5b98396d12bf0baab45b2d86720b3681d5afb12cf3018e8b64ef4e07f704"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "string",
+    "signatures": [
+      {
+        "signature": "ae9a1e21ba6a2fa02f01cffffc1464f6b305b05e5d40a2fd51726d0177a2cde82c9617043530e06726c0f67ba653c163f4fd2336c2156247436564034d6a6903",
+        "publicKey": "c42c5b98396d12bf0baab45b2d86720b3681d5afb12cf3018e8b64ef4e07f704"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TTTKN",
+    "signatures": [
+      {
+        "signature": "bdd4b5a57b312065803a1500147414b8e8a1ae2b78de8e15628481498fe6a081cab9d1f4463b581b691a0273918d32080625a069d1ef94e2240b310b1a9eef0c",
+        "publicKey": "c42c5b98396d12bf0baab45b2d86720b3681d5afb12cf3018e8b64ef4e07f704"
+      }
+    ]
+  },
+  "url": {
+    "sequenceNumber": 0,
+    "value": "string",
+    "signatures": [
+      {
+        "signature": "ae9a1e21ba6a2fa02f01cffffc1464f6b305b05e5d40a2fd51726d0177a2cde82c9617043530e06726c0f67ba653c163f4fd2336c2156247436564034d6a6903",
+        "publicKey": "c42c5b98396d12bf0baab45b2d86720b3681d5afb12cf3018e8b64ef4e07f704"
+      }
+    ]
+  },
+  "logo": {
+    "sequenceNumber": 0,
+    "value": "string",
+    "signatures": [
+      {
+        "signature": "ae9a1e21ba6a2fa02f01cffffc1464f6b305b05e5d40a2fd51726d0177a2cde82c9617043530e06726c0f67ba653c163f4fd2336c2156247436564034d6a6903",
+        "publicKey": "c42c5b98396d12bf0baab45b2d86720b3681d5afb12cf3018e8b64ef4e07f704"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 0,
+    "signatures": [
+      {
+        "signature": "a09502b0d81531b1a6478fc48a3d41bdbc576736e73042c8b9a894b64f3ab68d42855fcb1fc4b733c60545badbf8644ceaab5240427f74fc54ecf777a7341c0e",
+        "publicKey": "c42c5b98396d12bf0baab45b2d86720b3681d5afb12cf3018e8b64ef4e07f704"
+      }
+    ]
+  }
+}
+
