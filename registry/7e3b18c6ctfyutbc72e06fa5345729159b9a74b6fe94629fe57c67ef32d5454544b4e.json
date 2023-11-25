@@ -1,0 +1,64 @@
+{
+  "subject": "7e3b18c6ctfyutbc72e06fa5345729159b9a74b6fe94629fe57c67ef32d5454544b4e",
+  "policy": null,
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TESTTOKENnine",
+    "signatures": [
+      {
+        "signature": "2ca01bc83ede4f5e74647fcf5d25b23862c2c30d8beec3b63caded23c296f5df79c8408462e676dc9dca54fba5789a97e704be06943b96e852cc7dcbacdb4f06",
+        "publicKey": "c42c5b98396d12bf0baab45b2d86720b3681d5afb12cf3018e8b64ef4e07f704"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "string",
+    "signatures": [
+      {
+        "signature": "ae9a1e21ba6a2fa02f01cffffc1464f6b305b05e5d40a2fd51726d0177a2cde82c9617043530e06726c0f67ba653c163f4fd2336c2156247436564034d6a6903",
+        "publicKey": "c42c5b98396d12bf0baab45b2d86720b3681d5afb12cf3018e8b64ef4e07f704"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TTTKN",
+    "signatures": [
+      {
+        "signature": "bdd4b5a57b312065803a1500147414b8e8a1ae2b78de8e15628481498fe6a081cab9d1f4463b581b691a0273918d32080625a069d1ef94e2240b310b1a9eef0c",
+        "publicKey": "c42c5b98396d12bf0baab45b2d86720b3681d5afb12cf3018e8b64ef4e07f704"
+      }
+    ]
+  },
+  "url": {
+    "sequenceNumber": 0,
+    "value": "string",
+    "signatures": [
+      {
+        "signature": "ae9a1e21ba6a2fa02f01cffffc1464f6b305b05e5d40a2fd51726d0177a2cde82c9617043530e06726c0f67ba653c163f4fd2336c2156247436564034d6a6903",
+        "publicKey": "c42c5b98396d12bf0baab45b2d86720b3681d5afb12cf3018e8b64ef4e07f704"
+      }
+    ]
+  },
+  "logo": {
+    "sequenceNumber": 0,
+    "value": "string",
+    "signatures": [
+      {
+        "signature": "ae9a1e21ba6a2fa02f01cffffc1464f6b305b05e5d40a2fd51726d0177a2cde82c9617043530e06726c0f67ba653c163f4fd2336c2156247436564034d6a6903",
+        "publicKey": "c42c5b98396d12bf0baab45b2d86720b3681d5afb12cf3018e8b64ef4e07f704"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 0,
+    "signatures": [
+      {
+        "signature": "a09502b0d81531b1a6478fc48a3d41bdbc576736e73042c8b9a894b64f3ab68d42855fcb1fc4b733c60545badbf8644ceaab5240427f74fc54ecf777a7341c0e",
+        "publicKey": "c42c5b98396d12bf0baab45b2d86720b3681d5afb12cf3018e8b64ef4e07f704"
+      }
+    ]
+  }
+}
