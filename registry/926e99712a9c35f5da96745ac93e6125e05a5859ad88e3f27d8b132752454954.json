@@ -1,11 +1,11 @@
 {
-    "subject": "12e4574d12610a77e01f3886d93e3d920105975965ed11341b5ba8f452454954",
+    "subject": "926e99712a9c35f5da96745ac93e6125e05a5859ad88e3f27d8b132752454954",
     "url": {
         "sequenceNumber": 0,
         "value": "https://reitcircles.com",
         "signatures": [
             {
-                "signature": "80a4f7f1478fe6e75e75426a467a05cb6dca1d3a0b0316660ff285a5aee28aaaa61f0cd1b95de521b64691a8c5299fe4fa023ccd0eebb41b23c311113c93ae02",
+                "signature": "0f17a92985ece048ab969129aa2be37cbd85e89079d16d8006b6d46c419302782590f8f48b1484b4f3cfd8b779ee2d09e3c187190172edf9260dcd167ebbda01",
                 "publicKey": "f35bc84b5ff18c865c0791d0597169a6f5a19d31ea631dd1c30328e733cddaad"
             }
         ]
@@ -15,7 +15,7 @@
         "value": "REIT",
         "signatures": [
             {
-                "signature": "56ccd8effbc2eaedc5df1e5ddd8b633b0b23ae41ec7e4fc8acdbe08a63c7eb01f8effd60a07b43c15cf0e23ae9008db031430427163b942e1ab5057c70820707",
+                "signature": "99a9ffb02db3485f52d7c24d80975d829ea56cd9b9cbe6cb0bf7cb0cd8555e94f231f8ba1b879ac62088fdf39be73dfbd3e1e25a0d61f9c642cc515164bfde00",
                 "publicKey": "f35bc84b5ff18c865c0791d0597169a6f5a19d31ea631dd1c30328e733cddaad"
             }
         ]
@@ -25,7 +25,7 @@
         "value": "REIT",
         "signatures": [
             {
-                "signature": "fd2dcd8950d2efc31d4e0f22b755e0a633bb809a16958b3f445740c5ebc497bf59b972254c4539402b8baefaac51501186b439a360b30daa47202f5d4bcaf20c",
+                "signature": "19d48a2e75a886c8beb19b7be368e724c82f1c05df5d1cc92984f339e2de740ec3f376bdc1db33280cdbd8c8cd7a6e4fafc2b5616c57642876811f476c84360b",
                 "publicKey": "f35bc84b5ff18c865c0791d0597169a6f5a19d31ea631dd1c30328e733cddaad"
             }
         ]
@@ -35,7 +35,7 @@
         "value": 6,
         "signatures": [
             {
-                "signature": "e19a3721404335977eb8ae650d1e1828765646f0a4814ff5b9ecbd4dd075c8849e5798195a5be5ced480b59a02e248decf89dafba71bd7e5dad744b8c8e68a0f",
+                "signature": "7c4203959bd41ff3081f5124c8f4f1c8d8388c120fe25a4ecc1077da79b464e52b2cdd3622800acd0a2a3fd33b4a7df8a999a51fe9ccc8de7ed49b4fad3e3b0a",
                 "publicKey": "f35bc84b5ff18c865c0791d0597169a6f5a19d31ea631dd1c30328e733cddaad"
             }
         ]
@@ -45,7 +45,7 @@
         "value": "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",
         "signatures": [
             {
-                "signature": "6d320bcbabe113f378f30ba34f0165ebc600a8c82029ec917839f271c731b1aa91bdcdededc7de25cc86e5d759c00e1bcf2987ab4191d66acccf55a3b14ed50d",
+                "signature": "595e2c591572adf3e8c3687762a1279613b679cec563b6828e5ce81baceaf2769a2f8df1d4619865464e37e9c80d13ee93a508d0d46e7155c8945dd891e72c07",
                 "publicKey": "f35bc84b5ff18c865c0791d0597169a6f5a19d31ea631dd1c30328e733cddaad"
             }
         ]
@@ -55,7 +55,7 @@
         "value": "A protocol to unlock value and trade verified real estate assets",
         "signatures": [
             {
-                "signature": "cb4d67b7418c7fcf8fe7d35dcc9076cca2405b0eb4cd887313d21d487dc136841a74d13e8c1f5b04a7177df6d53c908dcd2b3d57ebfcb24fbe1a1b70dc1e2d0d",
+                "signature": "61f79e6a3d53f5f6f3ac443999a0f56549bd11581516088835b8623719feba78c866a93992c64c295f892a9865af26a2afcaaa8118b8c6038f773de284de360d",
                 "publicKey": "f35bc84b5ff18c865c0791d0597169a6f5a19d31ea631dd1c30328e733cddaad"
             }
         ]
