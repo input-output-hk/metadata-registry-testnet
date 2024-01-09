@@ -32,7 +32,7 @@
   },
   "url": {
     "sequenceNumber": 0,
-    "value": "www.cool.com",
+    "value": "https://www.cool.com",
     "signatures": [
       {
         "signature": "eb17ff4f06af8dd5486807546c995f0a88d874af9c092bedc33e8710551624b5eaba663fa86c5f66ed940a8b36e8f4011feca58366b1ab4be182a9797c9a5c0c",
