@@ -1,0 +1,24 @@
+{
+    "subject": "34d27f904e6476cfe1dbc3649b2ffc1a4e374333e14b7db98eea21ce535054",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Super Plus Token",
+        "signatures": [
+            {
+                "signature": "5d6a0e938612f74a5e175377647b58095a3f60a850867577c2dbf41567b0177cbec6ab169bcecc2b80f1dcbddadf8f10b78e6bd1e5f7366db0241a0bc797c00b",
+                "publicKey": "ffb87ae0b0e5f11068583745d295ad8e83e7b3cb935eb245f603fecee01719e0"
+            }
+        ]
+    },
+    "policy": "82008200581cd1936cc46c0d5b65fb6b4225dc39c96dd90983fbe734bba833164656",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "The super plus token has a descriptione.",
+        "signatures": [
+            {
+                "signature": "a6265ddb282295da3ed79fd44259ceca7b25b5f854375f81152e8ace70d6fd48e2c8f78e0bb64399c91b7bae9fdc5281db35d290f51645cd9fb457988cc4db04",
+                "publicKey": "ffb87ae0b0e5f11068583745d295ad8e83e7b3cb935eb245f603fecee01719e0"
+            }
+        ]
+    }
+}
