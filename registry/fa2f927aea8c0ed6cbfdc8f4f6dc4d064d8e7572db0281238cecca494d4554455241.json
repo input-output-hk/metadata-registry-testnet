@@ -1,0 +1,64 @@
+{
+    "subject": "fa2f927aea8c0ed6cbfdc8f4f6dc4d064d8e7572db0281238cecca494d4554455241",
+    "url": {
+        "sequenceNumber": 1,
+        "value": "https://metera.io/",
+        "signatures": [
+            {
+                "signature": "bb1676b85509175baf5a301ccd9d6bc2f497cdef6df49e10db44b106b6f40afa36a2ada45201c338de25c3efcccf9952fe87dc9b6567343c390e50e7d6bf8705",
+                "publicKey": "d6af8f2d2d02dfcd7be93c6a36a2c47dc439a20882b9c772ec0c0d1ffcdc580f"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 1,
+        "value": "METERA",
+        "signatures": [
+            {
+                "signature": "ae16e317c844afd72b8ad06e87b02c570862f49fc001f21f9c20b70f59e92549316a3e375b4c1976ac7876314050d5ba857862e3f49165bef72cdaf4af75d90b",
+                "publicKey": "d6af8f2d2d02dfcd7be93c6a36a2c47dc439a20882b9c772ec0c0d1ffcdc580f"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 1,
+        "value": "METERA",
+        "signatures": [
+            {
+                "signature": "7d277c033feffab6a62ab1fd7503413c58cc00bd930fc881099e6eff134eb74d30537e5f451642bdf14e4e459ffecce74b80ce8798e0b18b00056277300dab0a",
+                "publicKey": "d6af8f2d2d02dfcd7be93c6a36a2c47dc439a20882b9c772ec0c0d1ffcdc580f"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 1,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "7de1fedf0df7bf6e734ef2484b74b8a7ddc4c7f3e01ada95f788c190cbd3493fe0f08b1ebe7d25cbc5275140ba64124a8b78a045588447563d25402aa00e0d07",
+                "publicKey": "d6af8f2d2d02dfcd7be93c6a36a2c47dc439a20882b9c772ec0c0d1ffcdc580f"
+            }
+        ]
+    },
+    "policy": "82008200581c12d38a16a691c3d4a4b420b8974f5413500532f1aec6ea6a61eb75e6",
+    "logo": {
+        "sequenceNumber": 1,
+        "value": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAfCAYAAACGVs+MAAAAwUlEQVR4AWJwLwC0Wwc3FIJAFEVLoALKoAtaYPuboAn31kAZlGA5P+MzeQsWRlUmEpOZ5C7VA0RjHJoBDPB9ACajGYVRgIKELcirAzBp6wTQFtQAGM+bxhsA0QTUFoBxPPfSnL/sNHcD+DBhcWe19QAgGoCIhP2QXAUw3wtInYDw4R1gPQCtt6A8BExaAPcA8Nf+EgaUbgC8KoAIdwFQkeM1rwESyu2q3wQsB9eoA/xQABFlJKDdiUzMZP+EvRnAACtTn7+Dc4EE2AAAAABJRU5ErkJggg==",
+        "signatures": [
+            {
+                "signature": "5283af2a21c13c089c7c2136fc602fa07572c6db775d2da9fb01ef302a78f0bd8613b1b6d8db74df02872428c1fdb2f5f3698a895d411f5b6c3f50bb729f3d09",
+                "publicKey": "d6af8f2d2d02dfcd7be93c6a36a2c47dc439a20882b9c772ec0c0d1ffcdc580f"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 1,
+        "value": "MAYZ Testnet Tokens",
+        "signatures": [
+            {
+                "signature": "e8ec1b773bc6533a39a343f40b534bc66b18590cb3a1c33cf327d27e77c0b7c449533e4e7a32deca0c1d929782efa5fc2ce8755dee3216a892f802e7b217a004",
+                "publicKey": "d6af8f2d2d02dfcd7be93c6a36a2c47dc439a20882b9c772ec0c0d1ffcdc580f"
+            }
+        ]
+    }
+}
