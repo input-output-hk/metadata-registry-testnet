@@ -1,0 +1,33 @@
+{
+    "subject": "f88990c3832e87bb302debd24987583b2402f3521a16bc280071e67b544554",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "TET",
+        "signatures": [
+            {
+                "signature": "8dbab269c835ac1e314b56be9001559be1d370a89994c6a3df9c5c2bf8be2847eb4d347ccdc705586aa34b8a4b1bf583d31efcbad5fabec29a3a33fbd47a1208",
+                "publicKey": "87e3e1df8c5b50cf43d157dd851a19918f641ce3b45515da91efaae273608e18"
+            }
+        ]
+    },
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "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",
+        "signatures": [
+            {
+                "signature": "4f4b99e8eb5f4f91a5f0d25008664026307687f32e2c02aaa116d4a432d21770c2b640b33393d2d3fa20850a7e42b49c9e0975978f10ffee99f28300d3b44408",
+                "publicKey": "87e3e1df8c5b50cf43d157dd851a19918f641ce3b45515da91efaae273608e18"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "In game currency for Tetrano.",
+        "signatures": [
+            {
+                "signature": "a992dbebeec1956b77c12d22c367847fcff57917c74bfecb39c67ba02ddaa371380386ceb2841351e7a0469c0f2a62cfec8cc5968d8eacbd071e55b85ae30107",
+                "publicKey": "87e3e1df8c5b50cf43d157dd851a19918f641ce3b45515da91efaae273608e18"
+            }
+        ]
+    }
+}
