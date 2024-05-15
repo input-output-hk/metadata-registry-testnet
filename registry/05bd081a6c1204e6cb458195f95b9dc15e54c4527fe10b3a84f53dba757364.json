@@ -1,0 +1,27 @@
+{
+	"subject": "05bd081a6c1204e6cb458195f95b9dc15e54c4527fe10b3a84f53dba757364",
+	"url": {
+		"sequenceNumber": 0,
+		"value": "https://yamfore.com"
+	},
+	"name": {
+		"sequenceNumber": 0,
+		"value": "Yamfore Test Dollar"
+	},
+	"ticker": {
+		"sequenceNumber": 0,
+		"value": "tUSD"
+	},
+	"decimals": {
+		"sequenceNumber": 0,
+		"value": 6
+	},
+	"logo": {
+		"sequenceNumber": 0,
+		"value": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAFdQTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADpeTbQAAAB10Uk5TAFCfv8//TyDvEIB/MKCQX0Av3/CvwI/QHz9gD2/GqESoAAABxElEQVR4nGVT63qCMAxNLdDBEJU5d33/N9vc9k0Y6kQupUtSCkz7p6E5OUlOgoDxCDpgjPHqyaMzVBPo4VXWqrwARN3oZoj8nQLCRsDlMX45AOJWX/mRxDv2gND0fs1lSP/cI0TJAMcfdKWc4d1p1ZdoWgZEjSNcVMzQ1bA8M6l/QoAS2vpX4oBBFDI3uS0LkwiYc8Y4X5zobsAnhyqW3ObNQcDdnvL/rqhkWHzD/Q8hwvyW5JRnITxLlRK/rFzTplUdRbSCM+iOE4h6kyP7Jidpi5kkCQQzinpduAKkDAtOxjFL8ZDhdfdBpcF6+/w1aN5wDiP8sXYwD28Yo62Q/ds/AMi4TLbw+jkFTFP0+oYtN/i4wyu1RUYFFSnPcTWELr4Dw0VO21xvo9usM2wPbbJQmIOEmqst2k85CjXPXnaahXJS2+nggD27Q1bqZOeGhRJkeqw9KuxsaFhhtLfTiYNh3PVxVRI8OZXjwuCaCMVLkL6D9duFAWApsJXNR79yLz/2z0k/+6XlJNT7kRlqaT8xgVt7tYfrk1Ru7ZEjya786X78caiv8D9JUp6sMYw/9IIRktTt5c/LdnwzyyDtqoMZH/8A6STRjviTrCgAAAAASUVORK5CYII="
+	},
+	"description": {
+		"sequenceNumber": 0,
+		"value": "A test stablecoin token for Yamfore's testnet"
+	}
+}
