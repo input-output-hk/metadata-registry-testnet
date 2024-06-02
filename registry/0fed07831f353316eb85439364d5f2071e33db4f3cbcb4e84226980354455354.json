@@ -41,7 +41,7 @@
         "sequenceNumber": 0
     },
     "decimals": {
-        "value": "0",
+        "value": 0,
         "signatures": [
             {
                 "publicKey": "7188e42d40b832a2abbdbbf5fff05f970a4d47ffeb2a601deb598fd2769c3f3a",
