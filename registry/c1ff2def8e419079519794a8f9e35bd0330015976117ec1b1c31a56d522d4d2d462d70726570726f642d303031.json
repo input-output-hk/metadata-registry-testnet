@@ -1,0 +1,54 @@
+{
+    "subject": "c1ff2def8e419079519794a8f9e35bd0330015976117ec1b1c31a56d522d4d2d462d70726570726f642d303031",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://read-me-first.io/",
+        "signatures": [
+            {
+                "signature": "9dac551c0db71c4c40b4b63595879d5f4529dfb3b3f7b24553d1c878e65d34bc50b5453214f238ea4f0eddbc06bb0858a6525346454b426606adb4e9ccb9bf0d",
+                "publicKey": "1d4bbbddec9318d2b1fef22dfb879173c630a98d7443e4958a2c326fd0243efc"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "R-M-F-preprod-001",
+        "signatures": [
+            {
+                "signature": "413484a710857921879947cb33d9f213616a2e40bf5bf6d09e475732d442b96fe85831fe4a4c0841e2a507376e266526530bdf9d79bcb48917e30758881d1d01",
+                "publicKey": "1d4bbbddec9318d2b1fef22dfb879173c630a98d7443e4958a2c326fd0243efc"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "RMF",
+        "signatures": [
+            {
+                "signature": "ad556c3f6ba341678679c798a15673c59b4ff8097205d4f84e0df86a6d555144dfc3ae50f65113872f0a0311c7823385b2c332d3ec9a928586d921598bdbb700",
+                "publicKey": "1d4bbbddec9318d2b1fef22dfb879173c630a98d7443e4958a2c326fd0243efc"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "e081d5594f939437186fe91d7f3810c9b32c09ed749b7bd594fde3e06ff2c11ebcbca105fa09870d829dbca92b29b9ecf70a97f9718ef24fa987759fcb6ddf07",
+                "publicKey": "1d4bbbddec9318d2b1fef22dfb879173c630a98d7443e4958a2c326fd0243efc"
+            }
+        ]
+    },
+    "policy": "82008200581c7740f9d12535dd2516c2355a2cd689c97b17f36b4f16263508ed337f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "RMF Airdrop warning token.",
+        "signatures": [
+            {
+                "signature": "ceb1329e67b119a1e4899d3dba6f7318b6f4121f60ea6ccc9e120c8d2f9ec02ffc2ef867bea7aa1196d994f736d969e03d8ff63d933b752344469bddbebf020d",
+                "publicKey": "1d4bbbddec9318d2b1fef22dfb879173c630a98d7443e4958a2c326fd0243efc"
+            }
+        ]
+    }
+}
