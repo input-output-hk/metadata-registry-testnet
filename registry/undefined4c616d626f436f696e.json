@@ -1,0 +1,63 @@
+{
+  "subject": "undefined4c616d626f436f696e",
+  "name": {
+    "value": "LamboCoin",
+    "signatures": [
+      {
+        "publicKey": "97481e85dbabfa19b37d023e163558b3aad69de87cccc248a7288217151614bc",
+        "signature": "2d34258bc03ea7cae1b049a176ab3a07d6b74d5cf7dac4e6c4706c4ba972d0ce8de36da5056f5b967ca2b1ac7ae50815b9a5b3d140496f34cee36b14e9abc606"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "description": {
+    "value": "LamboCoin",
+    "signatures": [
+      {
+        "publicKey": "97481e85dbabfa19b37d023e163558b3aad69de87cccc248a7288217151614bc",
+        "signature": "2d34258bc03ea7cae1b049a176ab3a07d6b74d5cf7dac4e6c4706c4ba972d0ce8de36da5056f5b967ca2b1ac7ae50815b9a5b3d140496f34cee36b14e9abc606"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "ticker": {
+    "value": "LUMBO",
+    "signatures": [
+      {
+        "publicKey": "97481e85dbabfa19b37d023e163558b3aad69de87cccc248a7288217151614bc",
+        "signature": "2eaf46473d7831dba03c1b60340baddaa922bca828f16aa1a739f81ba83c77b6bf2ff9e6819c854be4d9a63dbdc78b9c781ac66582b3c666e004a7abf35abb08"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "logo": {
+    "value": "/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAwADgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAYFBwgEAQP/xAAxEAABAwMCBAUDAgcAAAAAAAABAgMEAAURBhIHITFBExQiUWEkMoFCkRUzcXKhscH/xAAaAQACAgMAAAAAAAAAAAAAAAACBAADAQUG/8QAJxEAAQQBAgUEAwAAAAAAAAAAAQACAxEEEjEFISJBURNxkdFCgfD/2gAMAwEAAhEDEQA/AMqUUzWXQupb1bkXCBZ5a7cveRLLZDR2/d6u+Pjvyr6wdGvvxHJL762I6FlvxTGcKNw6jpnlkc8UHqNstBsjxzWdJq0qUVYr+kdJWZKWtRaql+cWhLqEW+3F1BQoZB3rUkH8Vwx9MaduwkpsmpHESWxubZuMPwfFHwtK1AfmgjnZJWm/g/Sy5hbukiipGXZp8Z1SFR1Lwdu5v1g/kVHVchRRRRUUVvcNNW3iFw71JY7TcJUeU40mTELLhC0qQ4N6U+25J7fFWRaFTdeaQt01i+yINzLGHo7iUIakuoOCXMjocH1AZ54IPWsvxZL8R5L0V5xp1JyFIUQRVvaH4s/RtWvVA9DefLzEJ5tk88KA7E9cfsOtafiMM4IngALgbHmqoj2KbgdGeiTYpn1LwykamsjiIcm2pm2ya60kMSRICG1eotLKPtIVkpB7E0nWvgxfHJJT/E7Ww8P5aXVrAc/ooJIH5rs4LazmWXXEJx7D8CYoRpEdKglJQ4VcgOmQvarcTkHPvVocWA40EyLIq7Rl88LjIS4hI64dbOc/3J5++aTzcjKw5xGyRvXZFjY/rtaOFkcjCS08vCULVwZ1Cyoecu9sjj2bC3CP3Apld4GaYegbZDkvzRQQqSyQnK853bOYx2x/3nUxwvuV9uDjkHUKo7rJSFQZiB6nhzylYBICgMf561Zgsr6WVlMhtpWD9ysYOPmubyc/jUs5ia+9J/Gq+ftOshxWt1Eb+VhziJoe4aKuvgSVCTCcP08tsYS4PYj9Kh3H+xRWjuN8/Ttu4b3K33hJm3eShK2kMEO+XezhLi1A4SOo+eYxRXeYE0k0DXSind/damZgY8huyyJRRRTiqUnZru7a5TMhptC3GVpcQSSMFKgrsefTvVsTuMQu9hfigKtVyWnCZHh+KhPvjHMH2ODiqUopLL4fBlua+Vtlu39srop3xAhp3U3BRJS/vRemY5WrKnBIWD15k4GTT01xNbsEqXGg2u3XhKFbW503e4tzH6uZBOfn4qq68pgRDVqKr1cqTlq3iHeNSsux3kQ4cR5CUOMRGdiF7V70k5J5gk8x2opNoqwABCv/2Q==",
+    "signatures": [
+      {
+        "publicKey": "97481e85dbabfa19b37d023e163558b3aad69de87cccc248a7288217151614bc",
+        "signature": "288767d0bcae16d78328b30e5b32bf9067abe98e826e7c274624b262eb57cb1f613fe1d2fe45d9c6c5f2397fc50d5f96addecaffcecd2fca5bf571e8f3b6a307"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "decimals": {
+    "value": 0,
+    "signatures": [
+      {
+        "publicKey": "97481e85dbabfa19b37d023e163558b3aad69de87cccc248a7288217151614bc",
+        "signature": "0c342406cce4fe367ce31511008e6d3f9da90e7cf5c555ace2fec9749c7a9a9ac174e862e1dfab795bfa863ce8949f28639cffb08bd8a6ecc060fc26dfdf2f02"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "url": {
+    "value": "https://www.konda.app",
+    "signatures": [
+      {
+        "publicKey": "97481e85dbabfa19b37d023e163558b3aad69de87cccc248a7288217151614bc",
+        "signature": "563bfe63b022ad285eec8637208d9b7c60ac77f7dcdc5a18445d757f71d0ab5db3ec1fb81c0b77d69960745b0bcb6c0276682515af64643d31a79fff401b720f"
+      }
+    ],
+    "sequenceNumber": 0
+  }
+}
