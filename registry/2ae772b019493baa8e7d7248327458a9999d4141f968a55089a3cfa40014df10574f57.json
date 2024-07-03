@@ -1,0 +1,64 @@
+
+{
+    "subject": "2ae772b019493baa8e7d7248327458a9999d4141f968a55089a3cfa40014df10574f57",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://WOW.rocks",
+        "signatures": [
+            {
+                "signature": "68f648a3d10409f5c1541c1c793f5395815d2ad8057c0b92ac7800bc3c8b15f89b4a448bee606376e59921d81fe839bb033abd3b9fa25e49411a99c17be3d101",
+                "publicKey": "a627b6f064ac4bd2abdaf2392821e366ddc055d22b3e2149465a6dd780af060d"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "WOW",
+        "signatures": [
+            {
+                "signature": "91f6c51ed8d8c4b87709e1b2330bab84815c2426ac58927753c1a194e163da3b4a48cd8bb5149ea377ee551796b423eadb77f49f9968f2e3c8c25b3003ecdb0c",
+                "publicKey": "a627b6f064ac4bd2abdaf2392821e366ddc055d22b3e2149465a6dd780af060d"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "WOW",
+        "signatures": [
+            {
+                "signature": "c8814e63e88a2011d6a1133621f17990f3182d7d9904de9ed969ee0f0e92bd807bfccf7274287bb59d3e2a52a209dfa48a449ca1f1e482e20682188c5109cb0a",
+                "publicKey": "a627b6f064ac4bd2abdaf2392821e366ddc055d22b3e2149465a6dd780af060d"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "afcb90d05b82ad825f1df1d8dd7814b48e61ee2d9be196edf9cfbb60cde1636f9bc9f73c7ac17d302c251c17a58c31f360c54708831ceaa63066e7f13e25fd0d",
+                "publicKey": "a627b6f064ac4bd2abdaf2392821e366ddc055d22b3e2149465a6dd780af060d"
+            }
+        ]
+    },
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDcuMS1jMDAwIDc5LmRhYmFjYmIsIDIwMjEvMDQvMTQtMDA6Mzk6NDQgICAgICAgICI+IDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+IDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjA2NzI3RkRDMkU3NTExRUNCNEZEQkRDOEM3RkY1OEFGIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjA2NzI3RkRCMkU3NTExRUNCNEZEQkRDOEM3RkY1OEFGIiB4bXA6Q3JlYXRvclRvb2w9IkFkb2JlIFBob3Rvc2hvcCAyMDIxIE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjg1MUNDRDBDMkM2NjExRUNCNEZEQkRDOEM3RkY1OEFGIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjg1MUNDRDBEMkM2NjExRUNCNEZEQkRDOEM3RkY1OEFGIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+MW9riwAAApVJREFUeNqUlktsTFEYx+/cjlCvotFhyBhE4tFg0ghBysqKVIIo0qQ2JBZIxQIbEZEuiDVioUEsGBYWNCZFIhZNKI3IeGva1DNqNGi16neS/8hx3bm9c5Jf5t7z+L7zPedGvuT6nSKGCxEYDHsgumhLxm9+IiyGFs/8UYhDvWd+NbyAzv8UdHT2+imYDOt8FKRhjM/+VfDTT0HEqboSZGEp9Ae4xJXCb0E+LTRGwmM4Yc1VQbX1vgfeQkXBGAQoGICL8OivtY5zDaZDGeSgFU5BbyEhtovMbabAgQClG2ASnAnY0wAJ2Ou14B38sm5rlHXrtid1aCd8guuycDd0yKqP0Kds+poXWuLEN+efn8hkM3ZBs7JoKRyBWTAblsBWmCuBr+GVLnIDsvBwuBiYQ/cVwO/wWwmR1Vp+PFBqNluxKipN10BK5hu3XVC+18Jo1YtxY1NQmtbLPFO952GF1pbBTWiE9XBWws24BAu0dg7qND8HrmrNyN7uSlCpWAnTtHmCdZGEz+WmWs/l+h0r4eNk8Uyvi0o8VXtIPekyPLOCVwlJ2AifYV/YQssLnw/b4BjE4I5SsUFpmFYGGdfd0r7bCnaoSl4LB5VJ5RLuSOBLnTPUwBsVZ3I4BZUK9j04rbRrUZ9plZJG5Xy1UrdJFplu+lxyUqr2jFdBrQJkFPQogxzl+XJ1zYR+F8IQ/NCeu5acGl02462DqILcZ7ULUwfvoU3vH5QhZdqXVKWnPW3Gzccz6umeA9b7CBWWcdMmze2HUZYw0/yOwwz1JEeWDYat5Hlqy10F1sdLeHvhSh6Szn+pgB3wFLqs+RjErfcctEMdpPxkRV03EvRX6C28w2optWG/KiJt2Z5iPltiUt4d9sAfAQYASgSxb97L9BwAAAAASUVORK5CYII=",
+        "signatures": [
+            {
+                "signature": "ae6452da50aded0e74ecf81bf3a8158f2b4fd65bdf369d12d550d8f29f4ed534742577d138be8f9b8c73a64f36d23fa107caf85b117ba21999236e655521b206",
+                "publicKey": "a627b6f064ac4bd2abdaf2392821e366ddc055d22b3e2149465a6dd780af060d"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "WOW",
+        "signatures": [
+            {
+                "signature": "ec9072f898d036980bc034d460eb46d6ac06fb815c7e687f59092230e1e65a35b5df90ded6611d91a54e2c2344efc9c39d30641ec62bc3ae8cea89b686298e07",
+                "publicKey": "a627b6f064ac4bd2abdaf2392821e366ddc055d22b3e2149465a6dd780af060d"
+            }
+        ]
+    }
+}
