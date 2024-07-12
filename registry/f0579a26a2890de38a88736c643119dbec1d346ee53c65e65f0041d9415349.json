@@ -1,0 +1,62 @@
+{
+    "subject": "f0579a26a2890de38a88736c643119dbec1d346ee53c65e65f0041d9415349",
+    "name": {   
+        "sequenceNumber": 0,
+        "value": "ASI Token",
+        "signatures": [
+            {
+                "signature": "aa69540e39c254862cb298e80911e3b3ce82f95334be3ddd54cb0c104d47515cb5505368948363e42e9150f812cdf631b2de6c7a56a4d6a749c2a2ab1bd7e40f",
+                "publicKey": "e977ee458a9d0fefa7e8f444daffbeca2bc86486726d5a44c55ed8bcc7960421"
+            },
+            {
+                "signature": "4a2a6621a84c12f45cca4cb957ada3d84c52b499df71117a456f76fb182e44da52cbcc8e76bdf7ed86d49a64207be4f4c736bc57cb484591ddcb09a3e43be706",
+                "publicKey": "23a74705339b2b08186eede8cdaf65d66650cc98b7a8f6018a95bfad2e37559f"
+            },
+            {
+                "signature": "458e7961f4a86bc22ca932435bed2cadb3481c714435b72045a25cba3cde463b0231804844df3c0e77870acbec66e46ce8683ebf07d842fd546b668834134206",
+                "publicKey": "d8d6a3b27e276352e0bd76e4a150391e21f01b19b81e2c2ac83b5bbc5b0d5612"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "ASI",
+        "signatures": [
+            {
+                "signature": "d4853f49fcbf9a4f7a129e32d387c635fbafd44763c324ba8097b2631703e2b6da8831e5a411a4617b053e9b3175125f71adcb0a8ee213faf90810e16d462a09",
+                "publicKey": "e977ee458a9d0fefa7e8f444daffbeca2bc86486726d5a44c55ed8bcc7960421"
+            },
+            {
+                "signature": "9c064fcd62acfa9ef3f515ffdb82ae0ed35bbaed65514623fc7e14facf46e3014d2b466be35845f37bd79c9f4bafda67e8e8d96e16dccdbb1c2cb51826e1140a",
+                "publicKey": "23a74705339b2b08186eede8cdaf65d66650cc98b7a8f6018a95bfad2e37559f"
+            },
+            {
+                "signature": "4d40c77f8dc4ef04e2579ad890a9f6cf7bb83c2bbf2a5051c67727e887a58d0b37b1dafef441fce187afa8131ba3d6c496031b5beebedac114137a601b649700",
+                "publicKey": "d8d6a3b27e276352e0bd76e4a150391e21f01b19b81e2c2ac83b5bbc5b0d5612"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 8,
+        "signatures": [
+            {
+                "signature": "10e639dcdb30dc9e00a4cba9ee1d46a49d9672c483cfa2816884f0acb2fd0adc183b13302013a3979a6bd2af608933dfada6ff6d77db3eb8c35b7b49d0795706",
+                "publicKey": "e977ee458a9d0fefa7e8f444daffbeca2bc86486726d5a44c55ed8bcc7960421"
+            },
+            {
+                "signature": "acadd21575071ac4db3e17f71a14c9322a832777680f084ee4ce8f4596a50708c03d44c076c21c6d8c5cf5295027b1a0ffd6dd3279ef650a58c695e7b1783004",
+                "publicKey": "23a74705339b2b08186eede8cdaf65d66650cc98b7a8f6018a95bfad2e37559f"
+            },
+            {
+                "signature": "3380882c20d4e8c200d54d427e407b1cd433775c95b0544a0615d147eaf0865eb80b127b42673b4d0e505f4ffc941422bf8e3c281006a7f977ba1bc1044e4502",
+                "publicKey": "d8d6a3b27e276352e0bd76e4a150391e21f01b19b81e2c2ac83b5bbc5b0d5612"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "ASI token",
+        "signatures": []
+    }
+}
