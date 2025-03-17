@@ -1,0 +1,43 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "602c44b06451d85bbb8075617fd1e5ae2f7383ce7adacf51c19e0f15188a2022",
+                "signature": "eb083d973101b21808d5cbdd15edbbeec3cdddee582fa2ec32396cbad9f3cc775e6da873d81b8cefa5bd13dd31566f30ef563f1dbf02f3b2c67c4f179d37f80d"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "USDC"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "602c44b06451d85bbb8075617fd1e5ae2f7383ce7adacf51c19e0f15188a2022",
+                "signature": "e91a839bdedb6ce174b4b1b2e2d3bfb1c45320c9b5c82a570c52b68a90842a2b7d828cd4d99d3cfb7aaf64c390aba527b253650e6b4de2b34a938fd32bb2350a"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "USDC"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "602c44b06451d85bbb8075617fd1e5ae2f7383ce7adacf51c19e0f15188a2022",
+                "signature": "fae8fbaf2cb30b4fa41e69b0c965070c5059da9a0cb51b0666fa7ac35d42afccc6bc542a462652a31cdb60efd7ee60cf6c672ef90d1d5f894c86e5b55a207508"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "USDC"
+    },
+    "subject": "1c226b85d22df2d6ff2086f0fd45dd96a49a402ef0c9ecb8aebf0fc555534443",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "602c44b06451d85bbb8075617fd1e5ae2f7383ce7adacf51c19e0f15188a2022",
+                "signature": "8bd32aa55a83423b28396c5ff262a2d5864bcdfc99e2c8c14667801d1f27ddb1a8f13af8dd1a84de139946b1d2e9c27c4ffc1bcb7b5e3e6d39a05f272ab2440c"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 6
+    }
+}
