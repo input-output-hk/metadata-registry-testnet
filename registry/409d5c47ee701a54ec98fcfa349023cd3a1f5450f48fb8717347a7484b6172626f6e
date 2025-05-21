@@ -1,0 +1,33 @@
+{
+  "name": {
+    "signatures": [],
+    "sequenceNumber": 0,
+    "value": "Karbon"
+  },
+  "url": {
+    "signatures": [],
+    "sequenceNumber": 0,
+    "value": "https://www.karbonledger.com"
+  },
+  "description": {
+    "signatures": [],
+    "sequenceNumber": 0,
+    "value": "Karbon Gov Token."
+  },
+  "logo": {
+    "signatures": [],
+    "sequenceNumber": 0,
+    "value": ""
+},
+  "ticker": {
+    "signatures": [],
+    "sequenceNumber": 0,
+    "value": "tKRB"
+  },
+  "subject": "409d5c47ee701a54ec98fcfa349023cd3a1f5450f48fb8717347a7484b6172626f6e",
+  "decimals": {
+    "signatures": [],
+    "sequenceNumber": 0,
+    "value": 0
+  }
+}
