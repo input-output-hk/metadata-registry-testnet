@@ -10,6 +10,16 @@
             }
         ]
     },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "dSNEK",
+        "signatures": [
+            {
+                "signature": "63c89abc6b54a39fc0d5d40b094caabead8b1939454571ddd39565c7f4ee4308d99017dacc541d64def3be75be13f1ec6049ebf1258177e40c46429b6157760e",
+                "publicKey": "8e6f829df60aaee5e24bf00086c36250a8e63d0f7d23002b6ef934cc054d3871"
+            }
+        ]
+    },
     "decimals": {
         "sequenceNumber": 0,
         "value": 0,
