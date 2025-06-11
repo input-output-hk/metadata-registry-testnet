@@ -10,6 +10,16 @@
             }
         ]
     },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "diUSD",
+        "signatures": [
+            {
+                "signature": "fb40e843d96f405a33513655ee6e5834ed5c1e247a850ce03173ac9870721fa928148e2b0854e3bdb44646ce98bdde56745cdb0b9129b58d099df086e9aaca0f",
+                "publicKey": "8e6f829df60aaee5e24bf00086c36250a8e63d0f7d23002b6ef934cc054d3871"
+            }
+        ]
+    },
     "decimals": {
         "sequenceNumber": 0,
         "value": 6,
