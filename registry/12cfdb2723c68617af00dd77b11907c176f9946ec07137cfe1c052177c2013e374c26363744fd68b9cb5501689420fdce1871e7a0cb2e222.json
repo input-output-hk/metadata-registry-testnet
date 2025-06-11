@@ -10,6 +10,16 @@
             }
         ]
     },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "dADA",
+        "signatures": [
+            {
+                "signature": "fc6a95255229fa1fc72156262ce7075b4f213398b263c59e96bda6486589c80b0d5536b5b579e0f895f4ea37a5418ef4b4503373254e182ee6214798bd2f0f08",
+                "publicKey": "8e6f829df60aaee5e24bf00086c36250a8e63d0f7d23002b6ef934cc054d3871"
+            }
+        ]
+    },
     "decimals": {
         "sequenceNumber": 0,
         "value": 6,
