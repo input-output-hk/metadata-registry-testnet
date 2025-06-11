@@ -10,6 +10,16 @@
             }
         ]
     },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "dDJED",
+        "signatures": [
+            {
+                "signature": "404dba838caf9886abb3e1411c52358efb64a9f12936b8dcfced98ae73beb7f4eca117c5a4348641e04483711b340be342f135a8f3de4234e857e990ea678508",
+                "publicKey": "8e6f829df60aaee5e24bf00086c36250a8e63d0f7d23002b6ef934cc054d3871"
+            }
+        ]
+    },
     "decimals": {
         "sequenceNumber": 0,
         "value": 6,
