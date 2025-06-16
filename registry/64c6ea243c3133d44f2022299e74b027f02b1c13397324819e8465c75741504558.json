@@ -1,0 +1,34 @@
+{
+    "subject": "64c6ea243c3133d44f2022299e74b027f02b1c13397324819e8465c75741504558",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "WAPEX",
+        "signatures": [
+            {
+                "signature": "bfd137734c68bce5b42f9617946d4b2ab4c5e642c4bcbba2063fec931176177580b271f394751724a56b9c7deab9515d87e2a9591ac0295e9c4c632711a9b40b",
+                "publicKey": "e932932f7476fe689def15a823af1225d7b85bb9a6a595312733216c301de3cf"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "5d936cd641e4c8eff9e6d1caa17bedaaf37da285e7602de6fc8fe7c34839d707e901b806616438044e54357d463ba1ab05f0cf22e9acba9f1ea64040cce9d40e",
+                "publicKey": "e932932f7476fe689def15a823af1225d7b85bb9a6a595312733216c301de3cf"
+            }
+        ]
+    },
+    "policy": "82008200581cffc6c3b89cb41b843b2c8ba09d7327c59ec7cb012c720e5c2d852d4d",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Wrapped APEX",
+        "signatures": [
+            {
+                "signature": "af45f1679cb3f2bf4169e13d7b24e084617280f36a9257113fe0a03a3c52cb92e44a55892ee7a2cfa2d87867c45b63b52adfb381525d41ea2d46d2e1f35a6c0e",
+                "publicKey": "e932932f7476fe689def15a823af1225d7b85bb9a6a595312733216c301de3cf"
+            }
+        ]
+    }
+}
