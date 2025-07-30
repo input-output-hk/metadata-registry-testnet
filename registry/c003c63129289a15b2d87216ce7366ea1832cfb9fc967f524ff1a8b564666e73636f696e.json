@@ -1,0 +1,54 @@
+{
+    "policy": "82008200581c348f6a1e72a61b0ad8552106614f9ca792115b4bfcf5d79d6b81d4df",
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "3f828e3ddb42a7067949615faae13a4adda922386bead87895981058e478c585",
+                "signature": "f93699534cfcd3bcf7b9b1cfe969bd9f581ea23c8eb38da79c08a952c26b88d2289569633e6eba12b2c7dee5b9245605147bf06f780471406d8835e4bc2b0e0e"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "dfnscoin"
+    },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "3f828e3ddb42a7067949615faae13a4adda922386bead87895981058e478c585",
+                "signature": "53ed9a37a185d6bca6d68aad608169d6153c83df0cbf9e96cf0418dc412b137166ff204859edcc4720a316f5be3f56001862ed38d9e17936dfbec7129d14a50a"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://www.dfns.co/"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "3f828e3ddb42a7067949615faae13a4adda922386bead87895981058e478c585",
+                "signature": "dc8faeb1d516be2da978b4c3b7514bbb7ba38c6eb44fe7dfc06a81e0aab0acc0b0a49fac0f4376d5694be36ab827eb535bf14034459a6ca631f0d6619e1e890f"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "A currency for DFNS"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "3f828e3ddb42a7067949615faae13a4adda922386bead87895981058e478c585",
+                "signature": "2d838a13cb64a6503bea3793da08635bc9cfed490da4190aa8b01fdf619a2ca76a543bd479078111dccf3ea9709fa5f10774e8e3d18ac073cac801daa8e62d0f"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "DFNS"
+    },
+    "subject": "c003c63129289a15b2d87216ce7366ea1832cfb9fc967f524ff1a8b564666e73636f696e",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "3f828e3ddb42a7067949615faae13a4adda922386bead87895981058e478c585",
+                "signature": "d2ded6e52ecc4ac3dbc02db1a240afe874814429aeb7399eafa52226c9fa34df711464c425bb47db05027f9e92e271485a09f2506c47f0bd146f2721ea747504"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 4
+    }
+}
