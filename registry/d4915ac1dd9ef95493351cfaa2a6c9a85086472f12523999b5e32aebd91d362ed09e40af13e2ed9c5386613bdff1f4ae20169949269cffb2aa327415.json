@@ -1,0 +1,43 @@
+{
+  "subject": "d4915ac1dd9ef95493351cfaa2a6c9a85086472f12523999b5e32aebd91d362ed09e40af13e2ed9c5386613bdff1f4ae20169949269cffb2aa327415",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "test pr",
+    "signatures": [
+      {
+        "signature": "4b215089090ff8d6389234de79ba8cf70aa50e0b959f7b0b6ac59de9c024f61cd6a730263c9ca2c8c08613839a4dfdb89b6bec8f64696b83bb57988d3f2e1205",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "=0",
+    "signatures": [
+      {
+        "signature": "20becdccee76cf082311de21b2d9619396496820711b941c25a244f4537b0326b527b2ab4c419764b13af622b8d784c0efff418a04da1216d473c77c7009f701",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "OGOO",
+    "signatures": [
+      {
+        "signature": "7cfcc89cf62d4ae8148e2d20d643935f60c6a9ae485f48e3449a80470f162304d1cc24250f83a7c4730e2a6cd3e45bcde981505d161ca8f4a3af187e47984d04",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "871beda350b2a0e6c87936f79d44f115976208a7729b5dd8c8659f0ec90fdfd1728b9bc17b6b4aaff91c333150a9b13c385046a3b86715430f79d5ba82e9a601",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
