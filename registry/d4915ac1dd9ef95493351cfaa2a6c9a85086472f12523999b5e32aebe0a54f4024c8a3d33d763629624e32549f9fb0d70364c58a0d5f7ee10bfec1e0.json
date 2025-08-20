@@ -1,0 +1,43 @@
+{
+  "subject": "d4915ac1dd9ef95493351cfaa2a6c9a85086472f12523999b5e32aebe0a54f4024c8a3d33d763629624e32549f9fb0d70364c58a0d5f7ee10bfec1e0",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Testing Contributor tx",
+    "signatures": [
+      {
+        "signature": "533587d54421fa872ab4f2944da0eec7413506abb2df353e7dd15a7876538d295e8ab979686aa03e102649e5cb822966a5f6cd1b235ad85778081507893c2908",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "20.08.2025",
+    "signatures": [
+      {
+        "signature": "4efd44890b511b9ea29bff1c2b348c663e9ffd1256b1d686f389e03b7df04c1152d4d479cd567dd0c66b2ba67ab70ac3b22a5090dc6f6d6bc6c2e073c651c306",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TICKER",
+    "signatures": [
+      {
+        "signature": "9a3763f197a1f47b83c60847b5766f8afd8e01e870baf76f82081f55f55159541cc3377ffc96817cf83334c358160bc7f700f6c5ea6ba48561d64a9cdd5d3007",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "69d1ef06904d49a70fd1a9b11dbe4195eb9b24629e0cf75c53c8708edff48fb2c080497b084998f6695ba8065f8aac92365264423193ec362d5f893a1646750a",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
