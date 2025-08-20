@@ -1,0 +1,43 @@
+{
+  "subject": "d4915ac1dd9ef95493351cfaa2a6c9a85086472f12523999b5e32aeb3d75233320d8d8d90b99d3d6ce392279ecc7522a6ba5e1d2d01660515c4a5c1b",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Testing NFT",
+    "signatures": [
+      {
+        "signature": "4eedecaabbea7af12854c2dd1710fa2bde3429eecb98dffd4b55387d742c1a72a46bcb6598ac4e468022ec219a7c87d32d875b732a0ab1840d13041ab5344b0e",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "DSADSA",
+    "signatures": [
+      {
+        "signature": "6f5d57c9c9c0b0ea4f79658404c43af3593867a5bd3c824e46ce1b6a7e0110e47e17b56c489b5f80181cb95eb33dd3ce0bc159b63f554cd3451fe08f72323b07",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TOKAA",
+    "signatures": [
+      {
+        "signature": "4f8c0abfa56217b93715cdb4ed4b444174a4c8acd9efa2c908f0b1797978b5248fabb6aa8a5a5fbcd3eea750434e3c4d9ff9036a9fdf38baa24e8b104e41e60a",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "134182c132e3ca139f831bc8090e7ca1b12b47a4df5386acdcbfd8a0b0493dad501f9f59e5a0293b7b3980d3ba2482db2f3465cd2bd33f0666d2eb127851470e",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
