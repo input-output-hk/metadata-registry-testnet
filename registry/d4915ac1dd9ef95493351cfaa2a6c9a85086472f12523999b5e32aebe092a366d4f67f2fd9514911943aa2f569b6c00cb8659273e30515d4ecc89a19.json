@@ -1,0 +1,43 @@
+{
+  "subject": "d4915ac1dd9ef95493351cfaa2a6c9a85086472f12523999b5e32aebe092a366d4f67f2fd9514911943aa2f569b6c00cb8659273e30515d4ecc89a19",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Test new bounds",
+    "signatures": [
+      {
+        "signature": "7f8617800176dd7d03fee05765ae57a00d14c914d15019a292409be59325e72aa42e75be2f9cfbad68d5a45e7912d9e53e47e0cbf7f6e81f81b7ed9e59ad5c08",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "acquire_window",
+    "signatures": [
+      {
+        "signature": "f8b23bf2cb1176f6522787ea1bb50fe4bd7cef1c12b26e752d58062495e675960fee188e750c900d21787d436c077c440a4089f2358c92cf635f6127720dbd0e",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "HONEY",
+    "signatures": [
+      {
+        "signature": "332a6c151f0b980837a09f6143e8f3cf4dd3b81671696521479da8d388658d8c534dbe9d1f7eeb26fc9e24ece7b30c0ab5befeb2704a1b613379afd9b1e5ad00",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "67eb8072b837a3d56968abc144f299af391cc98948a0d0017322bf6d36f85e0f1c41b80497c832d169653a103214064fe2c825073c1b6c6be0b068b855975f0a",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
