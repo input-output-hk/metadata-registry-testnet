@@ -1,0 +1,43 @@
+{
+  "subject": "d4915ac1dd9ef95493351cfaa2a6c9a85086472f12523999b5e32aebf5f636000ae2bdd8e9994534d0e0a6941d6a62ffa696951dd43bfe2433ce22e4",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "New vault validation",
+    "signatures": [
+      {
+        "signature": "cbab9d554c996f110d399835e28705dfe85819bfc5b321b7a5c634574addef25397250fd86c17450dce00d8218e46a84b7252e7e2bce6e4967a669885d3d890c",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "Proposals, mint, contribute, votes",
+    "signatures": [
+      {
+        "signature": "60783ee2da0cb2f09e2d3d8740f7b22f1fcb5a3a05d0dc598f868465962d81b9bdf1178c00cbfd5bc1134bb4822b5d552f8e6d0a700246ddc7f4662afde7050c",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TACKER",
+    "signatures": [
+      {
+        "signature": "e9b00898132cb58dacbbc003fb7b744c5157782b7b75d64ba5a1d13fdb56dbe90cda15110d6cbdd1d1ea450cd86a001728fd0244659aa5d82e8ba7c7299af80e",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "d3d50566ff17cd4d5f468d651d73db05ad9997c1e45939f52a95a8811845498da141f4c67057380b5e0e093252e14d46bb3f441036a36b3eac054b927b745309",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
