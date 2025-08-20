@@ -1,0 +1,43 @@
+{
+  "subject": "d4915ac1dd9ef95493351cfaa2a6c9a85086472f12523999b5e32aeb7c6967c8b7295cd6355175e833aeee429a2be5dcfb04c2ec70df9aca003fab6f",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Testing tx size limit",
+    "signatures": [
+      {
+        "signature": "3dc563f284e70605bd347970738de28b96eb5cb6ce4ef593bf7ac703c253bb6005eeac43b48b6952bb820d16c50ff8f9f6776672a135d74f5408f1021540d40e",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "20.08.2025",
+    "signatures": [
+      {
+        "signature": "e5f38be1a41f39a16daf76b661e8f0aa834351795dbba3359383da6f6ab808048aa54f81718a70d0d95534653d66e2fd4e9510ba23adc25befd1fc01ce728d03",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TICKER",
+    "signatures": [
+      {
+        "signature": "46011e0d6f7723ae8d680b0b1f5a08354436dce72d36a942fadb066c1d245bc255aa01f94cd6d425f8977f5dae8483fbb2b79fdf075593f786f87a53e042bb09",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "64c5058f3d64f1d5eb075d9e7a244eda745cae3f432462a2b66142d334fa5e1eefb9d99c9ff74157530d52d9677858cb7391b1f3e9063f3f0ecbc9c1910fa70b",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
