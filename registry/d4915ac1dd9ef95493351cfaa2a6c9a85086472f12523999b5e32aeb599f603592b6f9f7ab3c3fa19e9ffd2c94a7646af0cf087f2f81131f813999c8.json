@@ -1,0 +1,43 @@
+{
+  "subject": "d4915ac1dd9ef95493351cfaa2a6c9a85086472f12523999b5e32aeb599f603592b6f9f7ab3c3fa19e9ffd2c94a7646af0cf087f2f81131f813999c8",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Testing ",
+    "signatures": [
+      {
+        "signature": "67dbf2f81857dc2c78f19b09137f3686632a513d92c32d5130870eb98dc317f17de4ba119db94845e64e73bd64b7d5c0d4b6ab8fd89e630f7fb2ee44180eda07",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "freshUtxos",
+    "signatures": [
+      {
+        "signature": "a2b043c5805019979ddeb4ee35cdd8203da4e6d988acc35b8ac88f5b915ff5bdc5741e72f07a01f021001b0f0fc1e7177dd6fb7d1c7931632df910bdba0adf08",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TOKA",
+    "signatures": [
+      {
+        "signature": "7e3b7657a9054d73f11f49fc85943a70fb9e8212fa0228bc0c3aede99c1db2b734c41a452cdfbbcba0fc2a735a00aab5d13edeec5fd681fc074185e9b9ccca0e",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "d5aec2a55d169272c488259d2933b5a488b0230a564f971dcbf0c2a1c387cb748cee2f4e45dc8cf3bdaf8ff720eec0e18e92240492f40a1c9d98858c2c6de601",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
