@@ -1,0 +1,43 @@
+{
+  "subject": "d4915ac1dd9ef95493351cfaa2a6c9a85086472f12523999b5e32aebb77f60fb159b298078ac0a08a526a8286d04666f67b9ac67b0bf122dbc87cb4a",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Test",
+    "signatures": [
+      {
+        "signature": "145c2b9f87878d55d1c5794180d38269749ede7f57bb05db5980ec7a934c1b352f2bb8815e9bec1960c7ecab51bac811466a036415b4f71287d823e2edfd5503",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "DDD",
+    "signatures": [
+      {
+        "signature": "f149bfe99da5b81452eb9bb9770e2fda2cab6823242bd3c22e33ea4c0fbdabc68b7e255dbd17a096402d9aeefa1e783d32a172540f4af013cd50149bc7e24a0f",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "SAAAAA",
+    "signatures": [
+      {
+        "signature": "7179ffc03d6d01dd217588197796aca74e019b7e601c7840909e483874157b4b8230be4b210993e94768f8b4da8f182067cd5526caea3af5af5b3d480ce4f30c",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "a701763a125bce4dc48a6dbf0e288953f354a2b64eb9c1b4cb5a4fe4e9ecbc94bc822edb3b78900c9c759ed45fc411c49100d2b61ca2a271b6884bbe857e310f",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
