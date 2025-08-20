@@ -1,0 +1,43 @@
+{
+  "subject": "d4915ac1dd9ef95493351cfaa2a6c9a85086472f12523999b5e32aeb4b8ed241e552b311dc5f3802484efb47d2c9c821b6bb4b425d49c1f2d4a86f72",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Testing proposals and claims",
+    "signatures": [
+      {
+        "signature": "bdfe8886d60b18b27cd0293b546f7ce82911bc0ecb3f86b9b13eaebe86a85aae2460c2cb4e0064fb9fc1183c131d4c01f7fef16d6b613d0bec73cd3344ee3f0a",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "Testing proposals and updating utxo logic for claims 20.08.2025",
+    "signatures": [
+      {
+        "signature": "9b5af8f67596b81c6eae498fc2a198f8283976e184dd7cb5d2df56c155ed071c38a0731b06e2ea76205b22a91865f95f2c2d5fffa3a1d9662c41042c9d66840f",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "JOJO",
+    "signatures": [
+      {
+        "signature": "249ca31e16c1f06262b1859407ced341e8b1b5f6dd0c4f5254bd89e53ff74d15c9c50a485e515a0cb503636e8517fb100a3e2c38986cbbdaae3bfb0376c2080c",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "e098028b476dd20e96dd76b901ef320bec668009da5c42e8601bb5e9688dfd8074c9a63033adf9996a84c5993e087427dcbd9d42478063e2e6335d2d7aeb5f0d",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
