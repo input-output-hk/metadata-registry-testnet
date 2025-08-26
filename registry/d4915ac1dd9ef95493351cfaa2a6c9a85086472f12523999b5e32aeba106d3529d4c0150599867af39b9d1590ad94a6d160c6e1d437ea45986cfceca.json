@@ -1,0 +1,43 @@
+{
+  "subject": "d4915ac1dd9ef95493351cfaa2a6c9a85086472f12523999b5e32aeba106d3529d4c0150599867af39b9d1590ad94a6d160c6e1d437ea45986cfceca",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "VAULT NIGHT",
+    "signatures": [
+      {
+        "signature": "30c66d9a9bcf2191af215ea33d37d210f0d3070a72e59c0dfac04e51b2835afb38489e01b2f51c9303ccdd284573c34ea20582b9ee0b7a35b5489059288ee805",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "commit id: 747a46a9c635a4de4072aa69b5f8e47e728bb36d",
+    "signatures": [
+      {
+        "signature": "8bb1545d2a6736890daf238a2c554a5269e9b2d24cff93a45d9cadbb7ef33b947a48ca59e6a579154fae403b4e0cff5c0bfb5a12e4aab5428debbe63a077450f",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TEST",
+    "signatures": [
+      {
+        "signature": "81bb134da4b9a1182d66d5aa5299af5d04f2363f3ad48223fcad8eefe05583e35d07eb5f211104f857dc94ea8027a8511c326526cd9e028c06c1292a4b888f00",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "406ab31a5f07aac4477f103fe7feef2bfd938fe437686b94351a106f783a7412783bd79ae176af6ab898aaf4dda52f79c3aa257cc2eeb8c985461f8c1738e90d",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
