@@ -1,23 +1,23 @@
 {
-    "subject": "3a4536b6554588a1e284293e5493ef4e43f83f753bd61db0c333dfb26d44654669~",
-    "name": {
-        "sequenceNumber": 0,
-        "value": "mDeFi",
-        "signatures": [
-            {
-                "signature": "8fec9f0e2f13e9f77452465b5aa5c1e5fa4e9777b5ad2feeb7f076cbac1cf739231689982dd086c06783d8cf8c68e0fc3a6e8222038afe43e0bf5bd65449d601",
-                "publicKey": "baebf525688b94fa2f2ee9b9559c616d2113d97fc15c294424efba63aa2e32b5"
-            }
-        ]
-    },
-    "description": {
-        "sequenceNumber": 0,
-        "value": "testing metera",
-        "signatures": [
-            {
-                "signature": "9470b097b65b20e29d1bd116b7c45878f0c832046dffbab14a27041c59929494b5447e7ee4259afb8ddeed637be3fc71e842b469a91fa5075fb22efdd3ddbe0d",
-                "publicKey": "baebf525688b94fa2f2ee9b9559c616d2113d97fc15c294424efba63aa2e32b5"
-            }
-        ]
-    }
+  "subject": "3a4536b6554588a1e284293e5493ef4e43f83f753bd61db0c333dfb26d44654669",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "mDeFi",
+    "signatures": [
+      {
+        "signature": "8fec9f0e2f13e9f77452465b5aa5c1e5fa4e9777b5ad2feeb7f076cbac1cf739231689982dd086c06783d8cf8c68e0fc3a6e8222038afe43e0bf5bd65449d601",
+        "publicKey": "baebf525688b94fa2f2ee9b9559c616d2113d97fc15c294424efba63aa2e32b5"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "testing metera",
+    "signatures": [
+      {
+        "signature": "9470b097b65b20e29d1bd116b7c45878f0c832046dffbab14a27041c59929494b5447e7ee4259afb8ddeed637be3fc71e842b469a91fa5075fb22efdd3ddbe0d",
+        "publicKey": "baebf525688b94fa2f2ee9b9559c616d2113d97fc15c294424efba63aa2e32b5"
+      }
+    ]
+  }
 }
