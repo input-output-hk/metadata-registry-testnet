@@ -1,0 +1,43 @@
+{
+  "subject": "4d8a6e547e120c6094302e56039938bbe918d459a214b75e8b549fa0986caf32e9305e2a653e57b45c353cbf7f46d42e72311670efe9d3a17001ebe7",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Vsause",
+    "signatures": [
+      {
+        "signature": "6e1b10648d0df43e56ba464db3652a7bb74a1212ab08eb8778eceaadebc1e703e441dd66387af82accc89c86f2f63cdaa519079302e37c748fcb168a7a809b0a",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "Volter",
+    "signatures": [
+      {
+        "signature": "73b84252c667dbef3c1b7da7ce422f264ed94fd42ae6e940f7aded2c4b8e25db66d269b25447b6844b89092c0aca0f4bcdd1f1c50a270e06efbb53b7973f2d09",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "VAULT",
+    "signatures": [
+      {
+        "signature": "7866c6533f311086e52ff065bb9649a5d3ae985bcf7975cf14d6d67349c004a1bec304d4cd673c59331b9b0a90d470a298a42a597ee88f3dd522adae42531d08",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "24ba3bfc7f869297d70303c8774a96bf0e687429e9aab2d0dce7dde83911b54cffed4f4e98397fd4551319f8b22c26786b1457a99231eb313a77bb28bedda906",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
