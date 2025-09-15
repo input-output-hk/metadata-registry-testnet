@@ -1,0 +1,43 @@
+{
+  "subject": "2ac9b40a8e3b2a7673076587cf5c33c1facc912dba2010e3b5a57b29028cd90dd0b053d0c101b53e1f9af15d8fccac89766b402064977c992d3b8681",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Vault v3",
+    "signatures": [
+      {
+        "signature": "c1c4cf52bd6740017a63e08df55163ec98437dcfad82a36ecbc2a5f28f92938d33a48e70f81b05bfd9df299a7132b42e4d1c2bc541638ea9a84ff2c2c915580b",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "DSDA",
+    "signatures": [
+      {
+        "signature": "8b134b1ce8cf1334e15e9666bdb0786a8c2575200933f16cae64b2d6e75d9dc162c8f59236ff9d975c8d6899d4c029f3d48869092767b58ea6a6b343823ca207",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TICA",
+    "signatures": [
+      {
+        "signature": "41caaf79ecf20b567d7eebd2ec7ee21fbe0dcb94dcb40fea424df5ac02fe9cf87f3986ecd5ba311c151a231eee0f2e53b6b5a52ba6fd76a1e2d5dd1a0ae4c508",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "8ddc0f5bc97d4abacd71634305e36bcace1a005486764ea508c195985fab6e91767e5444d9a833a1e48e9f0f85f806d12460c88a159f606bc0b52490d6759502",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
