@@ -1,0 +1,53 @@
+{
+  "subject": "32e6c9048f6ef078527e60129fa4db71a9fb8f14b930dd44ce2d0fff288f4bf931c0566002c0afa3112ff2da4185c9898b7b4ff8ae2a05278a1e5338",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Obsidian Vault",
+    "signatures": [
+      {
+        "signature": "58f50483ab0c4cc48e9ef193d09e2cc9b4d1babbd9984257226add12e79cbf3ade6bc03dafc0367503a7dd0c0e9398f1bc31f3434203800af8c5adc9245b650e",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "A mysterious and powerful NFT vault forged in the spirit of volcanic glass. Obsidian Vault embodies strength, protection, and sleek elegance, guarding digital assets with an impenetrable edge.",
+    "signatures": [
+      {
+        "signature": "32f0e0f9f81c1aeb781fdfd7a3a0ffc20eb6192edef5bead237092cbd517b58a0aa34828f6bc13c83d1c8f471e7eab8a38015083b2e5a78fde6d63e95fc50e07",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "OBSVLT",
+    "signatures": [
+      {
+        "signature": "c104a6dc93673eb393487d9218b09f6796d3589e018c9249dc9ac44e7cc77b9397292c66687c62405f0e59e08ca0ef6d33a69dc66b7c05558c3767afe95e3304",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "logo": {
+    "sequenceNumber": 0,
+    "value": "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",
+    "signatures": [
+      {
+        "signature": "247e4cc37840b55638412e51299f5a4033a178a54aef3941ea052e8d3397cf31cf8a4189c1f19327f03eb73b90c066885369bb683f4665f472cf173a96f2ef0f",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "96e5ada363daa8e64471618f4e7bb8dbd2ee73717bebdc24e6227baa944a05df716803e5c6a54bc469f46ebb44742f8e77e4df0dee2164dc5cdb74d28ed1ef08",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
