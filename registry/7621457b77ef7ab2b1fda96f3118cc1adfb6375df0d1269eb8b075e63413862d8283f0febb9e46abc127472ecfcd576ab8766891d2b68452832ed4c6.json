@@ -1,0 +1,53 @@
+{
+  "subject": "7621457b77ef7ab2b1fda96f3118cc1adfb6375df0d1269eb8b075e63413862d8283f0febb9e46abc127472ecfcd576ab8766891d2b68452832ed4c6",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Running",
+    "signatures": [
+      {
+        "signature": "63984b198a8c38c8b621da50919a14475affdbe6e2db8930c846c1b2e4d454d966bcc2e9aba8816fed9044fe7131226d3d1550d9733e54cbeb82d4d5cf124704",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "A dynamic digital vault tailored for athletes and sports NFT assets, combining secure storage with the spirit of endurance and performance.",
+    "signatures": [
+      {
+        "signature": "48738641878b45a84e0bec2c817405dac47f8b664ecacf65b3bf39bf20a9b11bddfb2ad81efcf07ae0d60eebd646b5bc2c251306d3868dbbadbf0360080f9201",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "RUNVLT",
+    "signatures": [
+      {
+        "signature": "05af5f5292c99fce2d52898f15514aee937a614c5ccd0051b593fdd6223d7917310c7a824bef74bf46f72ea8c9e204a3a3e8f2510916cc9f6022b0f88752e60e",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "logo": {
+    "sequenceNumber": 0,
+    "value": "iVBORw0KGgoAAAANSUhEUgAAAIAAAABVCAMAAAC2ExxlAAAAq1BMVEX///8NJz8BGzUAFjH8/P3+/v4KJT4IJD3tShM8ZqjtRAsEIDkuXKOIkZ2qr7cTK0MgNUz59/i7v8YzRVkZMEfw8fUqPVLm6PD96uI3Y6b808JrdoTY2t+iqLGLoMt/iJXvUhzf3+P+9e9Gba3LzdLwXiuxtbxPXG1AT2KTmqVzfYuXq9Bibn1aZXZcfLbxZjQADSixvtx5k8P2mHVqh7zybD3zeEv5uqGGk6fWK3C3AAAACXBIWXMAAAsTAAALEwEAmpwYAAAEq0lEQVR42u1ZC3OqPBBdAgQkKqI8tIUqlqpYtba3j///z+5uAkrb+107Y/hm7gynM5UMYE42+zgbATp06NChQ4cOHTr8DdZFXHja/rfXb8N4PviO+RnbAtAGtrKDVX5/NodrbGDB7shMAkMIIRyHG4bvh+FoFMfxZDKJFQEgU1swqJ4+4zgG6yoCt8w3EH44wuk2m/V6v7vdzgdlthoXhAQntyFIcPtpqWv1+BniagKm4VTg9Zf6EsoI9P0WbI0hbgNaIQ0ZdxrgTB8BQxkBbUAmyNAE4yLN5UOZKcQaZ0JXKEaCt0TAcYTDRrFaIcf/aAkxJNPnoTA4Y7cR2AHMGy/oJsAdXqQ+TuYIZiIb8xhHFABresbg5iah3WiRgMEygMIwmRNOBkWxKjEGcf56zf5xAAHs2iNgmHsy+DgbF3kV2zbOP2ScV/fnSGDQGgGDxRRsn76OvM6vvc4wdyD5tEOAizDFBYJVlHMMgnGapnkeQTJhNUMuYryfOi2FIUcHsCDKNo5KjJgVDT/ejxoLptkgCZtxqI8AZ5PAGm9j9ECZjNS+C7M5m8HWAMGEtUKANvj2aAqa+ox6VM9HJlg3vVCnBTZzNDqtuglZoRSkCXbwORFodUJT5mNMyHGjKg3KssyybLiizIypGcOgJQJYi+qC5NcICSOJuKrOY8h9h7eUCWtfk4WwKs5NOwzRCgk5gd8qAalI1OKr9cfV8pHTZICZYGTyKkrasQAZQSqUb1bIhkMSSMmOMUe0SYAbX7afmCCV9X5dSFUw3vi+LgLsU+CfoOKBBAqtf7tFfSo9gSQa1gsrj7b05vWSDEXpf0JUKtU/+8ImkiKYrHAr3zSvI2BDgft6AVkDK0upcNSp1d0E/vfWxNY6Y5ScEFmn5ivHUpznaYRK2ArUIA8sayqhujFbDabBlZ3RY+/+hMPrIxoUFxhsjBBTAV9RPxLFfkh/KSyfFgj3Q7UKbwuJm6u2wIa7fm92Qr/fu4vQqbDkYk1yTEUgpIHgSODBc13X825oF5ZPNHA9DQQ+oX+IqOYLCjGmCGAnQGFZE3C9hylZoCUCvf5LLTr4mQAlxxMB13u3tRNA6/drKsklAq73C1sUrQRmL8/Pzy8zZYLniwRc70OzD/QfqQd9nVXXlwksprZ2Aha89H9KwPXelm+aCQSQ3s9+ugXkBu9afeD+cDj0lA/M8p8QcN2FqzUKED8OwyZaSETJBQLewy+vRQIvVF5rAkMIgroXa1hg2mCgj0C1AylQxd9QR2qwPUmWUpIRfn4icANvnmYC/buo9saEenKlFLFbGpT7U+vYIDBdeJoJYBge1NUrnYqtlFTldCpYtY5bsM8E4EM/AUiqNHBHSXGjTgWoT5Kfwk+bBCyo3UBnKn7u17WAzkVQ855VujDp8OBMAFXLu6eNAGYAlYrV9Uw6YnE6KTDwlMDPKCCbBGD6oCkTzkiMzR5pguBV6rPegVRRVE64Og4W8TaXsbF8ck8qzIYbee3eXKmKoyRCJIGS2nIgR8jHSod4XFRmRVCdltc6VA1geR60obftxk8RlvVH62maVOH7gE6nv/wo8uV+47pDhw4dOnTo0OFv+A0xyZvY9MLXzAAAAABJRU5ErkJggg==",
+    "signatures": [
+      {
+        "signature": "07da26c9733451c1f18d34208bfc4a269e50f3b18345b6456f3d05c1db0104eea6b7609c50628bee8915b275e1f2555a70000cafad6f58d0ba334c1b175bd80a",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "6f003e714ef75886d3eb4dc2110b5db4c500fa3ec9d9812668f9fe6d8f93be1ce69ff8d94e0235c58e622a2fa391741c7ee5819954e0ced2fe87ae22c2c53e04",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
