@@ -1,0 +1,43 @@
+{
+  "subject": "498db4fdec6a348fcb44de9e487aa209d540a516446e7f4bcc72533f8f2a5307ad4c47c9b647b5d0fa3cfcea1966b80fa182c3cfac62a977d4d9b60d",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Test",
+    "signatures": [
+      {
+        "signature": "09223b7414db2ee1fd6e7bce6bfbe4c1ffc945b5f4c6d12be4385ae32d63a3422a0d15c3e056b9bad1115d497e920165c1e7c429cddb814490cf94d56b8a1707",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "ADSA",
+    "signatures": [
+      {
+        "signature": "48cc7fb5ed5209baf4fea525f2671a3ca357ca2c9357e885b6f7a74a233fba2770fa3d3b93c3d65d59ca421018a88dfbd88680e3d97d0fd10f82b5374ab9b909",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "VAULT",
+    "signatures": [
+      {
+        "signature": "7e2693ebd0c20863acb8ea59120e528575b577ac94272f3686bbdbd8e039839a91aeb3cc232c0e80bac80c728fe5754ec2918505309e3d80e08abb9bff10f00e",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "ee528d4468e238d32e5e84fd71d73bdb97ad04a42a64340796109a070010083f9ea14ffae4607b62448043c8f85d54c9479d668fc858125a85b37195f619e707",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
