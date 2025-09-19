@@ -1,0 +1,53 @@
+{
+  "subject": "b26e8ed3db0743dae95088bb36dfcf6ff6a4b7c1f78e7955c92886f624a69d31f9b31266f01f17bd45c74195b7997945c4dc3e27701e97aa27154f97",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "SparkCube",
+    "signatures": [
+      {
+        "signature": "3bd0179d39d8ab5a0b36e101895103a69de955e8bed6031effba4e672198b01c220412340695fded269bfa8453676a7a734341415e7bd4698d4e9d1491171b0c",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "Glittering with neon sparks, this cube-shaped vault fuses playful vibes with solid, futuristic design.",
+    "signatures": [
+      {
+        "signature": "d11a4de56cda8703f0f3164f7b535550987b8e83e2a7f00207dc661d025cfe6b1b15a01f9ae4792fc5c3258718742bf28db8d3d79b2323d84bb7dbd71e218d09",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "SPRCUB",
+    "signatures": [
+      {
+        "signature": "877484d6cd48522aa3a6e3af18471ca486e989617ade88cab23012f26694a3a6d0ebeaae39b2c1cf1aab15eabe609a590f18b7ea1bb9fc3e323472a310e8b807",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "logo": {
+    "sequenceNumber": 0,
+    "value": "iVBORw0KGgoAAAANSUhEUgAAAHgAAACACAMAAAD3e12UAAABI1BMVEUAAAD89sj9+NIKAgEGAgELBwIQCgIBAQADAQD++tX898v7+dD99878+tIkFwMWCAIWDQH88rkaEAIfFAIQBQH7+9f8+dX++NX99MT877QbDAIqHgT7878xIANBNAP666n67q88KwI1JQT655wrFAM2LAL66aP6+tP//tj1z2vthwr44Iv59s343YT545D488TwlRX++cv52nv41HPxszH//s8jEQaRfUZNPwXnfQTlcAr2vknxohv2xlXyyl/45ZUkBwLzuj338bnIRQi8sXZyYylpVRzgZAo7FAZPKA7uqSR8bC9VSAzYWgN0NxKQTReekVTKwIiuommtXyLc0Jnu5bfh2abUfCLn2pmHdD6jOBFWUSiCWyvfrFW+iDInJyfEpWDrAYz4AAAACXBIWXMAABYlAAAWJQFJUiTwAAAHM0lEQVR42u2afVfaShDGIQkkhPBiAgQDRMEg2KKobYBrW6UUKFSK4PtLbfv9P8Wd2d1Eeq6nf23w9JYHhISe01+emdnZDUsotNJKK6200kor/VGS/za70R8v4vl5sLygIOG/ASuKHCD3hcC/vYqAg/0b+/978F/cWUIh6UckJL+E68hDwGD5pXIpvyB5+f3i2QEkL/IjkaVcidhyWmIIGvQCeBnY0fT+/n7alZYacTmUmn4iuh8tEyyHrDPK/fT1visvazYk3M9fmT5PFWlZ03Aoc3H02dPRhSUvKdpyaHxztKBxiBaYHDx4evTPk16dSbKkLAOstM4o+BXVzSgkAnkJjscXHpNo/0wUkawEnWi5ewE0gqS6cSRRkpRgF5ngShldIPI9/qH296dShpADBMPaWRHHN68I8cv7LyA4uBmlMiKigwu2IklSanyzj8S3THB40U1lMqTCguOKYne6/x6BHz3B8RTIYDkgx7ICWDEzOvsC0He+gPzx+6hLoq0EEW1ZItzU+OItYD8sCM6+dS2ItiQFEG5ZoeDu9Pu7d8dMOyh4//A4siwS7UDAxPDo7PHD8Q5F+jre+dZtWay0uUeacLvj72j0ja9DfNl58zjutlJsOMu8CzqTSVnO2SNiDw/huaA3uzPHt8wZjH4tMLyDyN3/atilo5nvoJIpt+UMjw93Xz+j3b2fI8dKkzHFeSgB12iVf74G7t7rPdTJyckeE370zTFoZcvcA5102sg8Idp6Ep7ubaFlKyVyJStoOGU448stn7j9JALfuu1AffG1LBOw5Th36wvIDRS8Mvj29oCCRYnjZCiJqbTlVPrrlEehv2h7e73tOIbOWja3boklnezcbm5sbG5uwGNzcx216WtjY+285CQNjo0T1q4k0snkYJ0ANz0sJXv0tbkNYCgviVOWERyJYk3fra0vCE56ROwS1m4nDmaZMzitF0rtIuDWevBYY8xer1hcQ+GFbAxLTkvnDIbugWBk9Aiph/wikU8+LZWSeprbIgiLOpom4DwQikUPWCzm83nvEP4l3wawkY5G+ICRG4laepI4LhablFjMI9YXfNY7OK+gYwBzCjXWtA7gShv+/2YTnoQVhieKnRaLB/MygK1ohFOsFQYuldt5Amk2w+F8GF6aYV+IPrjulAo6NC9OlqG0MlHdKFTKsyIygaciSw2rqhpekHY1LBVgPEX5gSNpAj53AdxAaUSLYDgkYIOCeUzKigjtQzeSVbvvglnV52ph33NDhas4uBpWCoaeSnEaUACGHBuFcmfuAhQxDQwzgg805hnOVK05KBewrKN8liGSSBpmoTy5dUmcwTQNLphEcJ6SG3EAlziCFagtAJcqg54Wr8GjoRJp9I1lGCwLfMGygoaxttpuIy4ICIb8CoJ2cEDBKkm8B4bWhb2LI9ju1xtxkEqjTKuaOoY4NwQh0Tz1wTyGk0SKulDtXMZUBCOPVTa8k4hrCI7XAFxhYB4tU8oQcGV4JUCOEzkBiMjHaMfj5CWO7/FaGMEWghU+/QPnplL1LixoQi2RSBAwjB6PiarVoOxUBOu8Qu2ByzMX8lhLAAVrLA5cYZFbg4u54w7WAdx3G7kcgCG/gEoIFIwvEIVcLScIbtvLscIJHNVbpSqCzUSCeYwJlCzAJwAGxwxs8SouArZaherMFRCM6FpcyOUEik4QAdjMxQDc0rlVtYJgqOpB0xRMklZg1mI5IlJtKDg0NRjHhs6rqgFM1pgwjusMHMsJiVg2m8vhH3hl1xAL8wen9GTFPl8EZ7PZGj58LoRBPa2y1Z7MCxxNJ0vV0yaAsaCAUss+kT1wrDmostUeRzD0TGjWtJ5qMcSSUJM3D3z1UIUVCD+wRMCw2Bteudgo48RuNhuLITnH0KZWn9vQP3RecwTeLOJIhuWt3T5QPTDYrTMw5ZqaO8NI66R/cFnsyZ5luwMzI8SahjYWi+V8maZQv5xU6cpH4rMtQx2Tdab9cF33wb/IFDS3XfUmRV5gQraMJNTXac9UnwWr7rnNapobGH7UIqLlJATbnmGaF4kmDjFTcOedKi5u6T0br9tUtJxOE8udvgv1ZZo+loBz9euHcgUznOYWabI1rdC5EcmTGeaZkU1KztavBzZUlpGm94r8wItke9iPuYKHhSib9d75xLZLyQDAODtGyZhC8mR265qMK2h1YT7o2LC+xEDzB3srEVjYQ6KHfa2OE7LWqNWv2x3bxgSjX6jpxd17HmCfXACy3bmb9+r1ulvv9Yc2cmFaIhNiBNsW5y0RvF8l0a5UyhDv0/P55WX/lNh94oqBbAKxW2X4OgTRnc5kQrClQpIOpAj5gj6I3Sf44joS1RGNAS+Xq9UyZLfA7NKqCmbbS2ad2zCMAlMSsayaQ6EAf+2DX9dHcGzpVKko5pbs4wa9gyxjyOFL+wiRJEnScjbrn7Z0saUt4degK6200korrbTSSn+6/gXXX1CW8jJNqQAAAABJRU5ErkJggg==",
+    "signatures": [
+      {
+        "signature": "571bd756242e78dddc2fbf40bbab39dc9ee18082766ae342e73dd8af3d03053590c9515c7caf86adcbbd4194e64c8e01aede42d66796800c5852fc742356b00f",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "abe3a3cc47a4d62094e764a13de9d24a432cd991edb2acd1026a4bd0d0a539d3fd1afef69e2b138e59ae50589051251d9a324ca0b7b8c32e568ec34a8ce86d0a",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
