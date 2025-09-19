@@ -1,0 +1,53 @@
+{
+  "subject": "2521f2219e723fdf105f31690a690070f97b57b3c5539562df0b7d0306a48bbc38a7de1eb6513331c35e43b769410ed73c68dc07553d37faa1281878",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TEST EDIK",
+    "signatures": [
+      {
+        "signature": "fed647bb2dde944b3a403fc957b12671e4171837df905d080600697dd351c6ec217685ae9f9404040cb8cad65a1eb9c8784a7db5977b49b194dcfea278706b05",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "9a9380433ec4bca771c2c9074ddf4e5e920a5207b408b93e9d0e56fd98a370093904f9f4908d00c6f5de8e7601612e2dcbac038861cf715ac14d8fe3a0eb8506",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "EDT",
+    "signatures": [
+      {
+        "signature": "aa8f6b831c3dc47b1f0d54f860ddbe5648eece2411f20582284b9760435483d946b551d8a54b83fa5f249fa1434a531810b537fb0ec9ac9ef2d8c68e79376905",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "logo": {
+    "sequenceNumber": 0,
+    "value": "iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAHlBMVEVMaXEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABKvP01AAAACXRSTlMAAg9awPGi4zA0pUcwAAAACXBIWXMAAAsTAAALEwEAmpwYAAABEElEQVR42u2ayw6CMBAAKSDQ//9hHwd5tSZG3cEwE8/OpDd2t2lEREREROTvSY8f6U8J1bfD2E/YG9z8fc55bFl/zh3zBE8/FDD7mYCFHwlY+omAlR8IWPvjAzb+8ICtPzpg5w8O2PtjAwr+0ICSPzKg6A8MKPvjAir+sICaPyqg6o8JSHX/DwKK/1f1/+IF2h1TN+a4gGG8bMkv+HJAarr8Hl8PGAwwwAADDDDAAAMMMMAAAww4fQD8cXr/PL+Qn+dHGFDwIxp6SHXEMd0BBpX8qJYfVvPjen5hwa9s+KUVv7bjF5f86pZfXvPre/6AgT/h4I9Y+DMe/pCJP+Waj9ma057zHeCgUUREREREPuUKfRJOhqkMU+IAAAAASUVORK5CYII=",
+    "signatures": [
+      {
+        "signature": "8e49dee1d22dc5d26b1e7641a61d88b20c529f080d0e0eab00d9fbde7bbe2af60302e7f03b5855d121a58f38c8f89bb2467f92bb85dac6029ecdf91713a2ab0e",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "be9776537c620cfc6bb5aa1cb8fc526f454c9fa7226af9e7a7accec51c608ce275e46fe0bafaa7d9f887ea0ed5b1978ab96fdb8906e9812842fb3abafe980502",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
