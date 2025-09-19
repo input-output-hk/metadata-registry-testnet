@@ -1,0 +1,43 @@
+{
+  "subject": "01313b70e2933d0f865e389801e79f45ac18d5d6336fae03c0250281047b9fc12665c97f0244de06f56eb05ff316c5ed57276295d21b2dce5e846109",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Testing fee",
+    "signatures": [
+      {
+        "signature": "70506678e4eb029589865b53fce1496fa97421908ba2d8b964d473eb1f5bf27f465bd17ad5f9e225b5d9d8b10099d9bcbae0312e1eca277fc06c868b45119e00",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "DESCRIPTUI",
+    "signatures": [
+      {
+        "signature": "aa20d33105de2269f822787cfaf31a0a8d0ece0dffa4cca0908b87dca985ec77a033abd62d7074afc1a67ad1953d4e65f006eb2c92238715fe7a9f630947540a",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TICA",
+    "signatures": [
+      {
+        "signature": "a9ebdb88d48abee117867ce1ad749d79ac855f3c34f128509400f5fd0f925505700c57c9ab61678b947a54da97b2b526b77539dc9c0d717607fdc63be6a0520a",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "133e77cbb48f15d083a3d558b2bef5ca1ae4ab0fc4374f3e8871d1c970dfe55b34f3857d082f9b9c65380ed1f6bb80750d2180c3125906a894187f28add3d307",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
