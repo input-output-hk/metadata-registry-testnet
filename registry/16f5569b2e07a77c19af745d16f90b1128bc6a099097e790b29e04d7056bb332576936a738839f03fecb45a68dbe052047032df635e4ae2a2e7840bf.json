@@ -1,0 +1,53 @@
+{
+  "subject": "16f5569b2e07a77c19af745d16f90b1128bc6a099097e790b29e04d7056bb332576936a738839f03fecb45a68dbe052047032df635e4ae2a2e7840bf",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Let’s go ",
+    "signatures": [
+      {
+        "signature": "6dbc4aa633b0bf4ecbecc15c9400702639447960114ccdc7eb0dd4a1ccb35a5894dfd5fcd36c8a2b064197d2cfa04b50e7512cb2530065ac3277c69bc22e280d",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "Fractionalizing my berry alba!!!",
+    "signatures": [
+      {
+        "signature": "4d702c35214d8bdf9bdce77ef1c62f68611237130fe0d30772b473441988ebd79051ff2705f6071ba32c49d65dd2a1dff92def7d373bb919f6c2b0fd81839508",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "LFG",
+    "signatures": [
+      {
+        "signature": "b93f42131437c4e7bd3d01dcb5d8fee5affe5f574f3e207474008c14d35e92606aa58aa2d1dcae7bca6228fcda833ad2bbda40f94247caa1897923cbf929540c",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "logo": {
+    "sequenceNumber": 0,
+    "value": "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",
+    "signatures": [
+      {
+        "signature": "aa5e18fc8dbfafb74180877a97bb507c72a1b0ce566dd1ba40f2df2021217fe197891750a8f4c7115490bf0add0184daea08acacdab17d8f6d5298ce57804601",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "6e68a4be2c7e3a2153c43f2f07d3e23daea7bc96358b002331bc3b102a89b2841a6c4b356b3c547cc7bae19aa699c14abfdf56fca3edf96682c6d35b8d909603",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
