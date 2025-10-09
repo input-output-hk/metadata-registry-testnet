@@ -1,0 +1,23 @@
+{
+    "subject": "d8ab42180bcc9585d2cc7af6c90bd1179c837ae8236423e6686e0f7fd8ab42180bcc9585d2cc7af6c90bd1179c837ae8236423e6686e0f7f746578626c616273",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "texblabs",
+        "signatures": [
+            {
+                "signature": "20e1b8b14e38f3ff86aa4bf96154b063f27ffc45eb9c9dc6fe6fade8b7bf94f24a5e06fa8b045895788bea8fe3848f876b020a85d2ca148126e74a3b2686e108",
+                "publicKey": "909e7c1a34b7cd5337c058ce9cd33212fd97651c13d4375227808301ad9a4ec8"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "texblabs token: power your votes on CareBlock DApp.",
+        "signatures": [
+            {
+                "signature": "6b591b69920cb66352d633767de011f10a6bd59e86c263bc6a2cd3bd0e5eeefdb6e9c8b765f5a9f57d9db86e0c5c47adeda3053912a93f4d2fd657823ef59c0e",
+                "publicKey": "909e7c1a34b7cd5337c058ce9cd33212fd97651c13d4375227808301ad9a4ec8"
+            }
+        ]
+    }
+}
