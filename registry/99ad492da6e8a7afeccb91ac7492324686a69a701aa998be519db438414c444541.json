@@ -1,0 +1,24 @@
+{
+    "subject": "99ad492da6e8a7afeccb91ac7492324686a69a701aa998be519db438414c444541",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Test ALDEA",
+        "signatures": [
+            {
+                "signature": "0fccbec1529b2c50cee04fd0456c49dd5dfe832f4aa384a807fe7bfcc594d8f75c0a80fb2fde75be3a50314d173725db080b44ccf4a6861634688aa45c4a7d09",
+                "publicKey": "e031fafe9491eb65c84d283120a9c4a5f39596631db27b0662c272df336cd117"
+            }
+        ]
+    },
+    "policy": "82008200581cb9d90d698a87192c2d812ccb4c4e8132f750051537ba158fb55c6d38",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "The test version of ALDEA token",
+        "signatures": [
+            {
+                "signature": "edb0a9352238c96133227b3c6c0a4aa61c35b9bfc4a550b719c029aecce4b5f0f40452339c9a37e87a3d59f276494bf9189f17bff38822c7bd035212cb47e10f",
+                "publicKey": "e031fafe9491eb65c84d283120a9c4a5f39596631db27b0662c272df336cd117"
+            }
+        ]
+    }
+}
