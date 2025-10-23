@@ -1,0 +1,53 @@
+{
+  "subject": "9cd8796ab2fa52079db61273a941482ebad291e9eae1972f8619b6bf2456e1d70444881f794884c49f572ae84a435080e0b27766b36d74e4ef7b0409",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Finora Vault",
+    "signatures": [
+      {
+        "signature": "893ec367291e5bf13385747ebfc57a3e17c0ad8523ea64be489c4234efcd807c022de73247dba687ad314484a4bd5fd5759b8c154503cfb54d6d1b8f80a17207",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "A modern digital asset vault built for fintech ecosystems, blending strong encryption with API-ready integrations for financial platforms.",
+    "signatures": [
+      {
+        "signature": "bc2fe5e7a1ce72b7e5f260e843ccdd53225af95913f44cf7a09817c16eb6fec06f87e8852a9442c1a88136eb0510b9387ea84033dd8899b86c770c364b1b6909",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "FNRA",
+    "signatures": [
+      {
+        "signature": "aebfff346e5d4dbfa761a196d0c3d6d30e0ed173bf9662bfb66fd9727eec059d3d858a99f82e386d5980ce5ccd31ffaf8b8a56b8d9e42b4aa90e51159550500b",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "logo": {
+    "sequenceNumber": 0,
+    "value": "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",
+    "signatures": [
+      {
+        "signature": "e5e98615f3dbb54c25bad7057aa2d2d1d874dfbf1b61a14e3e94ed5e08bbf182cdff5aa06dd62e76a361745924e05450192b4d888a7d49c76bf24b418207d30b",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "30d12db6f5ba77c3d28f07f023f4c52d124003f14318c2ee18c63925816057fb1deb6bafb196278012a3730fad897f966e122cbfdb3c8838e96b711a7a3f3906",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
