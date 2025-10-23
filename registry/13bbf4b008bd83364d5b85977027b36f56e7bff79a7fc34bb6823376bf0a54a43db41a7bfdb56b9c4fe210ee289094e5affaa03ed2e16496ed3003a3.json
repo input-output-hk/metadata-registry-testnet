@@ -1,0 +1,53 @@
+{
+  "subject": "13bbf4b008bd83364d5b85977027b36f56e7bff79a7fc34bb6823376bf0a54a43db41a7bfdb56b9c4fe210ee289094e5affaa03ed2e16496ed3003a3",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "ApexReserve",
+    "signatures": [
+      {
+        "signature": "101229b40e4f9c7e56b976fc5337346438531b671fcb8d37c37f2f5e81057bb0a349e2d09dd9e1cd18277e07aabee59cb2a1bda11d2044f9a63d4b3b438fa90b",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "A premium vault for institutional crypto custody, offering regulatory compliance, audit trails, and automated settlement workflows.",
+    "signatures": [
+      {
+        "signature": "fa4e9f3616a12a8921409e72defa8f2895205409a61407daaa263fb84f473ed9907b064e313706074b9cbb72cd9aaa8528b5349c5d7d650c9215d895dca32708",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "APXRSV",
+    "signatures": [
+      {
+        "signature": "a77f72c57ffd4da0531eb2cbefbcc4849114528c8476e6801ed9fc8ea50fe70615147b4cd9af50c198e8c21d5a4e76bde31ba3f55aa5b956f4a08447397ca306",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "logo": {
+    "sequenceNumber": 0,
+    "value": "iVBORw0KGgoAAAANSUhEUgAAAIAAAABUCAMAAAB9T8/AAAAAPFBMVEUAAACurq5KSkqKiopiYmIkJCQODg7///9VVVX8/Pyenp4zMzNoaGjt7e0ZGRl5eXn39/fi4uLAwMDU1NTFBCHxAAAACXBIWXMAAAPoAAAD6AG1e1JrAAACFUlEQVR42u2WR6KlIBBFiUqSuP+9tlLynhi+/O5BT+qOCArHW0Uhmf+zCAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgwP1wFqtoN6QV+0rwdJgK4qRlG02utnN7itZu0CMA2pJVMnZjEzlqCt9ZSU6qADOvbV/goVLfn/KQAxTWMT8AEMLiC8AcakdWsxZ4iA6FAAw4WXABIOENQIvas2tXs9rkYzlA20LmAuDlKr9HYTkCMPVVm9i3ZXo3w40lYTOgtwAAwMLEOj8rQLr7lAhLOdNAhgCqAdafLDgCzLkz6Bmghf4TihEAMIDWHJb6HgAcze8Ac/Jtf58G6wCFnZeptwAAgjGGGrVnIQ98U90jpyXeWLwfvzVjymAhAgPMfozBgpgy5ZdTcNHkpVUuGFqWAwochZsD8ABAW/YtHr5SMEl+rcmqYHLSrRx9C9IbQDMgFmPJP2vl+LTlWA5ADRD2xfBp8rUkrEXB+0GaoVOgHz8biATNpZTUp1sNUc7U8OCUlY/sLL4D0OtrfovmmlbT5XroAJTbJQTjlDt2A6L0G0BngGfsUAveAI6CjI/lEhz3BtAMkILnNWLxUA5/D6DVHrXAfD/zCAAGuPzJlnqGrP47ACiXdgu8TtRN5G6BHqBsV5k4BCqKbaTA3bo18x2AUyfRz2Lfm3HO0E/4U4oACIAACIAACIAACIAACIAACIAACIAAPcAfatgT1PHDivkAAAAASUVORK5CYII=",
+    "signatures": [
+      {
+        "signature": "7aeee3e13ba97ee83d03e652bb546d0e663e81793032d56c5d3c50d681bb05e0d994934cee8e91656a1ab4934da509e74ad3999d9cd972e2079c85e3d1f58603",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "f21c1db74bc1c68eb499a963b9465d361612083cfadd85de7dcfffb456cee704b7e57fc03b92411953eb6bb9165662bf92735b41745b218c26294f081ffab507",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
