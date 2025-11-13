@@ -1,0 +1,43 @@
+{
+  "subject": "5c443585bc36864d2acb8ee6f9fe5eb344579daf455a1389f2e344843e01a078c5502fe5a26ef9e9de4ac87720d0464447111398994dbb731a3db10e",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "GovernVault",
+    "signatures": [
+      {
+        "signature": "b88832b1e647a1deba713a4333ffbd498d4358d12c05e57084a6d1cc14adb0b6f0de6d4d23fd2fb4e9d6526546dfffb48cac0799475179cb149b48143da5b605",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "c26b85a497e4f4149db88a0b07d14b46b19566010354735bf5d67e63cf3ca1073f42c1a560009fd69ebe69051cc5d2aebe7a974da4bea68a3ba79f58e452720c",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "GVV",
+    "signatures": [
+      {
+        "signature": "f617d9056821b92d3bc9a4a91762cf9fe5d060c50b472f05250ce7cbfb224015b3eca0582758bf495756783a7e98c95337de4b8ef23b5a1539b982bcb1e89608",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "c7ead10242d321e92a60a8143e439e35162e4a027b98b6259bb30e599388667f555adc33357722a99ab09ead0623790628c104a319d6cd10ea99a208d7d1cd0b",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
