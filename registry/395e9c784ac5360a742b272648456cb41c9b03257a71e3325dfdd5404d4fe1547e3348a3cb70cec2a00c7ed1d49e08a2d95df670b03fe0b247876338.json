@@ -1,0 +1,43 @@
+{
+  "subject": "395e9c784ac5360a742b272648456cb41c9b03257a71e3325dfdd5404d4fe1547e3348a3cb70cec2a00c7ed1d49e08a2d95df670b03fe0b247876338",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "VLTDISTR",
+    "signatures": [
+      {
+        "signature": "a23b6aabd9233c5925e3db5e8814efd7d931040b252add1ed420df2eb3c4df5eefa0d69d4ffea8551f3549316a7fc05bfc93cc53e8f83896f7229b11fecfeb0c",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "vault dist, mint lp",
+    "signatures": [
+      {
+        "signature": "d0d4417e667bb1849e565a7608d6698e25defc031968ada0066577d8f005e56a934ea028f75c39c6660b8547989a9fb4dfaaf7e41944780ed7f533d17d35fd01",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "VLTDIST",
+    "signatures": [
+      {
+        "signature": "ae5930c6f1af5f9a8838935b4a5d4bb8954978a066f02ba35fe41939adaf0625ef9070bbcf59ce424430cddf13a9f9a9d83c92055b486320f4055b6a0d48c204",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 9,
+    "signatures": [
+      {
+        "signature": "06f5c927804115fb2072e986c2ae103929de4bdbca292a986b91dd93f14052aa0a7e259fe8bc5e2c8dbcd5258a4664e28c314b0870ad0dc8e0df7c24e4c02d07",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
