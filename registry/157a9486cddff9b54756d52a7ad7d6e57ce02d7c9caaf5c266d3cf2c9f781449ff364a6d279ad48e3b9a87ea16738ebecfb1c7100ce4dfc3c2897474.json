@@ -1,0 +1,43 @@
+{
+  "subject": "157a9486cddff9b54756d52a7ad7d6e57ce02d7c9caaf5c266d3cf2c9f781449ff364a6d279ad48e3b9a87ea16738ebecfb1c7100ce4dfc3c2897474",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TestPR",
+    "signatures": [
+      {
+        "signature": "28ae9e13143512ef1511aacc64bae5b5324a7751a677d7585b6232f80b184e650473dd663e1570c56d67bcfca5669056a6d410d31ef2aea359c2f34d9c130f08",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "TESTING LP MATH",
+    "signatures": [
+      {
+        "signature": "74d0a8f7c71a73bd3324186f40ed13eaf64a8b9cf515281db00a9d6b046053adeb1c061d12767b985c0b957ede3e37245e323daf8a30341ff2f184998f106b0f",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "MATHLP",
+    "signatures": [
+      {
+        "signature": "c17c1bb603c3a0519e2e9c9b20371f62d392049a95dae5e8bb0b3bb982fadeb68e275f7c06dc9f8dbcb36b7070068ce9fbb9635ccf3879542afb4ae2fe68a403",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "00a1e4d4ac9a890ca5cd34e4e6a1a46f4802b490a7675db91752ddd92f545da2c673578b072138f17778ae5181f4accfddd4f380a7004c673fb210a0feeb2400",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
