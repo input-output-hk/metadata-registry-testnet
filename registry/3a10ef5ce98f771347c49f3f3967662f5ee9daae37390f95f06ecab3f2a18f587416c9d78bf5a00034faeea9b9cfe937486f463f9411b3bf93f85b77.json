@@ -1,0 +1,43 @@
+{
+  "subject": "3a10ef5ce98f771347c49f3f3967662f5ee9daae37390f95f06ecab3f2a18f587416c9d78bf5a00034faeea9b9cfe937486f463f9411b3bf93f85b77",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "tst",
+    "signatures": [
+      {
+        "signature": "e0b5bf3eef74abad1237b377eb485280e457fa3c4ab0a62bfc46b18d66e3e3cd7a2e5eceff2638a8483d3ca83f4d557be518e089564b1a56b4f4e97b92dc640f",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "6e4095d7993b967c030773ce9cc3beb38dbde47efa0d77fb98508859aeef18582a4078a73deaafe881a595978e77ff5e48c7b69c2f1eb45af982bc0d31e9ea0c",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "CRTLPP",
+    "signatures": [
+      {
+        "signature": "c2b83d32886999e6911a5ccd1f7349c203c516eea85648bf27c07209ee1a2f78704f9cf2943506b91850afb4ef6b2be2496774243f067bdd0d79ffd6f1405101",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "ff1053c9c51a4c53f8478743e65635027806c437b831930fbed462212ac1926979d74193ab301e6c9bc704729490f177ca53bdd03d783a34149939c65cda5807",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
