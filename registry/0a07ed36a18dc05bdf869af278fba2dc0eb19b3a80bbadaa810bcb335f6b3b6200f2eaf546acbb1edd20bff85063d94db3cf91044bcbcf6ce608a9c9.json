@@ -1,0 +1,43 @@
+{
+  "subject": "0a07ed36a18dc05bdf869af278fba2dc0eb19b3a80bbadaa810bcb335f6b3b6200f2eaf546acbb1edd20bff85063d94db3cf91044bcbcf6ce608a9c9",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TESTFULLLP",
+    "signatures": [
+      {
+        "signature": "0aa0919e4c54e144f3074f548c0f69445efcebeca097dfa573b2ea782b421df9fd9d7eed430e81f79e74714220e67c9d6ff9cd05c923b64f85f1b7819d1b6905",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "6257429c28fbf01a6e70deef7c57e87d1df536d551e0f3a9e00c42c8cb6a48e7227c39c1cde260f479cb648daadd4605d40b8d58f38a28b34e837290c09ca20b",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "FULLLP",
+    "signatures": [
+      {
+        "signature": "2a874cf6359b6fc999607bc7f1ce29b05daaa62c9ba305af4a5c30d2cb42506083714dc2ca002b046eab621ce24378b95862e348f4b3ddbfbea05892be2eca08",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "f3e476a7161bfab7b73651a41d1fd3dde2a5dfd8cca025e35827d6275736992dbc9c31f5d3c24327f29e4cd7468dfb300a0abd753440d178a30a019a0d2c840a",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
