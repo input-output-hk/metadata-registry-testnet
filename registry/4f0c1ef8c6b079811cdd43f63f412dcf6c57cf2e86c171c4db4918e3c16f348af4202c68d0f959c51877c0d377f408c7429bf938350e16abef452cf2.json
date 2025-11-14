@@ -1,0 +1,43 @@
+{
+  "subject": "4f0c1ef8c6b079811cdd43f63f412dcf6c57cf2e86c171c4db4918e3c16f348af4202c68d0f959c51877c0d377f408c7429bf938350e16abef452cf2",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "VLT",
+    "signatures": [
+      {
+        "signature": "6bbb35b1ac0e138e4d287f7b819266263fae63332e3e2fd84b08e942406fbc69f1199c3457114e0bf33b0a98477bdf4ab0fd36250fa25683da490384ca691906",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "CHECKing math",
+    "signatures": [
+      {
+        "signature": "a7e4b9a51da9a1222f7fc4c159fbbb4a2e7e586d660b2cdb0acd94315019c1b9eaa783de1aaeecb6b62f677534ede4378977dbca9f28431587ea13a4bb06cc03",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TICKAED",
+    "signatures": [
+      {
+        "signature": "23727affb0484605a2d90834ac5c039a4219bb8d7a6aea81f87b2d938a5f8670c6dbcbc970ce042a19ebb428efe4dbd1333d416106586e38ff790dbbc56a3a06",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "f9eb7c80c1e28b9f747bafc51202fc2b464e12a2f46f68851ad9e9e270f289319f67bce3b9160ac7beb6d372dd8c49b5ff3a366070c6f060a0455cdb5737a40f",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
