@@ -1,0 +1,43 @@
+{
+  "subject": "54c0ee4a995eb7578f2287bc25a012f04f5e6e0c1bfe6c520539476c957c9a9470f1660aa5e5d446962edfc62931b0268a83ac5dd1d3e18bfc61bd9d",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TestBatchClaims",
+    "signatures": [
+      {
+        "signature": "bc65dfb78fa5850d2b67ab2960dbd5ace4127005e5b3f8c4130960de1e1d1f3c9dfd33ac21645d0804172a4f0a477d28353ee3faa076b6789cd58a6dd846330b",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "5ce5d040b0c71c1309cde7b6bf7955d76adacc64a9b07b4f8f22c065241156b8e9f208cdcf71eff44b499ee07dda2d4356606a54e86920e16a5a775ad0aec509",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "BTCHCANC",
+    "signatures": [
+      {
+        "signature": "6a46ac5806cb63ffd4561da82705b2ed9683e75144b2c05bd8e52c634969d652e1339e553dd0ed97285e949cce4d42a9594975136707a9d8ce5dd7716bd56b06",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "b8c3d160786bb1a74286f16809f1ca685943c327a288ecae0d3765ec85d645805da0dedf52dd20eeccb1e714698b3810ddc8dbcf7c720678febd597ba35ebf05",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
