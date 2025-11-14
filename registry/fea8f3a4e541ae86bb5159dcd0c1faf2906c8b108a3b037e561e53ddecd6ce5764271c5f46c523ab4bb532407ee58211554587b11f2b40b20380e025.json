@@ -1,0 +1,43 @@
+{
+  "subject": "fea8f3a4e541ae86bb5159dcd0c1faf2906c8b108a3b037e561e53ddecd6ce5764271c5f46c523ab4bb532407ee58211554587b11f2b40b20380e025",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TEST100ACQ",
+    "signatures": [
+      {
+        "signature": "d5c4258e40f441416724e1a22c7aa569f01f7c661afe9dae29dbd9a6b993b9ccb645883f8885e929a3f83d48043fa535c4b047cc8b1edeb22ce1cf504ee5e004",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "VAULT with 100 setting",
+    "signatures": [
+      {
+        "signature": "28b00bae5bcdda22d87fdc065984178effef06f68d2e3a42d7c46ede5cd76bd054ff1b3256a88d3b7b673b5d2ac232ca8dc0223c6378660f07d2b1d9b82cee00",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "DLTTHISTI",
+    "signatures": [
+      {
+        "signature": "6ac5ebd8fc063f131afd7e94c30b9ddba9876cacf8fdc56cc3d9b191b030a9314d62b0eff71a4b1aab673295fd6f403ed81296a170c1dae2935210aa2f531f0d",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "cd48e0b6529beacef8ad923cd4d06fbbeccfc68563981bdbd745c3ae59faa63c2f3ba79d84861ad4ffecc09efa591342a1f1c37b2ba9cec582c9738de0dd290a",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
