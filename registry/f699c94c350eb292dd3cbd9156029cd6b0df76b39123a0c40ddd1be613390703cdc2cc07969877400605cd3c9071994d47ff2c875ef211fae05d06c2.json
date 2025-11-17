@@ -1,0 +1,43 @@
+{
+  "subject": "f699c94c350eb292dd3cbd9156029cd6b0df76b39123a0c40ddd1be613390703cdc2cc07969877400605cd3c9071994d47ff2c875ef211fae05d06c2",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "LP Creation",
+    "signatures": [
+      {
+        "signature": "2d72fa57ec89c8dfdbfed8e8cfb7bc62d17b9b1c2cd544e87ef695d726004b9a5c0d2e15b07efb2600953de4d1f3501dfc28da695c71bc58e26e5d29ca7cdb04",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "removing refernceInputs from LP creation\nADMIN address should be first in inputs",
+    "signatures": [
+      {
+        "signature": "0c76404f0727e5a367b6366e1d66b48851622a36978ea53e33662fce9e38727bad1c84de7e4daaba6256c4b637a6e30ccef3205bdfe9a7de4aca72c4a0cd7303",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "LPTEST2",
+    "signatures": [
+      {
+        "signature": "8805f53b9798ce8fbe0031350696fbd7f780696bdcb2f674cb4a1877c744cf16cf50a87f200ba5f25fbd63b03fdcf71da6d24c8db27de7ceffd3777d260dbe0a",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "d02972ed61b4ca30c70e39f281987d74c51c23e4c72b3ee256066fc5f89901e1eaa8733d0c512ad11f436e54df0cd22eefae27b04027f427dbf9aa3f3c3e8e0e",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
