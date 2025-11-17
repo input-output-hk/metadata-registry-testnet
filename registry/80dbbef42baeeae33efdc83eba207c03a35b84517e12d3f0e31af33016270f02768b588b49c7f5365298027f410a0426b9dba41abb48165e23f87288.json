@@ -1,0 +1,43 @@
+{
+  "subject": "80dbbef42baeeae33efdc83eba207c03a35b84517e12d3f0e31af33016270f02768b588b49c7f5365298027f410a0426b9dba41abb48165e23f87288",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TestingCancel",
+    "signatures": [
+      {
+        "signature": "e21e058e6dc3fdc3eae778549ffe70e745572d1ed181cfd1ba933394cc604e61f7ec9bb978166cdf86fc032fcd5bf8ae51aa003c0b6ab1866fb869cf0a4ada05",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "stress testing cancel with asset ",
+    "signatures": [
+      {
+        "signature": "d1ca8e78504c93a85f2e2523d1c5b2228db2af46b10e4d54a15fde99576375aece75d0ee247e266171714e5668a879de3d39d42ab087d8fae5c6fdb4596d990f",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TOTALCANC",
+    "signatures": [
+      {
+        "signature": "1bc6df48a0309f5dbe0dae75b9930a3ce807361a0bd3803f4f161787523f3f789e3a29ebf8eeaa011c9db1d675e27d637bc6d8ba2558878a779b83ba61e8180d",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "f1969dbc83ac9c8fce74532edef0e199e0b08b262d6c749acd792128a8d82c283ab58d82d7f17368ec23080dceee135158f05192e73d1aa0c24e957a8dec0909",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
