@@ -1,0 +1,43 @@
+{
+  "subject": "f54b50298aa43cd53f6dbd37a7c8ac0367d340f322f13a845d9d8cc89103b83538e78d7ca333c8c585308543cd6a224982fd72649fe5f4e2b3eb11a0",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TestLP",
+    "signatures": [
+      {
+        "signature": "fd3c29d19101ac9e77a183055ec2c6690deec4f3043ae1c360db557b2e0b0dd94569d47b52f6109afc4cf2c7900d7aed592fda3df2e0846246146cc6d161450f",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "248dfeffac2db10c0dacca57bf0df54b8fe1a4c40b5be5f2d8fe1f7dffa9ef95d2699e62ba1e1de8c897e82068d3a999a8b26d808664316797bb81e78040b309",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "DASDALP",
+    "signatures": [
+      {
+        "signature": "bef65b6970ce2d02a4e035432eceddb2915d8fad7580f281105b23b7c2e7c3ea7c0481f9902fa1cf737274b0405ba558076ddf523dd5ff3f12afc6650a9a5902",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "1f263b1e15a41908d2b1b49ab0c4823b0c3b9d85780914dd01787451aad433dad294442f009b66900da3232738957624d748d0cf0a230c462b1a85240235ec02",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
