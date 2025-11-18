@@ -1,0 +1,43 @@
+{
+  "subject": "5afe83b7e33386b69c94cc539cfa7e822e07bf4886145cf3fe2a188661e740a175a6a3d425b5f0378dfc5f2d2b65be694346b3d78883a3a496cbffdc",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Testv1",
+    "signatures": [
+      {
+        "signature": "3913ab37f315061df31cbc565fad593a1ccdbef217f33198d7bd4d67ec5329bbbb23a1647c952948c5922db6aa4fee1032f5d42c8ff842cd738088a9885a4409",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "Testing acquirer multiplier, withdraw from dispatch, and then creating LP.",
+    "signatures": [
+      {
+        "signature": "d203d9187e6d7d22ef14af45cef1ac24c92033c9073cae6f7f5b070de30b9251d25c29385220b63cc7e390e44463c40c5625cb2c9c795b905d7441494df9cc0f",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "LDASDASK",
+    "signatures": [
+      {
+        "signature": "bf949c12c64638642b0ff5ca22e4ffdb3d6e298a56af9c19931dffff900fee623d684c5f4cf35c457d77946d0b959e23982341f819c99667351833c5b5f24105",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "be3404ef1e4ab6632c7be12f873cd5f433b87db8262f3089ac1b2dfb91fb4dd86c4a1d59979a26f1e6896a42f38b75827419e79ec026e808db72da65f5a8ca01",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
