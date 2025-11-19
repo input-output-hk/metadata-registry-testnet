@@ -1,0 +1,43 @@
+{
+  "subject": "4d03a450bd66668650a07aa2f22cac835b1a2aa55db340761e24a59e853bb695cdde6b696aa83e805f92f188de5c981876cd145e38d3e0074ed76b41",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "CancelVault",
+    "signatures": [
+      {
+        "signature": "2277f33ccee5d629a525596c14047ec2a6144e40f43db90686c4b12cc3ce9439485f7e9895365145afb9cc7aa8185ad4d6bddf9b44e91d7cd4d1f7904e7c630e",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "82726b142f20c58788635850d3f07a3fc68583204b4201694291090e49fb7043a5ed6c2529b20ecede3a90130bfa3e2e552b25fb624b1e9b51c736571404a705",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "CVV2",
+    "signatures": [
+      {
+        "signature": "12974a0f9abcc357c16c09384933b48b1a216f77d5c8d25697554a296aab9cf431eb29b7a91174f977ef2c77c24e31bd7d19f2da400ba7ca74f74819b3304809",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "5079c9b43a8bc35be61cb61385deab158624713f3dc78b632424eaf5515e7a8c9bd45c3fd592f9436d3d1aaffb9b77dcce135c9b7d8e20e5411035554114e007",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
