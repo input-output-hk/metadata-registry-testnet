@@ -1,0 +1,43 @@
+{
+  "subject": "60f0b7033a9f8b1a8b5aa55f2d4b95c7fb2b28b1c75ab7aabb57b5dea773fd3330e5618482517745f5763e3b38b1a8cf2a181a9a4f3795de665cdcc8",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TestLP",
+    "signatures": [
+      {
+        "signature": "d06a98aedc63416a62ec2db95e075ce9bbfe272039602fc22ae00d2c22b47a082b833293623cfd05ab531e9ecf7195a5b973d58c8e4a35e48b2b3986c8fbae05",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "efea0609226a1025a04066fcd32c9e7005c62adcbd1c92715c6c601a965a3f12c62c9815b5d440b90c73dc037af1b90bbdbb589bfe76b7410af517ff0a33b406",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "LPSTEST",
+    "signatures": [
+      {
+        "signature": "8d558b6f6d4ee097495b8cf167ea6f1fda968b06e3735d4d48cc04bc6a1134c34a8654656b74f0c9c8938d1494213929fedc31612c1f2f45e5501fd4d3d9df0e",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "f3b5acf401fda3cca9d91fd05961ccbdc0eab4b0dd702b122905908f20246e75553ce0906a8021c07ebd5486c14e86379680376a118038d088468e902d5e7907",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
