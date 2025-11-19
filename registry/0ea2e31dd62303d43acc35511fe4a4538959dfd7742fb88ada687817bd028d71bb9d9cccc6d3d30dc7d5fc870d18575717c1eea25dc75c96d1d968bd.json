@@ -1,0 +1,43 @@
+{
+  "subject": "0ea2e31dd62303d43acc35511fe4a4538959dfd7742fb88ada687817bd028d71bb9d9cccc6d3d30dc7d5fc870d18575717c1eea25dc75c96d1d968bd",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "SimpleVault2",
+    "signatures": [
+      {
+        "signature": "e6f4041a30361320e8021ebd75e8a29afb289065509c0d2d5268ff6a73da3c17c9db5188c25ccd82d64f0c2bbf64367cdf9f4202cf49d7dca1278d4cd951de0f",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "f2dbfdd81792458ea3dc708014c934b90f7ea5049b2d1e543a49a3647a2f0bdaa5eafea5bcced6c6a9f3327214454c55622d1ea6c28a5d81bb7ef1c487080702",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "SVV2",
+    "signatures": [
+      {
+        "signature": "575cd0a78cfcce9a2c3d50ef3c82dd204b5343585c1c2152c8d0760957db0f84977de34929f43b0d94fda201d129fee4ece8ae717c113ee40b093123e64b0101",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "d49f70ad49b74aacdc43c9754d9af5cabd798feb45a31ffdbe3f064fe53f6b8d802886242e8ef6b43d4bd027d5bd0bf7596807f00935a700a175c73ba6c39905",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
