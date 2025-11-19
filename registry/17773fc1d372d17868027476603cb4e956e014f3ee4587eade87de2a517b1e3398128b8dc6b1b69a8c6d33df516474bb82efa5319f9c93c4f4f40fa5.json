@@ -1,0 +1,43 @@
+{
+  "subject": "17773fc1d372d17868027476603cb4e956e014f3ee4587eade87de2a517b1e3398128b8dc6b1b69a8c6d33df516474bb82efa5319f9c93c4f4f40fa5",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "HundredForAcquiresVault",
+    "signatures": [
+      {
+        "signature": "bfb720e5403702933a802bdf686f9b8e0f8bafe86cf7e26e6ab662b6e659fe6229296449898effffe96e05694635e0b4c48af45610ae7d956ee08b32f1af0e0e",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "1e1ad9b59a5d256460300061baffa7459ab839b87ead5013006db2f6916864a50ec391eae55fe3921f39283d829d75fa4efcdceb1bcee6444b301a477980f701",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "HFAV",
+    "signatures": [
+      {
+        "signature": "2f5594c9e782a603c7d343be476379b3102cdf34ab9171170e8ab48588e0394432c7ab1c94b072faf29fa1a05164136f20e25b19ca53a53390f7daed87e86b01",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "a3dbbc5aba11126d8663901401302893c13b10e2a14647be25ab4fbf1b0d5ef3e9dbd251a6380f4ac15228c75951c5fd84dd7e4793e67a6b7f7f6e38d829c209",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
