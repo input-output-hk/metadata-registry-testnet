@@ -1,0 +1,43 @@
+{
+  "subject": "395fade2c84b187aff3d7048f0dd6a5e8afb61bb0f3697bc75e3e2c7468bd394d7444e5d55e66da79f6e8def4ea15c7c3954d77ee9b7f130ddbbe552",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TESTLP0",
+    "signatures": [
+      {
+        "signature": "4a958e6e97879c0e0df41366ae0a112b8fd724b2a732026e8f93699b36f9a62d9801776e520f4c49d73f65e87ff4c9912cd14917d62ae85083596264ea316907",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "fbf0e254c12ad55a13e7e764565c40767823ef680351bba2f025f1ca6e3fd13453a2253d6117fc96541353cd53c04baf44a26e03e504cd8dfd64f5044cae5601",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "NONEEDLP",
+    "signatures": [
+      {
+        "signature": "71bfb3be88d06c7eaff40f708475712200bc35c1642d776eec1c1bb98c0f58a3cbb09e73ae55f08273bd14cf04edbea191ad49c11e3fad9cd47ea292a5f56002",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "bf79328ec10e440d84f9d9b83452951af48cf033a1a452b08be467baec07f2b26e75e3c9eb07bba7efe8260b8a994389f0251e9406d6c4763ef477e66fb41f06",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
