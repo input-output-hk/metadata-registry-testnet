@@ -1,0 +1,43 @@
+{
+  "subject": "1fb6b2f0569855e7e31450d17ce89f54099ffbcbf9c96debae22f1ed7facce1ced06347237ee5d1d55b3c06872a22684030c48c5764942257a6e2499",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TESTVLRM",
+    "signatures": [
+      {
+        "signature": "cec1b82f843016bd3b5f8daf6df1285a30717612101a2919d8bb821cfc801dad701a833e0aabc8abbd584e47b21f1c2201ab019de78c39303d4bef3fd7ac7202",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "3c1e865a37b115668bd8aa07104f556c98d05cb4e5e7a6fa8c2be94bd5f4695fed29882b9b52d1fd59833d24224fba780606777fd8aa97a704301cfb8958c10a",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "VLRMT2",
+    "signatures": [
+      {
+        "signature": "57a7896d9e006fe04406de1049bee7d86c38f46a1622f4cb9a7159f137a18549cd5ef2ee19973625722139a69b688d36c2274396f75dc539cc95b7f483534b09",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "611c49bb795317dee60ff69717d0b4d05e692f58c760ca024691746ef3a39d538a39ae8ccec22ede953ad7f93c25f8b870df384d4e5bce78600712e6e307630c",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
