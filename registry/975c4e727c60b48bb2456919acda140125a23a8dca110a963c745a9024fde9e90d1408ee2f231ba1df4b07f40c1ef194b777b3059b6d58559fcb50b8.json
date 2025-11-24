@@ -1,0 +1,43 @@
+{
+  "subject": "975c4e727c60b48bb2456919acda140125a23a8dca110a963c745a9024fde9e90d1408ee2f231ba1df4b07f40c1ef194b777b3059b6d58559fcb50b8",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "VaultTickerTest",
+    "signatures": [
+      {
+        "signature": "4e2ed8b4e352444298a7e5b9f1aca27da4b601da748fb838b48882fddc88baed4f39563a06fa40e7a95b0ee44c0edcb427ff9995e1b2f8b93fa212d996eb4605",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "b016becbdaa24c4496e414ea8061bd0d51821f62a2c8543764dfc85dc47311ce574addd32665dde884d36a783382b0c635caa957d2d271eafc3f0e0316548d09",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "VTTSEW",
+    "signatures": [
+      {
+        "signature": "256cae98d80b7b51ceab05c1d89b0967565d04e88531a0a38a7b8fb539861dce90a6ca0edcd530909ebfe4d286729f401620b7469d8891a5e543c95713b8ca0d",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "0ae5ce1c2d3a5bc6bf247979cef5255b1c044b5c8b93f96ae82a810bc8bd8e635f1f15f8b2c9fb6f1e9bc391a2908864304acf81dea45703bcf036b2a86b2908",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
