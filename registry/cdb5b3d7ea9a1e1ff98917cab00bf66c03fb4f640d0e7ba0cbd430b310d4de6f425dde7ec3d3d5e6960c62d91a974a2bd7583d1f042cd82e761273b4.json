@@ -1,0 +1,43 @@
+{
+  "subject": "cdb5b3d7ea9a1e1ff98917cab00bf66c03fb4f640d0e7ba0cbd430b310d4de6f425dde7ec3d3d5e6960c62d91a974a2bd7583d1f042cd82e761273b4",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "VaultTickerTest",
+    "signatures": [
+      {
+        "signature": "118573c5c78d45acec64da3fc6a4ab243183ae9ef926754faf2452f8ee4f2e69db8b985c051e5e07be79c933d7458b39a6eff4786a5bec5ce7989ce7ce9ce600",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "579884e13375d50d8c6416072dcebe3f9d6d70e6415aab28e933baeb7c6635d3970159f7b9035da75c0cdf31a8e1fdcb009efaaa022204ee763023384d5f7d0e",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "VTTSS",
+    "signatures": [
+      {
+        "signature": "4f444c960bc4a0272a293408a8f9a5458ed9a4b7530f0c713b3077d18378d9465d489ba86e9af9153c3883af3e6d49a225ccc44aa36f79ec08bb50d25ffe470a",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "6c512eba570ddc3c98e217d072d1a5b4f2c116db23efc175be3ef712835315b7bb3b510f90d8b2b9749c2896a3984f92b97ac0723ad1418aee7ab7fb46b85f08",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
