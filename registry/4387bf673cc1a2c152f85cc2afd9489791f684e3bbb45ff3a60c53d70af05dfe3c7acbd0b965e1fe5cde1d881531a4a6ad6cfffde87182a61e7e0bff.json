@@ -1,0 +1,43 @@
+{
+  "subject": "4387bf673cc1a2c152f85cc2afd9489791f684e3bbb45ff3a60c53d70af05dfe3c7acbd0b965e1fe5cde1d881531a4a6ad6cfffde87182a61e7e0bff",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "VaultMa",
+    "signatures": [
+      {
+        "signature": "11814ae1e5e64c1557316485d05d01b3be0fd19778aa3c4138c3639dd854b1ef3c2f91da6e3901d43cd7263399fa59650cfd8ce2b4624b0a227ab25ebb7d5607",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "d0af607389c58d2d7a1348efba967993b531bba054ff3eef9b8548fc9fcd836c9e023cf64532cc751c68a78f8e5fd98e6c828ffa3854a172d4e2d9587bc9080e",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "L4VA",
+    "signatures": [
+      {
+        "signature": "b68294ea26d9b7f936937b2d05822771fdf810ad513a6da171aac1086589d6f4a4dfcf8380a3a929c9255c65a6292151bba3b5e29cdf0c87ab9490637cc26705",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "3227e7ffb442598b9ac668ac9eddaf7c7d67f43fbeeab811ec3104a882430f33b968a7abcdf3188320b17dd521d399dd8897b9a25b88469b09a24d1176911a0a",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
