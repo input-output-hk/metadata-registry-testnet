@@ -1,0 +1,43 @@
+{
+  "subject": "ac73dbe071e6b7b5a83caa719192f6a1a4c77c0d7444f879aae6de05602930666323b91cb81a61a8e1c4a2348caac39e0567d658a8acc0c883cef394",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TestVaultCont",
+    "signatures": [
+      {
+        "signature": "aa9cf67b975a04ac11464ce429f3c82c480e2d8726175f2233c78e1bb49eb9b29615eaa96ad733375daacaf3da4b434f8bb0b074a3c0e299aa5975f179620c00",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "eb3586df3b5744aec1d9be4605185df6682e4c106437e6eba2df026f562e2f7883ce26f3804befd77251e9e85b9abb08248e9152a8f88a2746f24a1faf59ca06",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TVCV",
+    "signatures": [
+      {
+        "signature": "12a2b2f321d5ffe3eeb0fe185c0ae774fbc1584ae316559a51899006f87e2bedb09ff3d6ac4426f17301dedebe942d9b1cd21bf644a46e2e74a46e7d5c4a0d0b",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "7a644be725eb2ba533e09a542f0f7625ee8d1d1e99c10d66260742d6d727b137e6fd38e21645410e70827fcba9a95f8e8a85a4721928f2beba6602fe302f450c",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
