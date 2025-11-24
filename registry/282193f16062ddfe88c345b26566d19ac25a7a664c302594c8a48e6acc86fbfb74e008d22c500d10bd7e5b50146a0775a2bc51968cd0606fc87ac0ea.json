@@ -1,0 +1,43 @@
+{
+  "subject": "282193f16062ddfe88c345b26566d19ac25a7a664c302594c8a48e6acc86fbfb74e008d22c500d10bd7e5b50146a0775a2bc51968cd0606fc87ac0ea",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "QWEQWE",
+    "signatures": [
+      {
+        "signature": "f2caf5596a9d18e179ab7b2254b8943e87585f2ff0dd19fa7de7f3315d4b49d643e6027cad580be09d8063670a6a34dd395addf6c31df8939299dcc28b1b930b",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "fbf56195bd3bb2694c79b31ce09602831c9f7c47dd78ed7674da966589b2e2437cfc2de105aa71712a007ac098735cc64744064c2453d4b41e9860c6cddd6a03",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "QWEQWE",
+    "signatures": [
+      {
+        "signature": "f2caf5596a9d18e179ab7b2254b8943e87585f2ff0dd19fa7de7f3315d4b49d643e6027cad580be09d8063670a6a34dd395addf6c31df8939299dcc28b1b930b",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 9,
+    "signatures": [
+      {
+        "signature": "c8bcbc1ed5a683c0fb6e9fcca06b076ceee38773f0e25e2df6aa1e0d3ce7967fbf6965bd4c3e15c1e22fabecf87d7a87232d4306c5cded967ab044f7311a3802",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
