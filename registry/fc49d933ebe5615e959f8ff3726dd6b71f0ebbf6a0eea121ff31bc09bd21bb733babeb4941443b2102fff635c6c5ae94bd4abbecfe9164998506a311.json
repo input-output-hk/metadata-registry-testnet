@@ -1,0 +1,43 @@
+{
+  "subject": "fc49d933ebe5615e959f8ff3726dd6b71f0ebbf6a0eea121ff31bc09bd21bb733babeb4941443b2102fff635c6c5ae94bd4abbecfe9164998506a311",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TestVault",
+    "signatures": [
+      {
+        "signature": "e3bad4ff6cf4a0dd1d79bbed29f25563748c20567fef6456ff585f6f5ece191b3c7950aaf73009730b35f0e67d4eae1e75fb6c20309488e36643f2fefcfee50b",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "40fc4c56af6bab03df629ab9b0ba43d5d3d82047b6ad4445034757dac6933a997e2c70136924b9b4120b51189d2e4f9fe2d5182dc22834651e88d36881c0b404",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TSTV",
+    "signatures": [
+      {
+        "signature": "7cd3e78e97b73df95a63071ff7aa3596863bf828f6baa503366df0ffc8fd82fc0d8fcc48c73baaf29a7c488c6aee831c36eeda5808ad737e4c8aa3b09e3def05",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "bf77f4c563e4c798705bec82367d44df285a39805dc22f9378655e569e6eb5078c0925376a24f63d278f33943832a59e4df3f19c30b77a279d2ea7d4431e7901",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
