@@ -1,0 +1,43 @@
+{
+  "subject": "a134ccbd228c91a844d034d4b77d004e1736349aeb9a42efc8e801a01f6432bdd1d26eb071b72e019fba707ff11c897a80961eee003cb7363b7f6b25",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TESTACQUIRE",
+    "signatures": [
+      {
+        "signature": "b723fe0b166d4a476d8949f97dab957e42f51680b76f4dc1ef154dcc358f733090ceebd3a1052d5805b2f8e2c23b531f8234ed486d62f4f44504aa7b9df1410b",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "70986db8d868c95a9625e1b156f54a464377159afaa0867ee1858f1d1235737d1903b726bdb90eaee8e10a7d8393d5be7609e4db98f9c5e37ac08e6317e34a01",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "OGOACQUIR",
+    "signatures": [
+      {
+        "signature": "30d464915da62cad54b163c57d3801a6ecd2477e58ef776c9a251989dc930593c98b88ebb6c73098925ee5c325258a3af377b61a051246416f0e19726d1c2401",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "998679546496fb22d8ecce4686c539b422b6b7fdfdccf07c7f9641cc965e72e25092b2a94c0c7006746dfbd90d7ea30e0a85da760c86a6529f23dd2238821908",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
