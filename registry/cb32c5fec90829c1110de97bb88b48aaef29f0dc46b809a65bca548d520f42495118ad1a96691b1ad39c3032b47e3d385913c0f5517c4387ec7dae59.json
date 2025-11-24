@@ -1,0 +1,43 @@
+{
+  "subject": "cb32c5fec90829c1110de97bb88b48aaef29f0dc46b809a65bca548d520f42495118ad1a96691b1ad39c3032b47e3d385913c0f5517c4387ec7dae59",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TESTWH",
+    "signatures": [
+      {
+        "signature": "983c1a05a2883f8c3b13388f3e718c3116abf0d170679706a0eee42bd1d577d677cee1c87dc05560bc86ae36c8084c6796248697b71f37d730aabe51b820de02",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "e97624cd5d4dbc13544eb404f78c1fe9867fc2c627d35ababa906c9a83f1df4e27a58a8969dbe39a97b647b78b40a7a28d76b5d9642a74b383f74de68f6bcc00",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "WHTEST",
+    "signatures": [
+      {
+        "signature": "0733591ff29ba5ddf58b7a4ab3760c317f2221075e6ad6a0b1aa2516bad520d53441b34198b97fd36a4fb56ef5d5b5b6f0024303ee541813dfa4b331e9d5d30b",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "11d74a5078d3c5c91d9be2a621db3da7473b1abf9142aef11567050f985540afdc0c06c25f1432d2ec1e271cdb731bd2782636139f89b68ad3f1869e89fd1006",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
