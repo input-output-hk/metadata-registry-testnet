@@ -1,0 +1,43 @@
+{
+  "subject": "3f9fa635d119e09e5f7235aea967bda304d45e1812fa1855b659f210ba29bd61703ddccdbc21f4ca11e542a0d0c08483750041a77959846d6f6d6af5",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "VaultTickerTestBV",
+    "signatures": [
+      {
+        "signature": "10bd51709babde94a3e5b18551622d5e9882275fdcf4c692a485bfef8fa9a91fbd79efdef825bccbd82d3fa55799167ab63a6a5931279f3e2e6949542dfc2c0d",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "d43f7d82e91e40ab2e19cd194dcce0c9537172a598f7986de41dc501bec13857b4190546919b7878ca31250ffa9028bac77a8fed2378857efcf582958e9ed102",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "VTTBV",
+    "signatures": [
+      {
+        "signature": "2c3a053bc292e0b1d07dc6ad3af14331aa790176a9d1c7a727bda712dc069990bbb8b9d2a1a10a929e1942eaae37125e2ea11df030eb873f3f4cce7f225d4f01",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "76e8369cb3b5c2670cc7bc7560e6b981c6e083694564fad40c398510e92c5425975c6d2495f5e60eefacbc3708dd9bc3b75402f7a445d82feb3f1c5bcfe2730f",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
