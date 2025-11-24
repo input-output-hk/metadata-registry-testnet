@@ -1,0 +1,43 @@
+{
+  "subject": "141ed682bfd09197f6a9d3a2ed7d8dd2e4e729aed2a85ec6edbe6f4caf0eb44491bcc5f0caab3580a08008376b41d2237d6c3d97df671c051adff5a5",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "FailedVaultTest",
+    "signatures": [
+      {
+        "signature": "8403e1f6ace7cd8064d6a3b6f96508292d6b71ea30e7d1ec75ec0f2dc3b63822a97a59c63c66ec49109be466d413ec60429d210934804302332ca5a1b3230e05",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "c25c6c9939a2f55b2965191fe713eef5f9e39b664af5acb55bb3e1ecb55e3dd6630ce79f573466c8037b1698e2c77e18701820efe1729e5a5598f063f56e4001",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "FVTV",
+    "signatures": [
+      {
+        "signature": "0004c3a025c5039b03244b74a2887a1508070c1177afbb81f3e482a752eaef74a5ed8d01b2a7ff45c5b9c32d5f4ccb95e57a72e07181fd804fe904c4ff923c0b",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "e6d36f92aae3849292fc56ac94326376909128446789112b5abdc110fc38e08f0469a86f0acd932d6fe01be12b6041b68118dca42c618955e7af736c1482c402",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
