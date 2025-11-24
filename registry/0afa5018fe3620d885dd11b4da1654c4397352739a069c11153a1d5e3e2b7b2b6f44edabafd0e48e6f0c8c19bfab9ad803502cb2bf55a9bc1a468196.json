@@ -1,0 +1,43 @@
+{
+  "subject": "0afa5018fe3620d885dd11b4da1654c4397352739a069c11153a1d5e3e2b7b2b6f44edabafd0e48e6f0c8c19bfab9ad803502cb2bf55a9bc1a468196",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "ZXCZ",
+    "signatures": [
+      {
+        "signature": "242c2308c6f1474209a0adb227f2c76d484a208481595d34aac2fa7f052143c70ffe58ca18ae8f6ebe7a56fce99458bf656bd41cdd75b1a60d413e6393e28f05",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "0586546bb96ebb4564f140cb6278ed6a8ea22d32f13149e81b496b1b65d20cb3764e1a60ff8b3ec1977d66b0370bc3637604a1ea934dc83c2d3df5c7cc6e6f0f",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "ZZXCZ",
+    "signatures": [
+      {
+        "signature": "d8b796abf2d8be128a838227a2151bceea6544f8e8036c2210ae0fce8bc829055f1377fca4a05b86a055cfa3af0391e678512450bf22d1d71a521141e928c103",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 9,
+    "signatures": [
+      {
+        "signature": "920d2b8080b7e2f6748b70252016c51670bbef004fabba56849c4aa2bc208285a7e44a9419f7149fe7c9ebf4c7f14e51be22299e007ae4e6dc455c4496c19c00",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
