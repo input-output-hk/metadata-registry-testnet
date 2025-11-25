@@ -1,0 +1,43 @@
+{
+  "subject": "cd14f4d877c3cedc018f66ae3117d2794d7cddb165124a63037ca8e444db85a0c2753df758000494b89688b12b869a5eff72a17a57d980d978687470",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "VaultWH",
+    "signatures": [
+      {
+        "signature": "bde1f61534d2ef375c7ae8b930bb9a14cba333f575decc98a3abf5f8cc7bdcf68e5453136fc5041255df45aca60496ed01be741df6c8fe7ba7a6a44ece237505",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "3c522c431af6c88e9720322cbea3de6cd850a0717fc5b2d9d89b14a57a8738ce22fbbe0def9e2c042080385c0b8f439c9cd6929a3c24ccc59742354c81d49802",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "BRAD",
+    "signatures": [
+      {
+        "signature": "3f077b147bab83ceda565a55ffca75774d4d093cbac56c32459a9d82bc05049df82179e839415e4eefbdc6f9e3b67a61346c80934fdd44759cf458871144390b",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "df126c3619e5e18584d9b811208a8ed33f4b483fb62fd081d8726b176ead2d9cd177f1faa8f9fcb728cfe902b47e721535a8a14ff441528136e977f5dc2eda0c",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
