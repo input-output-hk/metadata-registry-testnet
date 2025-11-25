@@ -1,0 +1,43 @@
+{
+  "subject": "4fd3be9e6d5a5a174f5adfc091a8a56a49d223e71ba8c2fef26c7a8cf71fae086204708a366b445d1760ff46e67f7bd7630a4a9d609824b707830377",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "VaultKianu",
+    "signatures": [
+      {
+        "signature": "79336a8362772568a74526b30ae48e84abf2038657f4314c9f5c25569b25151712c9e8c92c8d9326edd4e18c93de5e60c9e61508bbecbc0ee05be580fc6d2c0d",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "d0eeb39a84821be96a0ddf4d6ca87481cd562a1c0db054fb4b382963a85ca4e395630e64e04a84bbce0215e15cf8be1af0724d0b9c0f9af500ba6033ba07f408",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "KIANO",
+    "signatures": [
+      {
+        "signature": "98aa9c978caf5bdfa17ef153039f06498e5c6c4cddf2d0609875edab3f2c8439ce589f788f60a7b4edadadd0bb5b79f24538a153a6e646fe623650fcd95a8107",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "7f72a72179981530dcb5b35de05c3b1fdc8af320368a8c89bf5b0059a328e7ea21d0e4e2e1d6c72f46a1b5319836ae0f06525fe7ce5de652cddcaefc6ccf4109",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
