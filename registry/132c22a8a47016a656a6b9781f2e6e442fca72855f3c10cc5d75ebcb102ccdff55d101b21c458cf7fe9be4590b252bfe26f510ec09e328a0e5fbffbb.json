@@ -1,0 +1,43 @@
+{
+  "subject": "132c22a8a47016a656a6b9781f2e6e442fca72855f3c10cc5d75ebcb102ccdff55d101b21c458cf7fe9be4590b252bfe26f510ec09e328a0e5fbffbb",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "NikeVault",
+    "signatures": [
+      {
+        "signature": "c81745948f1aecbc7ef30dada0547948743eaba288f5c6a6fc115282ca3860e8a5bd34ca90f1392914f8ff4b59413f2120f857230736f7ab2162a7060958180a",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "b84ea0574cbb743f7a3eda188c204bb51ea5069fd6400d603eb79ce39a2483ebe159acacb6e9cbfc9ade1e3bc6f19397b03304cf1e856275d6745fc83ca9540d",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "NIKEBAB",
+    "signatures": [
+      {
+        "signature": "ac65e63ea765592d67ff3f69458277f722ceafa84cd525ae73bbea524a9b88c14f854a770df29f47c66616879195b06c9858f36fcf7c639d517449723621b107",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "cabba647b723f1d063d68dd3d614df3441798f3ca85ba26f682025753b12d6b6f5e857a6e7a1fa91cb6f0a5023d0f99c586091b4825ebf3706481ab911629d0a",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
