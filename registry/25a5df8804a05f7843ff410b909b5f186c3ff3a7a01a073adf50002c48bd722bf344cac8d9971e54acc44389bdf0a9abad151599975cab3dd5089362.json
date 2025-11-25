@@ -1,0 +1,43 @@
+{
+  "subject": "25a5df8804a05f7843ff410b909b5f186c3ff3a7a01a073adf50002c48bd722bf344cac8d9971e54acc44389bdf0a9abad151599975cab3dd5089362",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Japan vault",
+    "signatures": [
+      {
+        "signature": "35c376c73e9c430edf3eb9947360f75aa4693ffb9bd75aa7b82ace65faa7d43806553bf616cc52cb407d019e1748a9c511155c5c1c09b13b7e74c39f4687dc06",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "Japan",
+    "signatures": [
+      {
+        "signature": "5b2040348fb62f2930c5880b2c6bb9256b9ffae1c12edd7043d07af07394cf8ac5bdbec138fde8034b65b00261e2f2f569817c897d82edfe6ae8e30e35438c03",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "11",
+    "signatures": [
+      {
+        "signature": "78cadfa3bb6647184935ad5fc8db3426bbf773bf7bafc8b5dea0a9c6295b116dcd9b6680052367d2dcd6e31e74d3d1b3dd5b394858d21aef02778ae4b94f2b05",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "31012d03983954f8277ad2844981537fdb131dc80ad3c0b30e9f9528588ce4d26620440d34846c318570ffcacb11921a671f02209fb770a7944c9b6d1eb88009",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
