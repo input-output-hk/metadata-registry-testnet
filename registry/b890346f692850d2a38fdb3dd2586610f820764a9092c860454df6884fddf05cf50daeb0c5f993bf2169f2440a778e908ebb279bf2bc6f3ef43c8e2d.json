@@ -1,0 +1,43 @@
+{
+  "subject": "b890346f692850d2a38fdb3dd2586610f820764a9092c860454df6884fddf05cf50daeb0c5f993bf2169f2440a778e908ebb279bf2bc6f3ef43c8e2d",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TestVaultAfterChangeEntities",
+    "signatures": [
+      {
+        "signature": "291362c4934151aae4cb6c9970c32b1bba7738ca51606def901810377810fccb4e4ee256ebb8744c230daeafaa58cb82918b2edbc788ab4606bede56a894fa0e",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "1d1aa55d3487284d0e8a4a1fdc7adb6c0df51e52554e1649bb8e4c319e80639ab078f89715688435ddf08504473db4f60a4d3d5011211fc584652dfb0388cc0b",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TAVCE",
+    "signatures": [
+      {
+        "signature": "421e41245c58c6a89cab8e11b19e26cfde6b9f14f009f80cf645656b4f13975d445c422522a95ec87b5b082696095f718d6037c91e4557d81d3a40f0c2354008",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "d19a5f891213621cd26c7459bca17ea8a7309c575c7aa0d613f0f1c9a57bb6788a711e0f087bf3b098ca64e17eb9dff80049c1378391f267d094f0bac6356d02",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
