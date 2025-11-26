@@ -1,0 +1,43 @@
+{
+  "subject": "046f35905ab875739e21ab897539926bcf062c6da703be69d4dce91c9d5bb3ee04ba30d7ca7b28d045f88e5858635aa4a99059179e9578ba5189f836",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Test",
+    "signatures": [
+      {
+        "signature": "07bf39b821bb2b5f1d394fed301a68141557276c9a8dcc46d2c0235cd2c88b3b808b86dbc9670ef165b3c56e98a004bc8f00e00a0f7405db01b9718195ce800c",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "dasd",
+    "signatures": [
+      {
+        "signature": "2df7d05e1b731904823faff0067c00eff9a869a99433318b5f78c1d6ee56e4e0c2b5a370878a0cc327ace64b52d4a3ed0563175278efcac2361f9b0f67c36107",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "DSADD2",
+    "signatures": [
+      {
+        "signature": "cf66decf533256ea589bf26dae8f1253a19f9e7b1b6fb1c6c06b63fba7940acf4ceeb21f1489ed6d25500ee8a036baea5b098a25cd825c1369d8d73effee1405",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 9,
+    "signatures": [
+      {
+        "signature": "1b749419ba30190373bed61d5b6623593d039e58451948e6d166ef3b92d4645c43250c993b91de33dc91afbf2d201e29262f358c7aeaac7ffdaaaa2ea02bed0d",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
