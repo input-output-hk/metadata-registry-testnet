@@ -1,0 +1,43 @@
+{
+  "subject": "e895f3d536989b4e96b1f4e852585a8a5e0a1da014bccaef2074631803c21e324948ac85ebe98f8efd4a63542f965a4809bc27a648e07cced94f65a0",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TestDist",
+    "signatures": [
+      {
+        "signature": "4322e39a3df95046b2e21ad397310901ac459c90e91aa7ba953c8a3e3b496bf7bd1179926c86f99ab9c27cc6c1e50dfc751356efda66fe530601558f77038e00",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "combine tx\nusing postman",
+    "signatures": [
+      {
+        "signature": "9f51be890b81ce8d77d88fcbf882943377c901b33d3db9c22394e874947b5178b5b57c5eae731e0e43f85ea9db4208476580d69c92931c94018796bdd6bda70f",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "DISTR3",
+    "signatures": [
+      {
+        "signature": "2e8607a15094e5b466e4e093c2715e480730ed0c6665581aebe662a4f606c94a407f92cfeb892779a5b4cc6163f2b61b97006e61b9a75dcc56114c2890a8fe07",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 9,
+    "signatures": [
+      {
+        "signature": "bef9fad623b3dc6d006da5eec0a23d7272b56b7ee2898af75fafbe080a13977e0c8d91ffd47561c287151ecda97ee117bfce4e595edb5736d208efd30e6bcf02",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
