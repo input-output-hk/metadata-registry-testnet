@@ -1,0 +1,43 @@
+{
+  "subject": "d384e6768194d81d226758176671714faed8a9e9e1128e6152dcdefb1e4b29d4972fa716800cba82b63ead0b5c98553c00a3af3c06335b7a05a2e19e",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "VaultTest",
+    "signatures": [
+      {
+        "signature": "ce976e43237076189cdbc52dfb34c3af633db2278b1df1691b0a1dde8bc2023446dc93e16b7c8aaa5640c32f139d6ce2fdab56952e2a89d2449f9ad4aa453400",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "fff1d45dadd0769de5a7d3e77ea7b5561376b4217964b291aa42fec02282eb5179f9b7e5624b2e2b6f00d2feabd341886eec0fff0d57465bbf5719e47573cf0e",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "HIWHWORLD",
+    "signatures": [
+      {
+        "signature": "4cd4d5dd5ffc3d56e848afc570ffdd4be30088b1fa58d9e330739594291dd437f1b49281509b058b6bc9c98a2a1b3fb8d06ac9a9d9ee96630a85b4396d662f08",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "425fc401399ee2ef0cc29a566e3d88fb469c12320020bd1ae7dd9b69a9b741801d486df0a493d300446346bd5f374db2211ce1f501e05d84f0b4d98cfcbb540f",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
