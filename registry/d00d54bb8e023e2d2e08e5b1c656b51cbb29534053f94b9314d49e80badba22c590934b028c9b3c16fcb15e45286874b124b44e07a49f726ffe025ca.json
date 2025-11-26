@@ -1,0 +1,43 @@
+{
+  "subject": "d00d54bb8e023e2d2e08e5b1c656b51cbb29534053f94b9314d49e80badba22c590934b028c9b3c16fcb15e45286874b124b44e07a49f726ffe025ca",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Test1",
+    "signatures": [
+      {
+        "signature": "99327d18fd2a90c315068c0db9315df39d56f200e9a9f6d9c4e1901e58c904889ca0cf9c1e8051f437eb15299cdf011fdac34da14f5bdea14daceae87a2f9005",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "98c025fc15a390db6602e90e3a29c0befdd4725123f90e133edc6c4bd5e3603180b5245b7e5f2eee95b6896e17e57aca6181715207fc10d15f39a3555aa72209",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "DISTR",
+    "signatures": [
+      {
+        "signature": "43e981f1fbda9e8617a6af46f2dd5626973c0126e9dc85451f41acd298d1ba9942139205732ac957e3a5c7d84227e47cfda3f7943a244a48e7662d51323ce80b",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 9,
+    "signatures": [
+      {
+        "signature": "051fb75b88b79a65e0d1766939826771445bfb527a0ae4ac9e2f058909baa29f214e79e1517f4afb2b8a493a6adac168d3e326011659031d5b3b3cb80d23d903",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
