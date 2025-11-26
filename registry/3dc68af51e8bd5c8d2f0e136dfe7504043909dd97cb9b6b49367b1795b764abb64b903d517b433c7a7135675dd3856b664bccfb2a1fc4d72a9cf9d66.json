@@ -1,0 +1,43 @@
+{
+  "subject": "3dc68af51e8bd5c8d2f0e136dfe7504043909dd97cb9b6b49367b1795b764abb64b903d517b433c7a7135675dd3856b664bccfb2a1fc4d72a9cf9d66",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "FDFDFA",
+    "signatures": [
+      {
+        "signature": "d654121c367554a93c2ba87d928ff7c6109e4f931eab9bff0a33a023bcfa716591d00303300d189558cd5a11684756201a16dbb5e3d1136675597c75b7192d0a",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "2eb38a7b01298403ce28183fb0f4f1822801359f168fe52b0a072caf5075a7558cc850eca275207016f2b0b1633c7fb1c8ac5b625d669d09d6239ab64dd3e401",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "FDAFDG",
+    "signatures": [
+      {
+        "signature": "0b8413792e386fac924a1210aa858db57555affcdfdf3c8787535fac0acb86689ab1444feff2b2b721bdb20cca40b9626b45a2d270b07d14dc76f87ac8515103",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "e17ab9ebc147e15aa5e8d35f09277b94106c918f9eada0f5c4044a9b338ccf32736980698e66cc863fce65d6fb176ee9cfd9acfa2e2b31bd263566bcf30ce80c",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
