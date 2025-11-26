@@ -1,0 +1,43 @@
+{
+  "subject": "25ae89f1649d1420085f881f45a2975dd2d628cfb89d13c76ad1691b147ae29a7a8747d6432bf4c2505c81feb2e94c2a6a77079a35fbba594daf8a73",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TestVaulrLoading",
+    "signatures": [
+      {
+        "signature": "d6fe84157cd570d3fcc174a32d3e262e3e7afeb285c0fd892122b04b2e1c852505bd5e992b6834563b482fb046f76ec04be190ae8ca8578a01dd4ccd51efee01",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "854f6cfe136a608c9c1bfa83bd5673a04e1d17f79845a63b6783a2c81cd29b604abfdb77ec328e0e28d495c475eb9c9a7306a218f683edfdd0994da84e2b1305",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TVLVV",
+    "signatures": [
+      {
+        "signature": "1ebef4e62a708032defceaa0d65808a2d9cea8806bfa4b4c9ddbd762fcb94a63451f79bb32c7ae7e8fe783f4b9bc6c447f753be4b2110a9f839ec8970001f70f",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "246e30543be8bb1c084e5d3f1c425f95736917337a28045ca2521575f52ec7fa1ca418d19a0e216560e8f78d9a3c3fb2db6fce1be01638e7dc5c137f291bbd08",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
