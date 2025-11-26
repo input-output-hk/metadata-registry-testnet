@@ -1,0 +1,43 @@
+{
+  "subject": "9418aca5d190479ab88849ec4cef2e4473e3f4cb1951dcab2a5e565ddc8eba593394cf9849aea5969530c0840b9d1b1aed50b5661be40df1222110c4",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "ESTRIPERS",
+    "signatures": [
+      {
+        "signature": "074e1e24654c966e473cd82e388b0fc16656d70520616ff895f6fffb197d14a961009cbcd77235628ecf6dcce92a395184d41720fb1c602a042231eebb6ef401",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "f4862a8361bdf6802c7850e4f8c89d195cbea4e7d9379ef6eba3a70998d4a4c103822df94a59dca7b51de451663cf1d37c0a53b36b32f10cb97e9eba2e1c0101",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "ESTR",
+    "signatures": [
+      {
+        "signature": "b1f2d4388e5af135939968b8e5ac527361dc057e3ce80c25dacac2c389b31276e66fe2c5f2674e144ee58f03aeae8543eb9c9f8026b01126680c5844f715b409",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 9,
+    "signatures": [
+      {
+        "signature": "1934bf6843755ac5913ec0dbfce8001eaa0151aa57108034f7f26f84a8bcb6b5a8bf98aa66fe5d5937ef17af2a0de572e522c1b53b478f426971635c0e5ac301",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
