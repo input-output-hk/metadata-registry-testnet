@@ -1,0 +1,43 @@
+{
+  "subject": "0a993189f35c6cedc99fd869d32f02d3e26038b45759cfbedb09560072890026a25bb25abd48a68a75033977959e819dabbbf7a2c93295031fa9301f",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "VaultDIST",
+    "signatures": [
+      {
+        "signature": "c35da4964e0b207e250c3cf80f6d7023251024dbf3ceb556992b12aea6e2d00743714e550db271fb446660239a6aa9ac8f4c63620c106061997c8b47e4c2d30d",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "e649b719b79c7b2ae3f737dabd16ab0b618fc6513108aa0765ddf238b908ac1462c48fdcd0c5286c427fc22b086c26f96332bf8e584c08246ac917e66432db0c",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "VLTDISTR1",
+    "signatures": [
+      {
+        "signature": "d7f33081df6e2d926f59a7662f7a9d8d496c64dc4c1d210472f9bc7f545e83b59682cebd9571c2af10bd5d98a1e3db490318b0666852e2e8a22ead152972fc05",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 9,
+    "signatures": [
+      {
+        "signature": "7eb551a00847d546d773803d9ddf84ebacb3b227d9ad1e5bfe5010c33839044800a6aad215fbd63ff92fa7247cd27f38863ec639f7f0b7b9002857f196fbe609",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
