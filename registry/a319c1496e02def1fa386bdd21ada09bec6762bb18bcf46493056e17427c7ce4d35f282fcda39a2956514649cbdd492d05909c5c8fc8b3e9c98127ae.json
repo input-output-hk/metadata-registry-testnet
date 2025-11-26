@@ -1,0 +1,43 @@
+{
+  "subject": "a319c1496e02def1fa386bdd21ada09bec6762bb18bcf46493056e17427c7ce4d35f282fcda39a2956514649cbdd492d05909c5c8fc8b3e9c98127ae",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TestBatchDt",
+    "signatures": [
+      {
+        "signature": "12638868ed0911413d915dcd81c00a5ddef6d779fc60ff7ed4c4e5418bc50b07d698f4fba196a0dfbe1d387881464efb35bd1cdda336e7e1b40b2cc67c90d60a",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "HELLO",
+    "signatures": [
+      {
+        "signature": "6c4118ef9ff77a8c7d66a72ef0cd2aa184b1423753db0a05add719f641e4cc80ef9a76e61e6fe193794d6d736f159aaadeb150d4b60eb547b86205dc1d014d0a",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TICDISTR",
+    "signatures": [
+      {
+        "signature": "2111d811a09f4dffdce42e73bd30f61a59fa31e730a0e21778dd4eea2ebd7563892a400f1244e87d11688711773226a6641fc10454442774248ccc8ab15ab60c",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 9,
+    "signatures": [
+      {
+        "signature": "eae9fe3d8582e02cf3459c9f6610d2e75cc94308d3238378f3d4ed2ae4532e67ac5d9bdb0a345d42aae21bdc0b74036a7e29ec662dea49a7b6cabbdbf7bf840a",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
