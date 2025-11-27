@@ -1,0 +1,43 @@
+{
+  "subject": "d5dd06f9e387ed0a011dfa8a11a1931894c58415b1a57616a3a010982ee81b7ea13d3343b7d96a03ba14548d8c179165487efe668ce95250ea9a00d1",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TestForArtemis",
+    "signatures": [
+      {
+        "signature": "94e4320572c5f14a057f36a9b53e76a97aeeb52fd3770729bb8a24dcafe08ed8f2a0f2eff708690f6a2e56133b0c1ed4bee8cff3923de4be247b14cd9e5a470d",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "3fc60dc755ed2b256a00a8a530e43ec1e0277482f50aa7c2d82131cc19802a5d064b7fba3ea21589553c1747883703a74de52e95151b1fed20c4b32b4e929100",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TFAV",
+    "signatures": [
+      {
+        "signature": "a4e9b09dfeab83294ecdc77b495f7e0e52f95f8b047d07b602ce697c1daadf7d760fe0d43eb1cfa092368338866052b865be50861a7f050b3f63b856bde70a04",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "931b5490c8f7a07c14373c2dcab1ec39f225bc8b10ab7ea7ccaacc5d3437cd7fc7ca19aa3ada883eb188b6d3938efe7c9f74f448ddc2b2fadd70242571661e0f",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
