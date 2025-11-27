@@ -1,0 +1,43 @@
+{
+  "subject": "bce6e27e9502339d65ae6e3f08161893df022f7d517098d1dcdf8e021953c442dd4859cc5b86f538f145aa8a1dd5f0a61661d65c03da717623d7af79",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "ErrorAssetVault",
+    "signatures": [
+      {
+        "signature": "dc0f1ef5934eb26adae629bceef0626429b5f90dfbe57752a8ea9db3701b3bd82af25aae280cd1fc54475d9dbd3e459289d6a51989d87c6201c803c8d6cc0e0b",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "2d6cb11ea3a3f608c6efb27577d32b18fb958d4e8a40f7d57cfba6a4a724f1c684e081416c6103883b42320e2c4624b7bc63ffd2748bccc2619eb143089a000b",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "EAVAS",
+    "signatures": [
+      {
+        "signature": "fed176bdcc615ed56863c938615611d225e4d6d79fa482e7e3c6ba926b64715af8d6b189bb92e6e899f495138b16cbdb4c18c40b45f770a430f2805614846f02",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "36e2f023edf9d899cb5cac18a76c32bc10cd1935045644dc95aab7693e463f4c8011ee6fcb44adb8fb14ff17fdf28673d2a57d0ba6c8ba8b1d1c5c36a3001505",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
