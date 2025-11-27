@@ -1,0 +1,43 @@
+{
+  "subject": "df2cf6b26ff8586a1682f5ea3230e72eceee56ba1717fc880248474f78225ae1d925f727f56114a3de022141c8a1642413a0e2a3b9737d4e5334a54a",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TestAfterBigUpdateYOU",
+    "signatures": [
+      {
+        "signature": "9aa249b0714cd91d66c0f86b23ef98a92aa339e0d57485abd9ce68e6feb46204a5749fd1e977f0e55eba2a725668cc2c8e3edac4a1e0e489ec3f96f17ad34300",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "2651dbe1352c6937cb8ef0a9b6a3838c664ed1c553b18a8bc5634ac4988313c9a7868965562dfacb9fb3363d49c364ab5ee0d94c3a651b8db0ee56bec478d309",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TABUYV",
+    "signatures": [
+      {
+        "signature": "296112757ac5cdd627920f010e20268f58d36f6ca9d9ffbf78ddf9087b0b90722451124b8ff49a92fb5987f58ddefeb79a068b4abbbd1c077227ff658641b40c",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "a6c6b6c46218096d8575008c6833e398bc0299ff6f84e0e2c46c84487de3a53f0c6ee9bd610e6b9050e84b086ad9a3df1a66f9d136f95e5fdda87cb9bcf06b08",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
