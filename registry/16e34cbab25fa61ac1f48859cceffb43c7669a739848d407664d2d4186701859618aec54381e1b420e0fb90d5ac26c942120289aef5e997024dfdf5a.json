@@ -1,0 +1,43 @@
+{
+  "subject": "16e34cbab25fa61ac1f48859cceffb43c7669a739848d407664d2d4186701859618aec54381e1b420e0fb90d5ac26c942120289aef5e997024dfdf5a",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TestAterBigUpdate",
+    "signatures": [
+      {
+        "signature": "604fdd4851fd0e7b6ba8f586c622ffe639036440affdea2cdccb584a482a5bc0835d7ef66ea16bdc0b75135f637885abcbf5c3371134390affefd642152ffc06",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "5d8d78e9e0f3cc6b5582816214961b70f9a1468bd07136474029e0d1954ca26d3b6d6c2af73a3d436d535c1e5650dec4dfac360f553c00dc5dd2929761c3c20a",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TABUV",
+    "signatures": [
+      {
+        "signature": "0291144c189ccf46bc3be02f95d9a7d4ad77b863a4ee4e7adf45432fa20aaf73e9dafd02122e15c7528c23a0ef7355514aae241ff4cb8a2bf9b21e6352d6560a",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "19b8d466c0dc316187e3faef95ec1b3b2366871bbbada92f531b8fea1a150a15cff1107ced7c736b449b97d749ef4bdb7bd9b60cb8a457f1a6ce2c864f78220d",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
