@@ -1,0 +1,43 @@
+{
+  "subject": "4ed6207a8b4b538431b860a94a2cf283767e584e3c1959a5ebc73dbe8de7330f59a8fc6a2b572d3d99399038d3b9bd2a36480389b206aca6b140f43c",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TESTVLRM1",
+    "signatures": [
+      {
+        "signature": "73b2b6becffacd84e3910080528eaba6c4c86c50c1edd0bec7ef016eb5b80a785ee303a6d04776d33136a5ec966fea3051c466216d7b78d3bb510b8e5cffc806",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "378a56b51a873ade49afe8953a640769e2eb8285083adbc0d180da0d5678a45fbd94dc23c003afa33062311bc56e0f61eb88033171888c47a208307df1c5bf00",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "LLRMS2",
+    "signatures": [
+      {
+        "signature": "1e207cd225d145cfca911d014a60af129f68462eb1ddf322b2d039c6d7d9e4a774f14cfb6f4b396953b0b8646a6ba6d836c822746924decd2088d3da8f92120c",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "566cf7b6ebd8d49aa1829090ec38633bd1db44ae42a8436fa6f6bd524ccebdb4822c3adaad00b83fb07b616f3904a3dddb1dd5982d706dd4f8a1d14203a6fe0a",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
