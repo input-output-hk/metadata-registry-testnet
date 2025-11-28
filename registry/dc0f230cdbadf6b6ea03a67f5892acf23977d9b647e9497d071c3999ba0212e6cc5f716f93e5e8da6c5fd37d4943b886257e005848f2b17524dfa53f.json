@@ -1,0 +1,43 @@
+{
+  "subject": "dc0f230cdbadf6b6ea03a67f5892acf23977d9b647e9497d071c3999ba0212e6cc5f716f93e5e8da6c5fd37d4943b886257e005848f2b17524dfa53f",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "VLTATSET",
+    "signatures": [
+      {
+        "signature": "810d688620ad5365f9ef83dacc43dd234942e57757342bdec4502415158a18309317899fb51974112c6c43260a6d796dac6984bc7016506f8ef4377802468a0b",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "bfc5a1ff2502ad70066e3cd512ba8cbcfff63fc9c6060ccfb92d89c383d06c8e9631af4d1fb56dc2eb04f72f7d449980cb1a4b372295ebf7d13a41bd96306708",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TICKERAD",
+    "signatures": [
+      {
+        "signature": "a9256c7b27a4b91212f32099f68192eec6efe62bc346ef0a722f10b31ebb81e65146464aca638ea9eb8a2d0631a4affc013c40f3edb417b68e824965a34b1800",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "7ec8ba038358ee62d66f7f1882d14c434b985a70afbeacaeb1dcdbfbdbd532eecdaa6b2bb56da26708263db81f95ba120c2af81d5315805f127f5726cf6d2d0f",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
