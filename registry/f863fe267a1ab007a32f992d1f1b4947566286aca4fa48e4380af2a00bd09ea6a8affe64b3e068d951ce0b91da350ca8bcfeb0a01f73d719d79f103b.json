@@ -1,0 +1,43 @@
+{
+  "subject": "f863fe267a1ab007a32f992d1f1b4947566286aca4fa48e4380af2a00bd09ea6a8affe64b3e068d951ce0b91da350ca8bcfeb0a01f73d719d79f103b",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "WOWVLRM",
+    "signatures": [
+      {
+        "signature": "0581f928eddb4e31daaa3ecd817ab53a413f5757fa3e2eff8c511315567f7ef2a57297d3aaf6a3e6cea71a2ef59404fd70bc08fa84c84b41503ef88ef1ec960a",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "2d3282530c3dfbd94a84a517c567c715ab3f378c1c23811a50caa3028bb59562c3bacca646e58a1e7ab4d3bc7c89b34ad6aa57b3c66a6dd5308476d698c97a02",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TICKA12",
+    "signatures": [
+      {
+        "signature": "51e4d28f48ae80ad0583b6a4317db923e2fa0ce0cd084e3c023f09989ca38f74ea0271815326158c2e42e15bb604e52ae4696b03f5e6b87e5f6cf3c33374930d",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "207c2d8f9709a6df939e4bf3fb1c9543c715f34893d33b704482511b6a7e55ae31009ff28fcf2cf76d11547f68bf1c49a1d634bc75a93138bd36c1a8fad6ca03",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
