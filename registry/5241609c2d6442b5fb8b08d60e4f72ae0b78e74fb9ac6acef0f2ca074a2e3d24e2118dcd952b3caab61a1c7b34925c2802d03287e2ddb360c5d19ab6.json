@@ -1,0 +1,43 @@
+{
+  "subject": "5241609c2d6442b5fb8b08d60e4f72ae0b78e74fb9ac6acef0f2ca074a2e3d24e2118dcd952b3caab61a1c7b34925c2802d03287e2ddb360c5d19ab6",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TestDecimals",
+    "signatures": [
+      {
+        "signature": "45bf824d285e40718a5e1d93543b103db6279008c5938d37258a5160632948c5d8e50e67c94769c749fa3919e29fb47ac111d9486c8cf34743de42b9479f8c09",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "29360c09203726d676161e2242cbf48a8486cda0da9a86c54221d0303c0466626a6b3cfc4dc49d55cf0d33b3bd66c1f1537a176dd29b50473eebfed4ccf3ff0e",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TSTDCMLS",
+    "signatures": [
+      {
+        "signature": "d2fc4a764f9499d40bc8803bd8e0c6fd1c5bb5a65b322b3ba773a39f1742e310d0b7f240d91de4f833ff951333b16d7e00e5a541075402b0d86cc6beed6c8508",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "b15530afeea921a14c78780971b6a440c36de39824adece35c9b42b1b4db5c87f254e05df2e3f28256c41d8f5edf284a4869878708991778490d88a708a16c0e",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
