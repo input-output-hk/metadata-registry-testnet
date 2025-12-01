@@ -1,0 +1,43 @@
+{
+  "subject": "5fd45d2a3699337f28a1f18a205e6ffa82eedff427b12b5d9893750a4daed0922c60bd1044c02fe7fec435cb2da1f8cd38f6e91342a36b3a4d44fa08",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "PenisVault",
+    "signatures": [
+      {
+        "signature": "0360a6255cb978253b9f041b8c66306442845749736e852bb27ce702a1f0a74407ca89e17ffb97529a70a200e722a3818c1ba47043b813a2ee9a49dc77381201",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "0b92bc2c846860b9eff535324098109f0a1ca28d2264b29372a1fa49153347be715a1a8d451c77b51e8c516a584b01122a601811c4408293c6796fc3ed843a0e",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "PNSV",
+    "signatures": [
+      {
+        "signature": "7df04d0b01142c381b2c73225676c9ab103f1053e8f58389014004fb7b1b943196689f525deb4400d3e23438e64fe25d0838c72cef624400352e0422a1423904",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "fbd49c680c7c48f905e70c5fbf3d9e4c6509f8d073e9731aaa28b2a970abc901bdee67c4c82efc3e65600ec06b93f26a2b80ce2ed03179edaa19556d3b767c01",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
