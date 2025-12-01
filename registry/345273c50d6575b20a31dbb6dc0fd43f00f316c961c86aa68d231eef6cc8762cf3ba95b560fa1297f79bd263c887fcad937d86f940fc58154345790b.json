@@ -1,0 +1,43 @@
+{
+  "subject": "345273c50d6575b20a31dbb6dc0fd43f00f316c961c86aa68d231eef6cc8762cf3ba95b560fa1297f79bd263c887fcad937d86f940fc58154345790b",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "AmAmVault",
+    "signatures": [
+      {
+        "signature": "18846a9bd7531be17a7ea6ab00ca3745a0897e40c37c20c82d845f195b3b622aee4c49e2db71e9c736c9507eae7b8d0429256720eac82374625a6a81be0cd908",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "84e9635d09f4b7a9560687dbcfbcaf45f92e9f3ff191f34245d32e9b67fe12dd7be2f5b894e9584f2f411301213da6a7dd43abe95b740994038838849c228b06",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "CHT",
+    "signatures": [
+      {
+        "signature": "ec454af61e21c5dc5a6f8756e0f9feb70fa48dd5749986fe9108b9f133d340759682cf05c67127e782ab84d409f0529ba5c3958ded8ccb98d9a64d46d6a5ea0a",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "f1c441b7c508025dd1bcd7b35458f2b0193f6ae778a4bf5cf53c9463f76ebd56b8822f0322859ad01d3ddc0272998726426d8a3110c2332263793614eb34050c",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
