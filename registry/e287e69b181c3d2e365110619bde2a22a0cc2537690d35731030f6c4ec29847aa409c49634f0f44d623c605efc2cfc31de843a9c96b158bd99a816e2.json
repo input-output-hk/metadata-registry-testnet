@@ -1,0 +1,43 @@
+{
+  "subject": "e287e69b181c3d2e365110619bde2a22a0cc2537690d35731030f6c4ec29847aa409c49634f0f44d623c605efc2cfc31de843a9c96b158bd99a816e2",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "DickVault",
+    "signatures": [
+      {
+        "signature": "335630f355102192f8687b6a17873207c9e0e4e7f3e89dd4dc6beb2c8da4d399f5c1bfd78d547c9398c5a28e04b9d9d516964a869ffa789d0744f79aeb15dc00",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "d38ef91e135884bdc03028055893d4fca12e30f64a6e2864d04e994988c8b6d6b36a2a16a8887c4f05b28448571ad7b8ed6931dc089e68b2a3c0fdd953b6300e",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "DVV",
+    "signatures": [
+      {
+        "signature": "41128f1fde47ff9bff8d0c7cfcb1a801ff477d7e8a24dd0fb193420533fe7b936e777e484e016d0056397b23ece4ccad08d90a737fac14f37d5a0e85aab53a0e",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "a86c18d61ef0c846c1b9f4af1490a2d639ac63b2cffbc14adace88801d9c8d810e652659998cff2ac27244bd6421394082cd0dd4368e429705b07131bb4fab03",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
