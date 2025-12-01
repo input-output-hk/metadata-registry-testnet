@@ -1,0 +1,43 @@
+{
+  "subject": "f9f39047b32760bac295dffa74d7b893392e707861ec3fbdd936afadf619bd2ba5f62bfb2094a6a54e54682f58d1f7a67259ba12d0eec82e058f2ef7",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "VaultTickerTest",
+    "signatures": [
+      {
+        "signature": "91766985150eeec9690fe886ad73791f6b644cb0e10dacb513157e7740ebcd9cf41472c31b78095be7439c249744833ed7e2353514f15a8471271bb290523a06",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "b8e07ddedcc396d2a32f1bbc2f33fc07867227805f10be2ac7fd392fad18bb0f8af8b9905b6ac0191affc552b36171ca293a54311b10b497c169b41354ec5203",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TSRYNS",
+    "signatures": [
+      {
+        "signature": "c03af1420a0e2da8c68a8f86f4f1024148edcc1f8685731fd417770b3baa5965270f09d353f7dad006d3989d6cbcf020fbf38fc1bde7a0d2b4572f3effcc960e",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "9e304fedc9134751869104f3ab6191bb3ae2965a8e0fc424ca23475692dc7bccad6b902ff41c8bafc7ce576f5c5a653200c9803e9962fdba4d546cf31734500c",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
