@@ -1,0 +1,43 @@
+{
+  "subject": "8359d8dce59ddff4673cf20281e7b8b133ed3e4e66b1fffd175457ef805ff2ea949de120b7ebe95622a07e3170593df910521f1f0df8d14e8dbcd9b3",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "RateLimitVault",
+    "signatures": [
+      {
+        "signature": "4006b3317715cabbbcae2d49661bfd5ebfacf10ccc78045add465633a5a099a9557b7db4a42b05a52835fdeb6f4e04e1eae4010a2ed594284905ce2b2be47d0e",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "93ce192c3307c33371bb210387cc1c46aeca94be7240d0fce0f325f4e2dcf674d1521768aa20bb1056f77c0dd3ee2c108e8bdce33384c3a02e92b6e4ae9e4b09",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "RLVV",
+    "signatures": [
+      {
+        "signature": "dbeb78819bb89f429fb9e7c76657396a0b9055ee6b86f1ded6b1f6703b60b66252c77c68281345b57c42bfea91c6d221202abba7e4df393b480c414fa8183508",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "c8e5dfde71be2110b11e0ab88a0a7d9bbfe70fd8ff83e75205ca4374819c84b83c5136a22563fec328f45090df02b401289c0decdddaabf030a13252ed6b6c0e",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
