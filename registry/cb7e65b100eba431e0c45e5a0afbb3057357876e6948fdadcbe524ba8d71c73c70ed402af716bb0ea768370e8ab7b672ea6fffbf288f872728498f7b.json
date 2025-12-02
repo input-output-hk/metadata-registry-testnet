@@ -1,0 +1,43 @@
+{
+  "subject": "cb7e65b100eba431e0c45e5a0afbb3057357876e6948fdadcbe524ba8d71c73c70ed402af716bb0ea768370e8ab7b672ea6fffbf288f872728498f7b",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "GitTestVault",
+    "signatures": [
+      {
+        "signature": "ec144e0f8556ef7a300329080511082e908037c57ac35fc7d273e9fe14b32a6baa4b9b49ec3828ead8ba268fc33fe92ac5107d6deb68c4e645b02a2f02ba4809",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "bd9b1b9c89fcb3f6abdbcb7db677e58fdd46146972098bfa0fe1842073c4032f5fffff50f4bc8899ab25c3f1d01501b82ffcee3d62ead1f3cc88b35515efad0f",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "GTVV",
+    "signatures": [
+      {
+        "signature": "56dbaae7f35ee030c2ea441018c2909ffbb80031a2eb5d927b8d83774d3a9027795c6a34951339ae72667b2c65fe7b05db8259df18a15f54deb22ab3d3270107",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "84ac5def016b833ca03f6e02c9b11636b6696ceb7029ec69819be39595de82c2ea8afa0293c23da8d80512bf74ecf2381ff318e80df2b06998af0621f360250e",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
