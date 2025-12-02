@@ -1,0 +1,53 @@
+{
+  "subject": "479e7caeea3321cc238a634758c0bb39a299535daa95124bbe1ade66d1da88fd5d81fc584922efbc43341dff54d263bc54af613fe64b3801fef0f540",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TEST",
+    "signatures": [
+      {
+        "signature": "3818c9f9cd45f12d4adf337a0d12aede995f8ebcd22d6bf9fac7f88c3d29b7ec1ef36c64329fdb8a6bf337de9eb795312aad797d989c863e6b0c48c823ca250a",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "b815359c27e10dc2e0258b82f83f5cc5c739e82eeb3edc84fa233b173889d6899bd4a51c43cb93d322b825c7c80ef15a028f8d67c7860822a2cbdcff47dd3a06",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TEST",
+    "signatures": [
+      {
+        "signature": "3818c9f9cd45f12d4adf337a0d12aede995f8ebcd22d6bf9fac7f88c3d29b7ec1ef36c64329fdb8a6bf337de9eb795312aad797d989c863e6b0c48c823ca250a",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "logo": {
+    "sequenceNumber": 0,
+    "value": "iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAJFBMVEVMaXEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/eFplAAAAC3RSTlMABNWXexxYN+2vw5YKzecAAAAJcEhZcwAACxMAAAsTAQCanBgAAAMJSURBVHja7VrbtqsgDCRyh///38NFt0hF3GcHeGjmza62zAoZEiYyRiAQCAQCgUAgEDChYeXqwMS2lADjfiEBYGD9QgLApPMLCYT1N7+QADBt/EICwFRefxGBsL73Kwkw4RcSCPLjfiGBkP7W3xEAmCq/+wiMJxHkd1n/IKAtF0pC+sYc+dUE8gOPxRGmyO9CAHYC8VkNpACF/KoISO5MQQHGy+9GBVrZTMLpEQxy9W0S2AOhXPpU4G/DXn0fIrCLUCWVWInM4EN+jZMwZqCIG7HhMvipvj0CiULuVORY+T3Ugj1bERncye+pGEHsVoMY8PaA+18RiBTiTzhKGjTk1ynHwOKPFAqDe/l1yzG4l2kAz2jJ7zYCUOvmzSYIsz3C+FcEhONKlhRS5hrd32Hu/4SDQNxywy+nD2wxBLMI5L8xqjo8jJxFQCqRkoVXIRCdLEAjEP8r1SF7zQI3KwJJhenEKLZdhgzWbFoEjiO4OH5sdw9QCdSWQdoDOzECqW0xZQh09+qETKBOvECnI0RsAmHN8OG5putlIT6BuOa5B7ZXEtEJpD88M58vICDOIlixmUmgeBBfFgG2OgdSCbyoQE8lUDUBkY2cfBLash7K2UdxvkLp8mlqMTpa4ftDaXxHlHv44jIQU2BmQ5IcLPOT9WkHekYmIgFQqTUvVWcnNqXK5vHBuX6yzua15ekCa8TFILMvLibdq5l5TcA4Ud7N8pGk2R8vpx/OaIuAjjfDy37L7VUA+pNJ85u2nF02AMOlqd3x9sXkxtVBMSjg2aFoWTQCzaJpWLSPBHJJsDBiRvTKpkvfxzQKH3y6z4Zkn+mgGpWsLce6H4DdLXbIZnHTq/0wq7UdYlY35fhj10OeGdjDrh81LX/qB3R2aQYNLBqW6TGyEdwe02Q1cG7FfW9o5UYOre7kWBII9VAPnhy254ZpcMmGDy4/5Th7dPswO540vK7luOb9AbuUwFWOq94hEYsjcM7xvvU9onOW+73vkq1/m25vl7cvf6Ny9TulBAKBQCAQCATC/+Efhk5/gMKIeNEAAAAASUVORK5CYII=",
+    "signatures": [
+      {
+        "signature": "715b6604644e884cd387b2a2f1c4f6d8d177a369864272fe98a58ddc822c988cea9a65506bba439a4eee17e12048a623221052a9a6ab8f2fc67df6694808ec08",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "bba414b3c613a533ff108cfb5d2f5e9f9cc9f7c006bb8d25f744ee1dc41fbbadd1e69ad39ff464f6c07db188d9ab84cc25fd8c0a0daef6dab969619cdbe7d700",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
