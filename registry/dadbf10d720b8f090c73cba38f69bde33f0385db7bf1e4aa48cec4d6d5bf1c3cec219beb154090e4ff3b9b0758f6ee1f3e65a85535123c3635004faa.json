@@ -1,0 +1,43 @@
+{
+  "subject": "dadbf10d720b8f090c73cba38f69bde33f0385db7bf1e4aa48cec4d6d5bf1c3cec219beb154090e4ff3b9b0758f6ee1f3e65a85535123c3635004faa",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "огрупашуцацу",
+    "signatures": [
+      {
+        "signature": "c1b1c91a8279d2be1c8d35d4313dff20922c28d27ea3ed5837b7719b8fc4cb7d51de1a1dd5b3891840d05bf9e9b745147d402096760d221508eb80bcb97a8b07",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "fe7806a10544f72e73f7728856b5bceeaa926c3739f1400088f650c47c6d1615a361505ad03bbcc513acd3f2152cffdeb127c10015cf7afae23266c0da91440c",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "GGGW",
+    "signatures": [
+      {
+        "signature": "38292c4f099ba187dd7ed0ca1ad4ad79c58b13221fde578297fa3c07834e1f04aad5118bd7eb5ea2111e7b7941a95c110e96e7abd47d80f731924d2ce0953d09",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "db8b64cf98b08ff78854925f0300d875a37bc1427f936b988b848bf9780397e916ec021d88cf96d2d804fc78822e6afa7b99cd4aef4d39ccc959dd18e20fc000",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
