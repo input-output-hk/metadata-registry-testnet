@@ -1,0 +1,43 @@
+{
+  "subject": "2c2cc84c0304b438c3f9603e080f1845a8c25247283faff85f054915e4ede5ed1b26375b36e8defc49156014b1551a7544cde478883ca999ef9f59bc",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TestVaultSimple",
+    "signatures": [
+      {
+        "signature": "ac3c24b6167333fa221688de94b4d21c5d4ac8909ffa597aa186bec20c21b904b3982fb8f02c7a437e6b8ccd5b41795d7ba3e459088b6e5acc423d62b2a3d809",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "55f4b76b8c36b50580f8c138103d2d44172657a0fdfe8cbb73fe75c60a8f58fbf074bb94c88cd7f96fa1de396ea49bcd401e500e81fb3f5e83e190d7bf66a009",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TSTVTS",
+    "signatures": [
+      {
+        "signature": "79988bc9a4080ee74d7cacb80b8c9cfc5f245bc3dbc61eb6f13145691f9831e65f5de85b161b97221b33b73f88ff9becb18aa32bb0deb2663a6f364ced87a70a",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "b8f0e2e6fb9c11283c4bb7647a5dea7a01feb73f58db833ed13a444377e5508982d454962c592491a52411bf1d930034ce15d1b936c07516891e3d57aaef320d",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
