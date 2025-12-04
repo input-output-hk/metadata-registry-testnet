@@ -1,0 +1,43 @@
+{
+  "subject": "04c3376bda7a2ba29edc0863cf300c9d23e7f3026032801c76f68cfa0a8cbee550c56fb0b798cc3b1f65bcc9f093bb1f7a86eec43434816e7f315d8f",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "ArtemTransVault",
+    "signatures": [
+      {
+        "signature": "46aa8dcf28abf2e133c5310a285a7eb4aee3c8450060cf455fa7ae44283127ce87ef78f350b4042b12646ba26183253aa5c938b17f08b1fa69cfa843506de10e",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "04a11a98b1addc9d10e319f942ba52b519be6d81fac66f491e186f9ae67ec1f6296652987abfa3ab8203833a2b2ee319478a9677bc52edd452a2a68f8cabfa0c",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "ATVV",
+    "signatures": [
+      {
+        "signature": "78658c192efe48b0f029bdbdc4d4a0a7b0daf0bcd1aaff55ae2cf9e2242363f8b28d63a8226f47dd51cc417a1675beb02752a718b9fb2556c8d9129c9797d706",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "6a78a872ca8fad6391d2ca9c34856bf2341af536af6b29b8508cd803f68f23449256672b9a8f6d1356d6e46b681678ba1efd36c68d65bbde4bd5d7c2cebb9e0b",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
