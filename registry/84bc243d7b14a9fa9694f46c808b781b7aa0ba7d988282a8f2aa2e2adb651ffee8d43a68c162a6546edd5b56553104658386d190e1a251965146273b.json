@@ -1,0 +1,43 @@
+{
+  "subject": "84bc243d7b14a9fa9694f46c808b781b7aa0ba7d988282a8f2aa2e2adb651ffee8d43a68c162a6546edd5b56553104658386d190e1a251965146273b",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "ContributorsVaultTest",
+    "signatures": [
+      {
+        "signature": "c9fbff22767e804e6f6ccce02d994aae19e37e62b7671b75b905d797a78b8f68b41cad1b83b32432dfbd28f464bee26b37ff6e07b75ed907e8eb90944417e006",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "15cfd30ea6828b25a838ab49c98facd6c1aa3beda93f75cf696befde9a3041d659c98d51720d4dabc60a6e3173aeee30256b9239d2d9d769de75c543164e880e",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "CVTV",
+    "signatures": [
+      {
+        "signature": "166681894ee0e368609cdacc1637cc352825cebbe134b21dd5be7844a7e100333975fd1c33797097ac5b2fb0c866452f2d1c65a4aaefc117434aae0910d55704",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "c15fdaf36d62064ec9f7634a6d186d1931414f94d3b9f1a57b255d5f0b66ce8c070db879c355c147cf68e42ac5c4d5022bdd43655255d689b022c01f81978e07",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
