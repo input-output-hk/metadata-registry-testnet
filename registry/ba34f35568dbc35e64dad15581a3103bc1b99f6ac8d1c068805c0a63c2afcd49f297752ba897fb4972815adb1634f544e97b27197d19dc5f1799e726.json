@@ -1,0 +1,43 @@
+{
+  "subject": "ba34f35568dbc35e64dad15581a3103bc1b99f6ac8d1c068805c0a63c2afcd49f297752ba897fb4972815adb1634f544e97b27197d19dc5f1799e726",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TestPresetOne",
+    "signatures": [
+      {
+        "signature": "6b10c9cc7f2900b6e49af2d0d2e06620c00f82d6a9be09e1ee348804cf2e400f3c036a8b0e8a305f56513c7d5087faeced08a2da0dbf1e1e913125d48285920d",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "b744c4c3b6d75b501e8ac10e18767612ddf838a7f4bdf0d382a023bc8a1c6b5e07ff7633c10bf5b577476be7ba8da446d415c6e912a8cf126b715499e073b502",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "ONFMNV",
+    "signatures": [
+      {
+        "signature": "e7e9cc6fed29a395b7172fc1b789e8de2819cf61305a8248e2c1c025631158117457c70428b8f8b2a2e197e413a2d669a6d33ac4ae896d4256e834849a041a06",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "0d119a1ddbe6107613ad642d9e3b4bcfbc028a6edfdae334dd200a32c6cb8d0f0eda770d88fa7214c4672881ae41b03d57a22e88ec5959d3325c847b0f002406",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
