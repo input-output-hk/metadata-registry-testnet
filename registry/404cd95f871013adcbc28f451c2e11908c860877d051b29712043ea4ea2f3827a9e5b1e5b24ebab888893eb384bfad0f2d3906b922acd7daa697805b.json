@@ -1,0 +1,43 @@
+{
+  "subject": "404cd95f871013adcbc28f451c2e11908c860877d051b29712043ea4ea2f3827a9e5b1e5b24ebab888893eb384bfad0f2d3906b922acd7daa697805b",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "JUST MONKEY",
+    "signatures": [
+      {
+        "signature": "39dbefdba6ac3b63713776d0794041dd17347140bb8795120b24f6724650ef2bc3d82cecd6292ad1a2886010062964726c7941ac3e5b6f0d3ee600331147110a",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "3b2364ecec61d15a4edee775a1e1d54779ca3ce7269e1819b08ce05661517f65448e668ae84a93850146f7b27455a364e456e20933230f6701d172c4409db409",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "JMNK",
+    "signatures": [
+      {
+        "signature": "ee03c934548ad957dea481c820bd0bba14c3ff5fc327e824856493dde0d3f32cdfe2f3eef99e510ea8c4f2617dd9609162c9ea36b206d94bb7f9c8eed6681702",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "80bf876a8581215d0b80af8966c9d8e3e31313f2160e9068a6bcad857bbba5980bb90aaae918e6d209fb1fddb2a84e1d1dd1c82deac2167d59c10a8fbed6f60e",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
