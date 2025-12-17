@@ -1,0 +1,43 @@
+{
+  "subject": "c538e707bcbb981ecfb59163ebec0376fbcc95567f65ee5158f2a08f8790d737f6de3132f5749023f8fa145e04f2deb720d71daf8dd13e5847ae5906",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TESTHOTFIX",
+    "signatures": [
+      {
+        "signature": "0455db27f053d016921fd24a57e8ba8ed04813cfa902fd5a6edf97a3f49af9fcf927e643980bc728f16a3934982231a9653591f803216c642c2111ef99316b0b",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "1e84a50854f47a6334650f800826ad9fc1d78a759a0885a0cafca07860b4a69d07edc0cc57cdea830dd63e07658138c576a3795e8b80e725846a5d1a2244d803",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "HHOTFIX1",
+    "signatures": [
+      {
+        "signature": "d30c809da0b4381a418c9cccc02ccea0be065cbbc5caef116c42c5a26e949d4665090f4c0557b36a808699b751875433073402c4d61353f9998fd2408e8b310b",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "1360a73cd84bc4990f6adebf790693210b1195a7f70dd242fbad790e8c88354bf6f11e5325e97544addf110104c68306fe9e2a3a6687b78d10033febc23da106",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
