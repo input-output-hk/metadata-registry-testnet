@@ -1,0 +1,43 @@
+{
+  "subject": "14af28aa113dd238a6a95b6a4042819288bf9919f01799ae8859af9c65baec875c817f7dce489e3f5de81e2fb48627024c9653a246ec65cead133a6c",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TestVault",
+    "signatures": [
+      {
+        "signature": "73dd5f28eb9f241531867a64ec118f6bcab00a34a97fc374008468cb3a77c159d164cdaeb8bf7d059af61947c6dacbe91a5a9a67c596d2e4b2522af38307380b",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "47a9789b17bc2b8e47c3a2456375a3aae639547adf77e0cdd8b67b95eef5ff6b8edb64a2a8fea4fd11ceea33c033638df2141331f13986aac2b9b8076facc309",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TOCATOCA",
+    "signatures": [
+      {
+        "signature": "5f8806d0e57adeb5f0ff5882031d0346e536375054ef289500af5b6d3beb9e30f8193f8d9d25dd3234d250259f0197530ddde4437b3377a9ff094dc5731d7903",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "9f89fdcd8618d2c78f915c7d3e22b76204e1a56ed09e33d863690b88ce08f3abcc1d465c687c7566d8268590126dd89cd3ba118b9b2ac9631b40a78021a74905",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
