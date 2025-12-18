@@ -1,0 +1,43 @@
+{
+  "subject": "3fe903c64b3439701e4fdf756ce4cab9b4f4555c7c5c8846567722f02307ca14f65be9e341b4f36d2349111e74a018fbcaa03f5afd3b39b6b4b53e8e",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "VaultForTestTRX",
+    "signatures": [
+      {
+        "signature": "6e442bc17e5e91ac8ae26eafc80ceb199f8eafc228845ee65737894152c7692761e2c3bc7677b1bf70d496a9fdd3601ae5cf8812d398c6a1082c3d5dd9b8470f",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "34e347fbc4cd73f7a19c070595218578a709855d4252a107e9da172bbd4fdf6af3a79312bf44f061ae4c4992288bd3ae6d344ce04eab5b3fd501193e7d579e02",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "VFTTRX",
+    "signatures": [
+      {
+        "signature": "6d2f01442d93d14b489dc7901caa31c2ed6247a60416d5af266a6094bf00c739e9cca2a9bd3693b4cf291cdcb9e7e429abdb461d8033e589ab6336019e58d20c",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "58718dd4082d47800aa00fe882b71191acd3db01d8dcb8939c76624b7afca220dffb6229495d0d18b33c598ea5630ff8826548f1ca02fb5f1011ce34a2b1400a",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
