@@ -1,0 +1,43 @@
+{
+  "subject": "db868a222947c4d8e711449a41842c60063f808edfe97a59e01c656854e5ed26f23c39d063c7eae2e87c2fef9bff1fd6119b5af181666043b40bb05a",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "ContributorsVault",
+    "signatures": [
+      {
+        "signature": "e66b0948d64e8cf79071214763cdbd09a5d477f9cf46851a9a80f55b6d327b9179214dd8cb819af92be538a87bce2a2b9f378f4303d3bf26b9c3a4933a5f7c00",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "3ab76a04d3cb904b3678d608e484547c05275d6eb0a45498a4a47b43bc877e567cf85ac2f9d437ec2ecbe2c2675ccc1be3a02f0424e2c92357bc786c2dab2808",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "VTTSCT",
+    "signatures": [
+      {
+        "signature": "110718a2e8b70b0e9b952ee068062e0e5f585183f2b306f4d52df3ba8b1cdb5f92d567741018ab6a13b9f2831c0e6e1857593c652f09d0a7bb2079bfe3b44b07",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "7dde286e118cc8e9c837cea81e5762e8f938110c78a31ff7299a5f6dc1c481d0ae541996ba0097af5e193778e99f30a5c4852694f7ecd8ee128d920ef2f8cd00",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
