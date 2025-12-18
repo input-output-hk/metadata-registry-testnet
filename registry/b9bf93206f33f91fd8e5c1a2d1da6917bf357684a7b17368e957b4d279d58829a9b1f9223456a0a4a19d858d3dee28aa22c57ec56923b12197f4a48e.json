@@ -1,0 +1,43 @@
+{
+  "subject": "b9bf93206f33f91fd8e5c1a2d1da6917bf357684a7b17368e957b4d279d58829a9b1f9223456a0a4a19d858d3dee28aa22c57ec56923b12197f4a48e",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "BCM24",
+    "signatures": [
+      {
+        "signature": "832e09fe35cc42bff5f86c7e928ec1ceef981364684e1596fe245aada1647dd77729e53ac201fc10913fa7505af1efe94dd2299e2cde4268279de7ffb5afc100",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "Vault by Polo Ralph Lauren",
+    "signatures": [
+      {
+        "signature": "464af9d9f03a27028d2354d476564904d84376fb5cd451ea1f54d352a1c7c48b5800f61ce0ab0d6b39a1bd7bf40de61abd8fcded9744ae95ad51c053403f9809",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "12",
+    "signatures": [
+      {
+        "signature": "fc864fe4daebc9865e8ef1a33f835f0aeff51559c19cdcdfaa36b82f1a823386c55c541d5440775f230144d8604f00e89ef4dca36b95e5d3b2a02d0eb2a71304",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "cc2b05e2a20c49ffafc47b1ca92f678335b2e28ff891f366cfa3fc64271d6bfd91cd9cd975d1aa9d9aa6924bf6e57c0e59a6f5f8e0395aa6cfedc6c149f1380f",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
