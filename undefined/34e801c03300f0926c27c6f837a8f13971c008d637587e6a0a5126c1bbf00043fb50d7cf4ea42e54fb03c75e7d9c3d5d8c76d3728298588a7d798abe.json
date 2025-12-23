@@ -1,0 +1,43 @@
+{
+  "subject": "34e801c03300f0926c27c6f837a8f13971c008d637587e6a0a5126c1bbf00043fb50d7cf4ea42e54fb03c75e7d9c3d5d8c76d3728298588a7d798abe",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TEST",
+    "signatures": [
+      {
+        "signature": "9da756881088715c51d85fada27caea19add7cc6f187498dfda8c54557254a1f3ef5623bf16cd3e6ac8f2bc5dcbeb8e0953ebdb3337c5da775fecc0caeb13c0c",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "7018448bcd1b828d967cb9a332a692ff01aaf59115ca2a557f91da020ca2e525f86be9e7e27bed4d2087f6073499fc52220d12905c4a635baf448b171207d20b",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TEST",
+    "signatures": [
+      {
+        "signature": "9da756881088715c51d85fada27caea19add7cc6f187498dfda8c54557254a1f3ef5623bf16cd3e6ac8f2bc5dcbeb8e0953ebdb3337c5da775fecc0caeb13c0c",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "dfdbfdf334987d503d7f793e8f8a74330a3d3bb4827c9a671b07dd84249c8a4c52de929e2e6e11ad594d06401e540b25486055803c2afa50cee9b14eebbeed06",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
