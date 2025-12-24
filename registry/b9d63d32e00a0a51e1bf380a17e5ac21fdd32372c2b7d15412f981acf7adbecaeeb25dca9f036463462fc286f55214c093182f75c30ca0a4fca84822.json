@@ -1,0 +1,43 @@
+{
+  "subject": "b9d63d32e00a0a51e1bf380a17e5ac21fdd32372c2b7d15412f981acf7adbecaeeb25dca9f036463462fc286f55214c093182f75c30ca0a4fca84822",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Bumblbee Token ",
+    "signatures": [
+      {
+        "signature": "e99d30c2625a04123a1aae72b4a01bbc6d4968fdcb28b6978069d4409462e957c3a4ad4fb2943d7e929707712270989ad2b71969f49f44937d3a0cf91e0c620c",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "123123",
+    "signatures": [
+      {
+        "signature": "b370a2f755da242dbe1870f1cb3d2e4f5326ec3e511b715ed929615c96e82352f27eea4234263f28283ddfad5f9575381225c5fc7a21a2c021f54448c1251901",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "123123",
+    "signatures": [
+      {
+        "signature": "b370a2f755da242dbe1870f1cb3d2e4f5326ec3e511b715ed929615c96e82352f27eea4234263f28283ddfad5f9575381225c5fc7a21a2c021f54448c1251901",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "4cae8579abfdc94cf7de5c82517564b7a2daca6ed59825410c94499bde5d9df6c100eff14efff3c879a9ea7eecccd1aa5e9afca19a07eb92d5d7dfc22dfd7907",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
