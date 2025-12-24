@@ -1,0 +1,43 @@
+{
+  "subject": "58009ded64f3f2e1079bb14e24a39f91a76ce03a54a8927080328551f0eb2b8ee7073c008706d9dfdb8968cb584e0f6d83e01394c11363badb99d1be",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "1222",
+    "signatures": [
+      {
+        "signature": "65c0160f5d6654e0187fc6bb8605fd1d9b9a4a575c894198525bfa07b72597c40aee7e9d4a1b9df0fff60de5095afba4f10bb73a072abe4d808e215e1eeb3401",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "123123213",
+    "signatures": [
+      {
+        "signature": "bd5054dda0c949d8cae7289142425d12601719cde493b9ef908b5784a49b00b02f2d328ab6d01ae4df226355ae2ff9ce746614a0e32e40a166d7c01eae4a5c0c",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "1213",
+    "signatures": [
+      {
+        "signature": "d44a2e4ac695ec4daf6017e8347db0d29539a551e22d1f6d43aa5bdca089914108db371e254b4cadbbda332fa8f8706d1d753d4b373daa17bd854276cf039402",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "bcec91813789a9a7aee159f384c00aa9307ae572a69cd4b32ee147ee004947d943bee4bd71fd2bc86f2c8596059e2b51ac7cc4d512d8628090c0547c489fbd01",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
