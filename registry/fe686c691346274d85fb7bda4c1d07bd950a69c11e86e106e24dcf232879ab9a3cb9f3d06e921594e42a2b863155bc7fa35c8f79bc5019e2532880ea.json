@@ -1,0 +1,43 @@
+{
+  "subject": "fe686c691346274d85fb7bda4c1d07bd950a69c11e86e106e24dcf232879ab9a3cb9f3d06e921594e42a2b863155bc7fa35c8f79bc5019e2532880ea",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TestHash",
+    "signatures": [
+      {
+        "signature": "105c8c1f28cca6a331e10b5f362d5a0362778edf3577964d03cf7c1e1f25dc0ad42a0facd9300d78c72bcb1b776c7fb429466750defe209d03686ba3bd494d0a",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "b36ecdf1d98c86c1ce05518561c2680773c551b7fcc7258dcd97d469e92f38cb13e3f570dfb8a4a4b9a3059fd98af4645a3a68415d8b504ede9d1b4e359c870d",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TICKAHASH",
+    "signatures": [
+      {
+        "signature": "d29bbe403eaa7cda7c63dc71d1ddb94bfa431539b3298fe7bdf31b0edfb97db497013b63836b7e024b7a2e18f8b5924dbbcb58dd0d94f0df959264fdf220a80f",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "24a4ab612dde97df73d1a140523997dd480264e863e2979e25135492b81e8cb52b2e830c9579213c070ee76a064c0295832bd4fa827527fd0a33132c337b8309",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
