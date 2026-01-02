@@ -1,0 +1,23 @@
+{
+    "subject": "1e4ec9afac6426c2862e7d120c66a5391fb63af852171362babc032c0014df104d616769634c616d70",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "MagicLamp",
+        "signatures": []
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "tLAMP",
+        "signatures": []
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": []
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Testnet version of the MagicLamp Network's LAMP token, used to generate MAGIC resource.",
+        "signatures": []
+    }
+}
