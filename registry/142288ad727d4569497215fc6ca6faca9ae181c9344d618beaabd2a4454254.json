@@ -1,0 +1,28 @@
+{
+  "subject": "142288ad727d4569497215fc6ca6faca9ae181c9344d618beaabd2a4454254",
+  "name": {
+    "signatures": [],
+    "sequenceNumber": 0,
+    "value": "Energy Backed Token"
+  },
+  "description": {
+    "signatures": [],
+    "sequenceNumber": 0,
+    "value": "PollPower Energy Backed Token. 1 EBT = 1 kWh of verified renewable energy production from solar panels in Kenya."
+  },
+  "ticker": {
+    "signatures": [],
+    "sequenceNumber": 0,
+    "value": "EBT"
+  },
+  "url": {
+    "signatures": [],
+    "sequenceNumber": 0,
+    "value": "https://pollpower.io"
+  },
+  "decimals": {
+    "signatures": [],
+    "sequenceNumber": 0,
+    "value": 6
+  }
+}
