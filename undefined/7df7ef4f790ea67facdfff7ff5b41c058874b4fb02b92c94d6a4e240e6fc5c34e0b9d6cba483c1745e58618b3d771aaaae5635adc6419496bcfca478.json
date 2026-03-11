@@ -1,0 +1,43 @@
+{
+  "subject": "7df7ef4f790ea67facdfff7ff5b41c058874b4fb02b92c94d6a4e240e6fc5c34e0b9d6cba483c1745e58618b3d771aaaae5635adc6419496bcfca478",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "chlenRonaldo",
+    "signatures": [
+      {
+        "signature": "8e8df9782a00ce69d62dbd5eb1cee0f3b261afe19ef6feed3d4ddfc00979de8eae575de03ab88a43f45dcd2109c2c3916c1abc27e7ed9efe415445b55273b00c",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "ee",
+    "signatures": [
+      {
+        "signature": "f829297fede9a9b2584146e07261f7768d1a5536ada7a9d42ccf1e00609e5caa503ca800bf1c1ae6e7398f9f59bb4292fd8371787bf4fb2da20695233eaa2e04",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "VTTSCH",
+    "signatures": [
+      {
+        "signature": "0c69ed6e7bc727ebfbc35ddd83cc08dcfe97282bb6b1a7d1814d48c08f5d6bf4b8d75d818cbee20459e03c55efc79c18f064c58090643f9f0dcc1a714cffbd07",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "34d8c237434b81a3df8537740bcb5968cfdcc644beb9f561b053f2c0166301cf4416c0e3e4f8d7db6ead7044262d220362ef358b3cbcb5a6c0b2fec99b992501",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
