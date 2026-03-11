@@ -1,0 +1,43 @@
+{
+  "subject": "3c8adb9f0a2aaa42345acf2523bee4268f8c46071df3c20599e414c1f9e29f9e293b78512a9fcc786e06c40fd0ed826690be8d4f172555cb6cb2acc8",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "HardVault",
+    "signatures": [
+      {
+        "signature": "fd35fce9b95e26ddf33e2e0a07e850bad96a32716d6cd0772450b9fddcb9596497b628ec899d01eae9105873c14867644d81f0ca0d465f40ab7b75fdbf653502",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "3195c1b1201c545e1cf1ad90a0ae5ac9aa6d249b012a4ea632ce01cc70c4e59aeca556653d658e26a0112372575d1c5360171307d25c61fc7f028a02defd2607",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "HRDV",
+    "signatures": [
+      {
+        "signature": "2d78aa4bc8898e09b0c5c92c2ee62107a917ae2d0dcb201006121b80a1bc67a81614343874f6a19376276c9b8913a5abc9b96893e502ca376c278f013f98e60c",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "b7400cc183845e486f5e64d3770360771fd845152af43142fc066ed512f692817d6b08aefb66f0a2e662cb224ccfaf690e139c5c0d93e2174afd97aa6d3d780d",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
