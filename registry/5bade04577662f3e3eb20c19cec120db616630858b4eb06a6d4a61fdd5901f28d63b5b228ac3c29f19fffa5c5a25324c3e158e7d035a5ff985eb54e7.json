@@ -1,0 +1,43 @@
+{
+  "subject": "5bade04577662f3e3eb20c19cec120db616630858b4eb06a6d4a61fdd5901f28d63b5b228ac3c29f19fffa5c5a25324c3e158e7d035a5ff985eb54e7",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "LockedVaultTest",
+    "signatures": [
+      {
+        "signature": "ff725f5a375a2ec088dd4511db10341c5b99388eb33068a46e51829d3b598d8fe00e795bf47ff68f828bd19f4c253177f376f1c5e9cae469b9e97246b936940b",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "42f83f57fe83fcfdd3059249ed7166a26fdc743235b0877e79b75e990a2d56e3bbd5143f7b0e53aa271fa1e7de7e4930c384c949eb74e28a5b109b3c3d397d02",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "LVTVV",
+    "signatures": [
+      {
+        "signature": "32a679ea4b6cb26021ecc56f4e36af3a0ad394bb4d7655abece39c2c5973bdbd2eea060df634047ff1e862e4ed2836f0f4a787cd0449a303f42f38c215e27f04",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "77c99fb9690b95ab188bdef03315e071985d5104b794e0f492ec8c21d8316cf3dd5bbb6a05c1d5f33d20b7bd735749e376f5cc74cf791c53283aa89d4f0d560d",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
