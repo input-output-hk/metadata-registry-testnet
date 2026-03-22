@@ -1,0 +1,63 @@
+{
+  "subject": "39a8da1934f0f2465cd3045727387126b4f6c9fa0e469a7277e7f14e546573742070726f6a656374",
+  "name": {
+    "value": "Test project",
+    "signatures": [
+      {
+        "publicKey": "766fa3d93aae522b4c65976c1b901b8b3761867d56f28b5c4f259f7587003f74",
+        "signature": "8b640a1cd6a1b347ad3d1f6d54ea200da7c7034e665713b9343d9612371006ec2373627c3594ded4b69376f20c17926556bedf03fc6b2a100ecb0cc45802e304"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "description": {
+    "value": "just a test project",
+    "signatures": [
+      {
+        "publicKey": "766fa3d93aae522b4c65976c1b901b8b3761867d56f28b5c4f259f7587003f74",
+        "signature": "be44d447a77d6d5bd39bc2b2432a661ae4368490c4ba081d7c0bfcd8d775690b8fd7aa4b5eee0e72efbbf470b2a11547d11c969b42b6dd4ffcfd8bad99079508"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "ticker": {
+    "value": "TSTTK",
+    "signatures": [
+      {
+        "publicKey": "766fa3d93aae522b4c65976c1b901b8b3761867d56f28b5c4f259f7587003f74",
+        "signature": "d14af1dab0a0477c091b1841b77faa3417060c1b355c5b3ec859368b2f2a6976c0a7084ba5be7330b76a56635bd9c0998c5f5042de659e3aa62e71291f865703"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "logo": {
+    "value": "",
+    "signatures": [
+      {
+        "publicKey": "766fa3d93aae522b4c65976c1b901b8b3761867d56f28b5c4f259f7587003f74",
+        "signature": "59f65ff0e222fd46556bdf4954c343a825902632137fe5b69b09cd8ba89d89cd3e8421d410de81abdf42924cded8812775040c145b23009547a95a48ec611009"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "decimals": {
+    "value": 0,
+    "signatures": [
+      {
+        "publicKey": "766fa3d93aae522b4c65976c1b901b8b3761867d56f28b5c4f259f7587003f74",
+        "signature": "7dd0248101b93e8e2e032d3cb8211be752ffe8cf9342643c7001551cad95875dbe3a32aa1f4f13a263e96018a6a309fcee3daead10efeccdfd968477074e000c"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "url": {
+    "value": "https://ixhub.app",
+    "signatures": [
+      {
+        "publicKey": "766fa3d93aae522b4c65976c1b901b8b3761867d56f28b5c4f259f7587003f74",
+        "signature": "99222cead0e268fe0e5ac980d51f8119e5bc63390495031ed6a2042fdad88d78b121112fb268f1f2e0eceae4551c79cb1c07ea4e13e1d46d3fcda83cdf1be402"
+      }
+    ],
+    "sequenceNumber": 0
+  }
+}
