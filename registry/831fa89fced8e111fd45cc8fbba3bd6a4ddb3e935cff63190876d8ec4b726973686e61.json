@@ -39,9 +39,5 @@
         "publicKey": "37cca89c7de223205c8141b529e478c07fda6c2b076894ffae6b1708a5e67774"
       }
     ]
-  },
-  "policy": {
-    "type": "Native",
-    "script": "8200581c8ecd94529205dff86061ccbf01c7d1f047b8fae69a2a615c6e6520f8"
   }
 }
