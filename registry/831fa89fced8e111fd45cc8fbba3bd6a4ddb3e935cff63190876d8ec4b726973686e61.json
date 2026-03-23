@@ -1,0 +1,47 @@
+{
+  "subject": "831fa89fced8e111fd45cc8fbba3bd6a4ddb3e935cff63190876d8ec4b726973686e61",
+  "name": {
+    "value": "Krishna",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "207f9e8be09ac10c8b68253705717eeab83fedbdebba9957809592971b7256ccabc454f70cb2faadbf604417182ade017fac0f0863b2da2c67bb9bae936b6705",
+        "publicKey": "37cca89c7de223205c8141b529e478c07fda6c2b076894ffae6b1708a5e67774"
+      }
+    ]
+  },
+  "description": {
+    "value": "My Fungible Token",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "b83c628b36ed00f5ebc2998c727e71cdb9885781aa162af260b19f2b238d7e8b336f72f5238e06f68bc90c07ecb2a9f367ec934ae90a33b5ccda92bdc7e95a09",
+        "publicKey": "37cca89c7de223205c8141b529e478c07fda6c2b076894ffae6b1708a5e67774"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "Krish",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "f961c0cd9fa420c10146c25be93c0167f3d2e55bbb344ca76e90dbcf859cce94153fc7d8ee6217b28b7cdc415de53d2a11d44a970fff9f4d766fda4aa1fa1809",
+        "publicKey": "37cca89c7de223205c8141b529e478c07fda6c2b076894ffae6b1708a5e67774"
+      }
+    ]
+  },
+  "decimals": {
+    "value": 6,
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "d20fe8e1c5523d415cc1d6bab3fc78e00790f57aa79c8a53092183cba0b03e33599bc69b978bdbf9519550d82069057d956442806b5e461b5843ca7ef4be8900",
+        "publicKey": "37cca89c7de223205c8141b529e478c07fda6c2b076894ffae6b1708a5e67774"
+      }
+    ]
+  },
+  "policy": {
+    "type": "Native",
+    "script": "8200581c8ecd94529205dff86061ccbf01c7d1f047b8fae69a2a615c6e6520f8"
+  }
+}
