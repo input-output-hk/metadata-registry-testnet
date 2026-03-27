@@ -1,0 +1,43 @@
+{
+  "subject": "344b1a24bc7f21b2ef2b8514c24080c328cffdd79ad34c1c418f2eb4b432ecba4fe14fde9d835c3ac96f72fd75e0b7af8ab26efbae01da5a40493a2b",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "ChlenRonaldo4567890",
+    "signatures": [
+      {
+        "signature": "9c5384270ff272589bf85464f1f888f9d529db08e1cb2d385a9ee9f75a77a1ea63e5cd115c96ddcf31c744e6436d8c6286a7585870d4cc840725ca3b5ad6410c",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "5cd9367507c09b451cb24d1cdfa3db9e4aeff5b4b85d7ad5a8b3fe4d2787b94c771ad68fcaf3a9e105187fbd2c39552f99fb2bf01dc81307c094825ec1d90b07",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "CHLNRNL",
+    "signatures": [
+      {
+        "signature": "2e302cab3cbd6c0aa1da4dc68edbce73d8ce395e2cad009b0adbac2ecbd5b3d1b6563cd1b2ffafc5bcc12f26781cbb5c1791399cfdcf98688502593aa8292c0c",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "76c37928302a0776b95e5aee46e885d9ee53f62e962ff71ac131d1f11a93b8b9b2b82f21517ba98c07f08f987787ba18bb34b647fe17e789e081da10d970e80d",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
