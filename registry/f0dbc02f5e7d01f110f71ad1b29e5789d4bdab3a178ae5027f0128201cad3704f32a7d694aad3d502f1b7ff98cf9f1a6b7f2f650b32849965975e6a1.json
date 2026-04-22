@@ -1,0 +1,63 @@
+{
+  "subject": "f0dbc02f5e7d01f110f71ad1b29e5789d4bdab3a178ae5027f0128201cad3704f32a7d694aad3d502f1b7ff98cf9f1a6b7f2f650b32849965975e6a1",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Test Events",
+    "signatures": [
+      {
+        "signature": "cbfadb6d43597bc62bc11afa1c1380b3627d8432f8e5312082217d8dcbce2a91eb9f63bf1b55b817c4e3e3cff7a3760f411b93e3d7c42bc2ef34f9e5fe1efa0c",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "dasda",
+    "signatures": [
+      {
+        "signature": "b85a56e2112145aecb2692062417814f6ef8df3cc074448a3de2febe44a76315a063d96b6205ba58443bab557401be0bdae5f7dfb33558f0634163e8b4713b0e",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TIKTOK",
+    "signatures": [
+      {
+        "signature": "6ffe85e94ce1d24dfb2242c4651dced22a338f545ed4bd39fd6c334f2a399af2e7f19698cc90840ba93d82269cdc951465a731fba995a219ae36e062ae92590b",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "url": {
+    "sequenceNumber": 0,
+    "value": "https://app.l4va.org/vaults/19e6ea01-2b69-4c69-93c1-07b493fce581",
+    "signatures": [
+      {
+        "signature": "8625516ee8b294497b3ed12de5d3ae6a69ce9b0bdba8a6f0e2e20331491d5cc37eab22544113b3b1f66fd78bd7a4ee0d888311cc953c9cdcbe7e1abb6c151e08",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "logo": {
+    "sequenceNumber": 0,
+    "value": "iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAHlBMVEX////n5+f4+Pjz8/Pt7e39/f3e3t7U1NTJycm7u7sywqPqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAADq0lEQVR42u1Zi7KjMAhNgDz8/x9eDsRXbO9st7azM5ejpr4ajwQIYEqBQCAQCAQCgUAgEAgEAoFAIBAIBAKBQCAQCAQGyku4/fH5RdDtBIQm8LLhei3z3QRqZpbTwq0D2rYsE5RAuZ2AdXxicHzitNS7JVCyzGq2C7zQBfdLIJNq9oXC0Pij9hezlw8oIR7Gf6H+VehzBNQUeEW2kQdyFqZtEb+TP0OAkktZm7Ysrfa+LF3bRvu4fJCA2aLC1ExqNYmreWDbJfMFAs5i2B9PLqDeTsA9O+yq5NqX1pp5H3NC69HS87DFIgL9E7qTgAmcjECF4LVpDWvGTms5t8bDFhPfTgBqnns3AqJkjJI+D6+bCjTCPMKBgP60OlmnvsG/EhgqNwgAzAWS1rMwRB+izTqcwGXu4iW/qwPwxxVznw55U5FA8KoT1vEhDHACAiUsx7XndI4SfoglylMCGI2svga6b6aAQ3vCWMqRwDSQMhGQF4IJtys0xV8ojTkgXaIfFrvz3IcSUg/FZxmYX1XtEHhVdp+qGqXn6BJRrQTELhW8PzSB6SqwhwRgm4X0TycC8KtqwWrNGFhddRNzuE8JNPjepTbXBP3v0ngSLF0JFGmZ3WmCMVlbYBc+v/nAQhYqfb1W+TjdnwiY761mmNrAC8usWpMEWEnXbP6q6w7+WTWEgmUvOBJ0ZOKXdWaT7k8YmAj4TYO1W7is53w6hgBpc8V2kfSkRmmYqjHGUGD9bQYVpzq0ru+FWa3jjnqy4QOBxMOmtRMydbHdMwSqthNgdsWADthLuNJiy0ZAH65v00ygesg2kQzPsgf4RqD43gM/cXIEtr9LwDvTcadhmmsP7tg3577OrWjpYls7gVQeJyybKzDbpJlAgddMJwLuYtklSaf2alsw2iHti8z5EA7ZYnkBlY3AsI53p6RL7P8zZgLp3Sj5Qej9FB4vTwTuCAyeL9e09BME/m3ogkAQ4BQEgkAQCAK/nkDMBUHg1xOg8rT+7ZG+5aey72tmxDd+c/mJAIosmip70c0Lbw1lsCk1K+8gaab0hAFZCm8EevOyn6bHTKMsvHdxrLW9vmo545C5H1eUC/KWoGqKbnVHnDvX+BK9BS1nrN969kwSGT7VJuvXjpHqW1opl/pAeW8Mnn7Q04KP1Xi00KeFAS0yW+UHxby5wvW5L4EQPUpjKLGbEdRKQwce5YS3E6ijxLOVfNZCD5WvOI9RaTiUc/f0+qveayvnbrtfJhAI/O/4AyybJD58fLPJAAAAAElFTkSuQmCC",
+    "signatures": [
+      {
+        "signature": "c077da8bb3e61ded0974861e29517adae0342728f04d9915cf6f3de63a6505e52755aab4d2489959e72379b3c6bc12867e19d9d6ffa0f43b5b28e596b290a304",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "9c4baf51f472bf5c8149f76771091cf5a7ec27f06688f1fe3197301c28d405c91097d0d59f70575e1aabe87fb35f2a3dfc9488ff75200d6048338549253f1c01",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
