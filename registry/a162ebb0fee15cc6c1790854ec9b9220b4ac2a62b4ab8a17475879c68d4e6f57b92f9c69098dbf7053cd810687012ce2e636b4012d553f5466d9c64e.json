@@ -1,0 +1,43 @@
+{
+  "subject": "a162ebb0fee15cc6c1790854ec9b9220b4ac2a62b4ab8a17475879c68d4e6f57b92f9c69098dbf7053cd810687012ce2e636b4012d553f5466d9c64e",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TestPresetTwo",
+    "signatures": [
+      {
+        "signature": "7bfaf3e7448346b707ead2c88995483165f6640737b91099c47edf9d595c89f8612cb123a96c6c08049785cbd216f8d05022803b006f5bc6473025b644a5000b",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "c5d3129520fdfe5cae07b1685cd24be8ce05e7dc79e1217bfbb55267899ac486530edee489b394990dfe4f25c0aa598a7055447eec08bff54e99713c5281e703",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TPTVV",
+    "signatures": [
+      {
+        "signature": "197644e9fefa8e10fa27ad0e4ba210a8eea3c0422bb27c394e7b1cda4f9a8bb12b8e8efc7c97a3d4ef1eb0ba095f32536278718c9628e49ad1551e2d732d0606",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "93bc05586ae5461e4851f61f69930a930217c3df849c74cd216e49e4e700df04f8d05ce7c57544c9f81c8ad895458d58bee5c85304be1f7d9036ce798bccb40a",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
