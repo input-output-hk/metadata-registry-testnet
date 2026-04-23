@@ -1,0 +1,53 @@
+{
+    "subject": "e59d21932a2b3f23b966d192fb054a1186794191719644584426fc1d4b41524d41",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://btckarma.io",
+        "signatures": [
+            {
+                "signature": "908439d18cd193985b372720127a7bf1fc30ed27c18280e1505a83fa1509c70115dccf87fabffd45209122b6fa4b7fea57651029061a678f2b2b2cd19b044506",
+                "publicKey": "153f24311eee7b020e8444c8071b72d5ab6ef97b308498b6b1436f103a0262de"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "KARMA",
+        "signatures": [
+            {
+                "signature": "364eaaf1c2e644107be4e6f3b08e2b845da362a1a9a57ad854d944b5a461394092bc96cc682c30fd779c6f3aa1635de24affa639b16978f26f490c73ff98ec09",
+                "publicKey": "153f24311eee7b020e8444c8071b72d5ab6ef97b308498b6b1436f103a0262de"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "KARMA",
+        "signatures": [
+            {
+                "signature": "da44c7e9b4e4680094ee9fbc1220d153e95e6524eefee2667c07f39b087f2e00440ebc72ed4791c1d17172a60be39902ca8e74be89a481846d75f384567e7608",
+                "publicKey": "153f24311eee7b020e8444c8071b72d5ab6ef97b308498b6b1436f103a0262de"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "0680472d1446cf943ba90af9ca6440a095111a32defa6844b05a0db782e5137dfc309daa69affa40cd3548478b0217cee8ecb6b232bdd172a8fda4c6476a3005",
+                "publicKey": "153f24311eee7b020e8444c8071b72d5ab6ef97b308498b6b1436f103a0262de"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Bitcoin Staking reward token",
+        "signatures": [
+            {
+                "signature": "07efa55cac8d4edef8ae7a40dac0bc030d9ef8ab53310e28a3bbc680e1bc313c419a0106b40e6d03ef5f099c5bafba9cba59241d45c4961165253ee65edfd104",
+                "publicKey": "153f24311eee7b020e8444c8071b72d5ab6ef97b308498b6b1436f103a0262de"
+            }
+        ]
+    }
+}
