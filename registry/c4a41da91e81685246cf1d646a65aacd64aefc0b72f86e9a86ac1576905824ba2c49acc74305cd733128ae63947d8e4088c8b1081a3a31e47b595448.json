@@ -1,0 +1,63 @@
+{
+  "subject": "c4a41da91e81685246cf1d646a65aacd64aefc0b72f86e9a86ac1576905824ba2c49acc74305cd733128ae63947d8e4088c8b1081a3a31e47b595448",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "FastVault",
+    "signatures": [
+      {
+        "signature": "af6efd2d3b27d6a1ce0da99836728e697a8aaac66dee91dc1c9e676bead4fba0e75e128ecda9a696f0fdea9b01f723a01f988c3455fc92395eb66f740aaefe0a",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "dcc6cfe90a50088f5fb4cc3168caecc6675d50628bad38e2505c9305d52dee35d8ef0ecfb7a697a552aba78bbf39beec1642a2c35759a089b4205f55368e360d",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "FSVT",
+    "signatures": [
+      {
+        "signature": "3a9883bff46da26477cc44b08fb0c5564d0da2b9c9543c9489f1426e11ee5f20a3128bd9408d46a21d1664ed4073f271129f2a134ccedc0658d9522e422ae004",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "url": {
+    "sequenceNumber": 0,
+    "value": "https://app.l4va.org/vaults/460c27e0-068a-4d95-8c72-73684a724007",
+    "signatures": [
+      {
+        "signature": "1737e0790ecaad880092a3164dce1a1b18308dba7a2764fe4d2d03a35aa0aeb7951069f618d4510b63f336a11a77589b9db83be6029b3549995290d152845008",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "logo": {
+    "sequenceNumber": 0,
+    "value": "iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAP1BMVEX////n5+f8//+VlZXv7+/z8/Po6Oj+/v729vbq6ur5+/ivr6/Dw8NHR0dra2vb29swMDD52s7YODLwtbvkg4JcMsq7AAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmElEQVR42u2b2W7DIBBFMQMeGBY7y/9/a2nTbI1SuUnKtPI9kl+wjI9Yh5FtDAAAAAAAAGD1jMqgBwAAAAAAAAAA6MPKmKCM8d67z0uF1gfmcGmPAQhAYL0CAADQE2utKAt0WXFZHMvHIv+l3IhwjxYYSimZcz4IRDp68Ljf+R4tUImn6mqdONMUaE4SU37f73bb7aaHAJXkeGwCqdI8NoFYqElZ2W33XQRMqjMZIiM5lTwVTiVRsSyycWw7vD8HjrM0gVpPAjm3sSncZxZQzVSEylQpzXmY09BaoPac7onIG6E8Ukqx9QNPRE412FMK+dQFjgprFvi3e7b9Wbmxj9R3wj2Pv6k0LH/4NkXj7+RS7pf7eK0Qolvw3DFF83wXtDgnXi50YZSL1NfH/e+SVK8hniviqBH3ybkJvFOZPPHUAD6sTOAwjDie5zUE1i5gXbAQWJfAcQNQG4QQgAAE/pyA+kIEASWBi6DUBY3DOGsLOL5yYcWDUTsa+e4Cbrx6o3fS+QcHuUkPDIt5YVj22JcpvyQAwHLeAMqXJJmxMDlMAAAAAElFTkSuQmCC",
+    "signatures": [
+      {
+        "signature": "4492e53883ef7364c5ef3d8405497d17408cb7b532e463a9344ca5a7487b9f374aea3ca1fc818d0f2a5a1bf41c52c9208344e860e19ca8a2b2d6c749dcfa6a0f",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "6a610dddf304dc73b5e03c0f165ea2b429ed7549373c3e0e34caee50196883b91fbafcd03567a8e93bebae5b714c7f4baf98ed2c54688a68d53bc48b17527c0c",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
