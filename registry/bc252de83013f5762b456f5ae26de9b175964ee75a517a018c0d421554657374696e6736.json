@@ -12,12 +12,12 @@
     ]
   },
   "description": {
-    "value": "Metadata test",
-    "sequenceNumber": 0,
+    "value": "Metadata test updated",
+    "sequenceNumber": 1,
     "signatures": [
       {
         "publicKey": "a6c3b5ee8b3e77d4030c650e7e9f72f27b93f1f8a77a17e7fc656512d9b614c1",
-        "signature": "5dbbbb534dd54bcf5ecaee9231b309df1b2acd6f7117b25afbc19710576ee34400ee95567f8bcf72461d85cca96780319ce5199817ecd66517221eb5442b760f"
+        "signature": "1ae942edd3e3050feb31ffd98d2a18706be031cf021c3eeb9e47aaaad167a268692c50bae09fca81e065b9e90bf05566ba4f933f5f415d6d2d81698e30bde808"
       }
     ]
   },
@@ -42,12 +42,12 @@
     ]
   },
   "decimals": {
-    "value": 3,
-    "sequenceNumber": 0,
+    "value": 5,
+    "sequenceNumber": 1,
     "signatures": [
       {
         "publicKey": "a6c3b5ee8b3e77d4030c650e7e9f72f27b93f1f8a77a17e7fc656512d9b614c1",
-        "signature": "ea4dcf56b40ccc61f719cd5eb8df245517be8792e68c0964215ff5e37e7f1d1ce3818c58ee547aba186ccd70b9bb38e6b59d6ee2a9cc9419b6223820c4e05202"
+        "signature": "4fcb1c35ad6e9ec1e0fe9e188b58cbc657f0cc2f51fa1135ed39d0e9d91273ddeda594e33fd730e6b4a8281eb88125760464f5a173b04f81ca7d6eaf66148d03"
       }
     ]
   }
