@@ -1,0 +1,63 @@
+{
+  "subject": "8acd6ca212f150d23e805e2c2c43369d93eff7370ebd010d3c150ba764d270ea12a0db8775f62c539d51762f494e897da649a6f005244932ab86b86c",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "MapVault",
+    "signatures": [
+      {
+        "signature": "62ce6f9b18000d69d769609e2afa9cb66296632b02fd075e3fcebf2c715f18cbbb3b2222b1f3e08f14223f43b03bbfd370331a892670826d07dbb84c67edbc03",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "b7a7555c0a07a8215f2511945e663842ed324d6823a898adeea724349c62474699e2f537f18202b5b4843ac8851fcfbfae5427cd7389bd4a1f38c9c682401305",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "MVP",
+    "signatures": [
+      {
+        "signature": "9a17ddc6fcb2b55e44527feb4d81bf91b1c380a15aa1d7c904cfde0f3e573b13cf9723e733f5e59cceeeae9017224f99b615b62e681358bd413fdfbfc3d6de02",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "url": {
+    "sequenceNumber": 0,
+    "value": "https://app.l4va.org/vaults/db48d982-f553-43c9-bea0-094790f3deac",
+    "signatures": [
+      {
+        "signature": "17b0361e487e256ec614c7e8819d196c7059966cf97769508113ba39746c2ef1be9b8adc0759b5cf70f9cc6f56e343cdf9ca0ae4bb4314d8f9c4f1c6a760920a",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "logo": {
+    "sequenceNumber": 0,
+    "value": "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",
+    "signatures": [
+      {
+        "signature": "e830b6bba5c69caa37017583ceda0cac87a5ca2012cfcca8707896652507a48e2954dadf34e10c1be7d2e9f00a3f31fc7ac2222b995dd511047e81504d813107",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "aefdfa6eb4352cd741f8975f783e167af4410e446491d7fe6ba1a9d68b447e713d25747efb430512cf99126bad47bca31811e8e055497633841b603e2a9d7c0d",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
