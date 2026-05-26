@@ -1,0 +1,63 @@
+{
+  "subject": "05e32b9179e60fc53bd48a7d368cd1b87fc9a4def292781052d7c9c778e85e7a9c17692f53d868d2eb4dfbf8a0552d9821f8cd4fdd573e38f2637115",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "dsadsa",
+    "signatures": [
+      {
+        "signature": "3de915970a58d89d65e80871abffb14c8308dc6189e37375c545d1d7dd4d5c0d2ff6eb821fbae1f169902c401b3b8124d39c62cf22d1b05875447797e4ef4503",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "1be00fe5477ef3cfe674a84f8b920be54123d545a3142c0a5f70a1b3cd925c86f8b4f5c2de3d33b102c31e0bd351834442b064c3b192311af31b57fa15f4c50d",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "DSADSAD",
+    "signatures": [
+      {
+        "signature": "5d5aa8b33ea00af6a4e4f8a1313f787daaf0cabcfd9235bf7f7b5dc0c08609969f1e903367d85b3b6797e7718825f157e4628d8d53dba72bf98493e5afe49000",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "url": {
+    "sequenceNumber": 0,
+    "value": "https://app.l4va.org/vaults/23c1b6cc-6087-4161-b5bc-7c9370308b5b",
+    "signatures": [
+      {
+        "signature": "c6172db1e0d3435022494c4660926b133ed59ebb3a3ec0a3c94618c3dfe39f7491952dc3f5c9c8356714d6e0e67c869b13d96a8ea9728e8769e85402e19fc60d",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "logo": {
+    "sequenceNumber": 0,
+    "value": "iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAHlBMVEX////n5+f4+Pjz8/Pt7e39/f3e3t7U1NTJycm7u7sywqPqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAADq0lEQVR42u1Zi7KjMAhNgDz8/x9eDsRXbO9st7azM5ejpr4ajwQIYEqBQCAQCAQCgUAgEAgEAoFAIBAIBAKBQCAQCAQGyku4/fH5RdDtBIQm8LLhei3z3QRqZpbTwq0D2rYsE5RAuZ2AdXxicHzitNS7JVCyzGq2C7zQBfdLIJNq9oXC0Pij9hezlw8oIR7Gf6H+VehzBNQUeEW2kQdyFqZtEb+TP0OAkktZm7Ysrfa+LF3bRvu4fJCA2aLC1ExqNYmreWDbJfMFAs5i2B9PLqDeTsA9O+yq5NqX1pp5H3NC69HS87DFIgL9E7qTgAmcjECF4LVpDWvGTms5t8bDFhPfTgBqnns3AqJkjJI+D6+bCjTCPMKBgP60OlmnvsG/EhgqNwgAzAWS1rMwRB+izTqcwGXu4iW/qwPwxxVznw55U5FA8KoT1vEhDHACAiUsx7XndI4SfoglylMCGI2svga6b6aAQ3vCWMqRwDSQMhGQF4IJtys0xV8ojTkgXaIfFrvz3IcSUg/FZxmYX1XtEHhVdp+qGqXn6BJRrQTELhW8PzSB6SqwhwRgm4X0TycC8KtqwWrNGFhddRNzuE8JNPjepTbXBP3v0ngSLF0JFGmZ3WmCMVlbYBc+v/nAQhYqfb1W+TjdnwiY761mmNrAC8usWpMEWEnXbP6q6w7+WTWEgmUvOBJ0ZOKXdWaT7k8YmAj4TYO1W7is53w6hgBpc8V2kfSkRmmYqjHGUGD9bQYVpzq0ru+FWa3jjnqy4QOBxMOmtRMydbHdMwSqthNgdsWADthLuNJiy0ZAH65v00ygesg2kQzPsgf4RqD43gM/cXIEtr9LwDvTcadhmmsP7tg3577OrWjpYls7gVQeJyybKzDbpJlAgddMJwLuYtklSaf2alsw2iHti8z5EA7ZYnkBlY3AsI53p6RL7P8zZgLp3Sj5Qej9FB4vTwTuCAyeL9e09BME/m3ogkAQ4BQEgkAQCAK/nkDMBUHg1xOg8rT+7ZG+5aey72tmxDd+c/mJAIosmip70c0Lbw1lsCk1K+8gaab0hAFZCm8EevOyn6bHTKMsvHdxrLW9vmo545C5H1eUC/KWoGqKbnVHnDvX+BK9BS1nrN969kwSGT7VJuvXjpHqW1opl/pAeW8Mnn7Q04KP1Xi00KeFAS0yW+UHxby5wvW5L4EQPUpjKLGbEdRKQwce5YS3E6ijxLOVfNZCD5WvOI9RaTiUc/f0+qveayvnbrtfJhAI/O/4AyybJD58fLPJAAAAAElFTkSuQmCC",
+    "signatures": [
+      {
+        "signature": "afbf107398f7de0a938588bc489cf0c2fde21a1767caaaf987a61588d17db0b54e6f213bade667dc3b822aaadb8e4a46d1b6c38d8e71c896b3894b38fa51720a",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "68e6c1e9a5f0496ea06382c51d4a0320796273a0f847cf1395ab1e94a2e9352e6a8e993efae092a97a3c2a6e6130ba70d6a211ba9e283dc0772ea14efee6c206",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
