@@ -1,0 +1,43 @@
+{
+    "subject": "d2dbff622e509dda256fedbd31ef6e9fd98ed49ad91d5c0e07f68af14e49474854",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "NIGHT",
+        "signatures": [
+            {
+                "signature": "595a5eb8b389ab3c12beece4ce5c0b848a9af7c4dd731afa61b33160462960838820a4ea2de9cfc75c6126cf681076c1cca4c49bc37692b41f276244338eab07",
+                "publicKey": "2ab0873080dcc7e95613324c6a8d3337788953e71fcc4bdb5061ccb2d575f88a"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "NIGHT",
+        "signatures": [
+            {
+                "signature": "4fa9cea08ee1b4e5c928a17f760c716713c0052467b855f6ceb997ecca085038fa6c5f3ed3d409df8ba39b57e071dbb524f6e70d5cb1fcc99b8511f64d259f0a",
+                "publicKey": "2ab0873080dcc7e95613324c6a8d3337788953e71fcc4bdb5061ccb2d575f88a"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "2b8a19c38a8a69fbdad10318eb8776e98cf43b45e5f28768f568d4ca4e62f93433e51cc83d2f5f01289d7fb32b824f3b65a7ebc709a3b59ba76b6f379012620e",
+                "publicKey": "2ab0873080dcc7e95613324c6a8d3337788953e71fcc4bdb5061ccb2d575f88a"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Preprod testnet NIGHT, minted via the official mint-tcnight policy. Not the real Midnight NIGHT token.",
+        "signatures": [
+            {
+                "signature": "be828f03900bbe24ff52ec60625aab991a57c603731ff4e624d2764ee1130b769f92f6b0a8cb5a917c8824ebef5768524cba1f3d0b1621f901a35c4d635b1a02",
+                "publicKey": "2ab0873080dcc7e95613324c6a8d3337788953e71fcc4bdb5061ccb2d575f88a"
+            }
+        ]
+    }
+}
