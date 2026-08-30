@@ -1,0 +1,63 @@
+{
+  "subject": "bb4d109999947f6c61493bccf1bf9945fb09aaedd0d4bfee238bd0d8d6342d26af4d6e04e421a60153dec1321dd94eaedbf2da1fc4b3183e1414d5d9",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "AcquireOnlyVault",
+    "signatures": [
+      {
+        "signature": "0a6f8f373c540f5ae3b8ba526cc04702c4f1d6dab8bc753f0e4ae126b4ae5f9e7d3d4a01346f3f40c8d4539330e8ac3bd79232e1502bccc9e054a6faf702830e",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "AURANCHIK",
+    "signatures": [
+      {
+        "signature": "e03f7a3f06eca852a27148973c365b1677da0f85765ee8681bbffc4cddc5a34b90a41e8449759eefb7b996d029ad9580397920735c327da8daeb30251eb24f05",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TOCkA",
+    "signatures": [
+      {
+        "signature": "44992edd3cfe2e30335538d879db5138c91c0d6c039c6a6ced65c279076d588bc0444fde9f43122e0cf366b55126c3b0e8105931d9db76d0bcbc39cc47b56805",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "url": {
+    "sequenceNumber": 0,
+    "value": "https://app.l4va.org/vaults/bb67c270-51cb-4bdf-8cba-c3db93a4dee6",
+    "signatures": [
+      {
+        "signature": "e1c26de7b1b0479d51cf03d2af223bf20662ff305910d8b5efc43d4007d0c997e6d1f1605e11f14d0d032ed989ddcbb892a92aa23bfc3098261ad3aca47cc603",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "logo": {
+    "sequenceNumber": 0,
+    "value": "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",
+    "signatures": [
+      {
+        "signature": "e194fecf0d09dee21ffcb4364dffeeefc8ed1b6f7d9579b99b03e9bf1e01e9a60790acb9f90bbc6ef7cb9718df3ad61c461e60e692445c97962bf045c3d4ee0d",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "d7171e17a425a6a5697ac36f37d213bc59266c125daae495c5d522fa95867a7568f570b18820e7eb64dd5119fce0f6ac7984f59fccb21a97e197bbec77cf160b",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
