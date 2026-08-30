@@ -1,0 +1,63 @@
+{
+  "subject": "77b6d3bd9860bc43b312897a5ed3e49ea64a6a1c7c2e6be02069647b009d4afc6c6c70197b1e6c030f18a9cb6edc7cbdb7a582a5cdd718c725fd59ef",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Cars",
+    "signatures": [
+      {
+        "signature": "773fdc024be9f832c3471840cc09e0bf90e290f49ea87d75eecae877317df07981f37c8858875e82927d3fe5652bf310cc76b473f0edc640397bffcdb72ad104",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "dasdadas",
+    "signatures": [
+      {
+        "signature": "ce11ac0859f8138b5cd4e5cbbbd06a3317c3c3c22bd007b7d442c9aa0fcc9a226bb6c446eb604439279fde5f07e7f82a215ee6109b12c1e114d24797abf9f70b",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "vCARS",
+    "signatures": [
+      {
+        "signature": "563f8e8d6d0aa2fecb8933abf1809f54fbec8603de099ceb3e5ebfa8fbdbd43f27218d03bd8911d8c26606009cf4f49431e852a630c6bf71c6436af20bad7305",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "url": {
+    "sequenceNumber": 0,
+    "value": "https://app.l4va.org/vaults/1d6422d0-3a08-4ff0-8b98-24664c3d7b38",
+    "signatures": [
+      {
+        "signature": "1ce029ab22075bc25e41cd56fb2cbf691fcf083975926715a9db7c925f61e88b5bb3493d141ba4cdd894961114523dce1164f5d7c8ca865c9da200fac46cd405",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "logo": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "1f7d557ccdc383d61485d9fff672245801b0e85fc7a54c0f22625977f4b8ff8d19635af00077be592c36330eb37812328c7a7ea2143b4305edf85e2a589f5307",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "c905cd40614f30ccc54ae5b2b5ccc5491b73c242cd6dfa986c624231b256d19a9c70ac0a38e363bbb5ab6887a2b22c8641017ad797a4c0da64a1c53c12f6c103",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
