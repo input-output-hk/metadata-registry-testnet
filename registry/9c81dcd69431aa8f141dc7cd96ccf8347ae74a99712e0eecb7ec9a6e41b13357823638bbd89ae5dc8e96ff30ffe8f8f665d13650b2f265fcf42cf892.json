@@ -1,0 +1,63 @@
+{
+  "subject": "9c81dcd69431aa8f141dc7cd96ccf8347ae74a99712e0eecb7ec9a6e41b13357823638bbd89ae5dc8e96ff30ffe8f8f665d13650b2f265fcf42cf892",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Maria Magdalena",
+    "signatures": [
+      {
+        "signature": "af4da954b949c31e243418ec61cebd837825421593e385f14d88103a8e03c8e17bcd78c0da759bce7a6790ca45cc27cb1235b5d246c0c1aec702073fd42b3007",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "3676d397c160f03ab560027fbf2937574c0ba898b1b6eba45dc9de77a67e0fc6363e78bb1477773b92b4fd622a5c6b5d817802a585e06eb98596606ce39bb104",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "MARIA",
+    "signatures": [
+      {
+        "signature": "a187cc7f6fed023422becd2a8f33557b8abf08fac76896baca805929e8175ae0fc5d2e0428e5eacd37330a168337e1edd35fcd0e8718d2c96f09d0a8c8eb0307",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "url": {
+    "sequenceNumber": 0,
+    "value": "https://app.l4va.org/vaults/2923f240-e74f-47cc-8857-35d1e9aa6c47",
+    "signatures": [
+      {
+        "signature": "64836eebd48a9b5de215495f1c36fc696f53626e4a379a9826ee7f23da4db25724d46d78a5e8f29699fb035808224799f95697449d2abd770c207af5743c4c0b",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "logo": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "3676d397c160f03ab560027fbf2937574c0ba898b1b6eba45dc9de77a67e0fc6363e78bb1477773b92b4fd622a5c6b5d817802a585e06eb98596606ce39bb104",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "42af5d868348635ee4e220279ad2a363134529d66f02dccd32e15fcff72bdad8597fd4b3a2f10a567013e45a55bfc6fd64e29d699bc0ab0567f57708f0dae601",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
