@@ -1,0 +1,63 @@
+{
+  "subject": "93ceefef64a536da6069446ed77c2e331ecc2445e195ae4a0b68326f1a34737272376ccb62fa0f1752fbf675b9cb507f02dc6757a383d9a47a4f4666",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Stone Isalnd ",
+    "signatures": [
+      {
+        "signature": "1cb9b2a1136233f859169432fef79f0b830780e3c257ad7323dad08ed520db94c7e40b8b43048ade300871be9013dbfc63a2c529640e858d4919aacbf8a4b801",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "30d2e524fcf4ec2975738f996bc98581c0870bca10866687e2ee8ec6cc867ebc2643b301a087edddb9e2cb6fd830198b4b5ce866df9a800040b632fa5945ed0f",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "123",
+    "signatures": [
+      {
+        "signature": "f6029dd2ae7f680a41187e73791919729b9a2cc86d5c0ca56c35d9b431f62c3f22d7eef957ee2346651776bd067f8b6148decfbd6d93073e51f14cf491dc9a0c",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "url": {
+    "sequenceNumber": 0,
+    "value": "https://app.l4va.org/vaults/ad6e05be-ff48-4a4d-b7e4-5c686d0e1b3f",
+    "signatures": [
+      {
+        "signature": "e206235ecfc90a00e2bf81aeb0b3619866406d12ccfbf3b7b1377598d7f5ee3f02611e67f68440be92b1bcf9ba140ac10abe1adc2ad6ad5dc3dddd498e8c490e",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "logo": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "30d2e524fcf4ec2975738f996bc98581c0870bca10866687e2ee8ec6cc867ebc2643b301a087edddb9e2cb6fd830198b4b5ce866df9a800040b632fa5945ed0f",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "970295748cff7233c4788c6841987c657510864d4fc69f6b333e330a9cfc0ec883a490dbc3018e77f3962fb9b342cf375af6eaf26e2d7b42a5806c75e7a0c405",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
