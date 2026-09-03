@@ -1,0 +1,53 @@
+{
+  "subject": "0e470d30a180a5c8741ea348f0960a57d04c6d180ec92cd719ab8078f77fabfb767ffb8fb7a03614c8097b74a2ae328c95b2aadf500b64dc61fe8df2",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "custom berry 2",
+    "signatures": [
+      {
+        "signature": "f9e6227db899edf929039284c1d0edd13dad3ad9af844129dad6b1d6a2ed273bf6117c9c80f8a3281ce19010cf1950a53af4b078d36ede766cfa638f919c6701",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "abbe23dcb830a4f9d9f5746537e29a1a982d023ae7faa2eb543dcb6369d49a34f1a78ad3e8feada1ebd3fa64490f090d370cfd1d8986ae72d0269500d8fdb100",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "FSDLKS",
+    "signatures": [
+      {
+        "signature": "2d9698b1974b22c6c541403ad7d2c431f394325aac321a8593368324b6259007f265dc5788e089f62fae1496f8531eee9db0055364c08ca6bd601ba52a3cd20e",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "url": {
+    "sequenceNumber": 0,
+    "value": "https://app.l4va.org/vaults/4b04530c-33b7-49c0-9f7f-ae1828e824d0",
+    "signatures": [
+      {
+        "signature": "8f5930b112f3d2ce1b86e996c3258cbedda94a30a8319353b6b8f3f45ca9889230c5e05299cb8cd49dc23c5c25b6b5d0aeb37654bb6ccbc2bc4759164e7ff20f",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 8,
+    "signatures": [
+      {
+        "signature": "9eda1c1966739e0348eae822e32474e92f16ccc8e0b5d9ae5ed302c8447b770dff20489e14cf83a3d785dee09a843cfea9bea263949b1d59f92cffa377567902",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
