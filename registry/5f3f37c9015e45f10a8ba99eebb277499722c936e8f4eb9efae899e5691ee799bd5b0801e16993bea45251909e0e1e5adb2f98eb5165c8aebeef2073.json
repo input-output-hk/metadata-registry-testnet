@@ -1,0 +1,53 @@
+{
+  "subject": "5f3f37c9015e45f10a8ba99eebb277499722c936e8f4eb9efae899e5691ee799bd5b0801e16993bea45251909e0e1e5adb2f98eb5165c8aebeef2073",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "MEGAVLT",
+    "signatures": [
+      {
+        "signature": "658f66c5da3665e195bb2d2edf5747a32bd841433beb6f46c5a84b40053e5594429641c9eb18971a63deb33d9f6bef833d8b6ce0e24c2360de528690062f6802",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "8a2641919d76494ccaadad79badb096c3a8545677c19b89ce55c15e3e4c2c2fa6fef59070b977d8fa5e811b311c935583641fdbab19f5c2580239504fe4d9d06",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TOKACAA",
+    "signatures": [
+      {
+        "signature": "c5845bb2c03840a6c2e35b956999e259f2ee0d809ccb2139b4aed62945630ceab101a2e8549223882bd0a340aca41fd3676a19fea958d804d85d9c1c43cb4f07",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "url": {
+    "sequenceNumber": 0,
+    "value": "https://app.l4va.org/vaults/e14b01b8-9ad3-4d54-8551-8a8f26fcd766",
+    "signatures": [
+      {
+        "signature": "8cc37ca9784b1be04773d43b08caafd4a7548693e98e752451274c5bab3a7c16d7d5769b40cef632a039aacff5065137055d4f02a7385e4dfbd24de73d148203",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "5f5fefb4baa747eaf1ca3d8c0f093236bea5b1f815a0ff669c4e4c7b4019c24454f51c271235a6d13904dacf3e16c23914cae689e6f3668b59433387a717c908",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
