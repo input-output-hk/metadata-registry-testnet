@@ -1,0 +1,63 @@
+{
+  "subject": "a33f02e307190138bb87ac063304e7e0cbed63b3c32cf39f5847c37653a9e9baae525a417da52865aad0edba098ede585b959821060c1bb1c4e1a909",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Berry test 4",
+    "signatures": [
+      {
+        "signature": "337b75f671552abdca94e3e8480074a344ca90d914905ff44fffc8de778cca48bdbcfecc9ca8410980d436947a787350fcdb35eeec2f6111a0e51551d49e3d03",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "57d8475ef32850018ad7a3a3997483725db631ff91b472d7451ecc648f9de1ac0544cc05e3baaca3607271aa2439a82b3a601867c379fcbbefa82d3b67396400",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "BERRY4",
+    "signatures": [
+      {
+        "signature": "b9040a4777eab5f5f15db93fcf59f14488bb42e2aaf635da8409f466feab4927269659c11e37a5385f25ca80bf37bf6fc15df3eac7b2826b2dab9b60e7526606",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "url": {
+    "sequenceNumber": 0,
+    "value": "https://app.l4va.org/vaults/2d53a894-a7a9-4314-82d9-c8803a7ddcb2",
+    "signatures": [
+      {
+        "signature": "a1d34d7e2bde4c1153d527981e9617931e2bb515bb06b2b39876dcc8ec2c95c4ae4f3c732af02d28a242013261be992b02b3daa1e3e690b95ffc691b2905a605",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "logo": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "57d8475ef32850018ad7a3a3997483725db631ff91b472d7451ecc648f9de1ac0544cc05e3baaca3607271aa2439a82b3a601867c379fcbbefa82d3b67396400",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 8,
+    "signatures": [
+      {
+        "signature": "49e2bd7d00380bca094f18a106a870608e09c11237088bff3dc9cea93e16053aed6cf0d74065cce90e29b8efcde4e7ca376c81b84b0c9ba012b264c5dcc8e704",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
