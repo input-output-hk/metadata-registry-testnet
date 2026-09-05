@@ -1,0 +1,63 @@
+{
+  "subject": "80fb89d2c8c555050caa875fdad42e6858809f71d46fd6bbe9d597a65152a223659a16edf6feafe973e0744020d580ff365f6e2c31f6f25ccad7768c",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "FT4",
+    "signatures": [
+      {
+        "signature": "dedf6e393102966d467bd4c9289f1138e089b271cc84f69f74df52bcb5adbd9e7e86d15246bdb2cb804a89eb49bf19377c61d1f8019134307309ff0cb18b5a06",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "08a08123eeb2c0ac2a168eb1d3de1df038781124aafcf00d2324e0c1dd91c8af282fa8f8762c66645a6e5ba75677ec8b07f143a1df4ac56c29b5e66c8eee1b03",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "FT4",
+    "signatures": [
+      {
+        "signature": "dedf6e393102966d467bd4c9289f1138e089b271cc84f69f74df52bcb5adbd9e7e86d15246bdb2cb804a89eb49bf19377c61d1f8019134307309ff0cb18b5a06",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "url": {
+    "sequenceNumber": 0,
+    "value": "https://app.l4va.org/vaults/e5bc753c-db72-403e-9636-52cc153bab9d",
+    "signatures": [
+      {
+        "signature": "2af50d11a2bf418205c18a879b6d36bf1bba8ab69a8f7b512befab71a2da56a20af287ba34dea9d406bd896757580be70a16258040b2a3665ff82d3461581a07",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "logo": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "08a08123eeb2c0ac2a168eb1d3de1df038781124aafcf00d2324e0c1dd91c8af282fa8f8762c66645a6e5ba75677ec8b07f143a1df4ac56c29b5e66c8eee1b03",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 1,
+    "signatures": [
+      {
+        "signature": "3ee486730c2d88285a9e22bdcea4a3339f421f34a2a25f195f6b9d53384239273333dd268029ebe0fba60c95caccf8a08efba482f71184dd269f2552c083b906",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
