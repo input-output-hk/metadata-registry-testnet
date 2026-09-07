@@ -1,0 +1,63 @@
+{
+  "subject": "60e03033457b2e99f669424a10f7252a4974c03b17bca578f7c00a63c878cbbbdacfd45698f0fe2203765cdf62e47f864df22889ea10d6d0480b7f82",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "VaultBillionaire",
+    "signatures": [
+      {
+        "signature": "830292768f289b6a5b3338c5c0b2f4a575dadf24f1800074b448b3045f1feb94c0a53e3c96d6caceb98ccd891493d2dc5c5c6810bcfa84fe48a9e21001374505",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "ef70b3c701e307be6dcabf1e2a211ba7adf5cf521e885337b7a074e6f6936888fbbaf36ff3733f26c99d09f878b54c345bc744f96c885b9b0b5e8f879bb93002",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "VBMRKT",
+    "signatures": [
+      {
+        "signature": "21d4a2c73139bb606084cb6b923987f003b3f1de300c11e6c2aa6f68bafeb7bc41663f1ae917cb82b458849f0a1cab88effff7ab2a5071d0bbbb59168bdd0e02",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "url": {
+    "sequenceNumber": 0,
+    "value": "https://app.l4va.org/vaults/c4e558f3-9906-458d-9e78-0bea77e26bc9",
+    "signatures": [
+      {
+        "signature": "0372a45e5d11b5ad9f3f7451d318d9da5afdbfdf2f733adf81cca4136a7f8a8588732daa89e592b34a894c3ccead2f380f24396067a1d2b3c5d405d40becf406",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "logo": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "ef70b3c701e307be6dcabf1e2a211ba7adf5cf521e885337b7a074e6f6936888fbbaf36ff3733f26c99d09f878b54c345bc744f96c885b9b0b5e8f879bb93002",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 12,
+    "signatures": [
+      {
+        "signature": "36223bdfad6926c3e43176c32546721e3e48a7b6ecf87027f829b6aeb3e33aba3988e078f22cdb0fe822002095623ce356e0e31f50daad583fc80f96e472370a",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
