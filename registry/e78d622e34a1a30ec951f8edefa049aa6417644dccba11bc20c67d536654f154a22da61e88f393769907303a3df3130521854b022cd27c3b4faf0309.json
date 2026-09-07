@@ -1,0 +1,63 @@
+{
+  "subject": "e78d622e34a1a30ec951f8edefa049aa6417644dccba11bc20c67d536654f154a22da61e88f393769907303a3df3130521854b022cd27c3b4faf0309",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "PsyVault",
+    "signatures": [
+      {
+        "signature": "8c30a0639542e0ce8af182191c8c9e424402531ec2453f29f332457f449a5116273712cf09b4309a9b297e1d0b25a4b9ca606481414d373f4ce9fe56ddc96b05",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "7abd45009acac0e8c4ed8bcde8d1ea26eeea081e7dfccbb97577710aeed0b08f318cf1841f80cfb08e3ae90b9519dd5ee5e703e1a9ab735799bb978e62ebb105",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "PSY",
+    "signatures": [
+      {
+        "signature": "396c45bb25a3c74125da0505507d71cf7ef84b4a46ac413049c002aec8bc0520d24a48b7c241195e957bb053c8a6f743e88b91a7fb4e53b33dba18b824349409",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "url": {
+    "sequenceNumber": 0,
+    "value": "https://app.l4va.org/vaults/b93ddd72-f125-43ce-9555-03b1d58420ee",
+    "signatures": [
+      {
+        "signature": "6619a1c2858dec28865c5ff67f7ac14b53abf101544bf1ef28a26ab739da9415a74a18064b45b8611dbabd044bf4c623f267dd7365804f3d9be5c29e5659f109",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "logo": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "7abd45009acac0e8c4ed8bcde8d1ea26eeea081e7dfccbb97577710aeed0b08f318cf1841f80cfb08e3ae90b9519dd5ee5e703e1a9ab735799bb978e62ebb105",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "8b4a3951bc745f64cab36b60633150b1acb1228166489a43af377e2e2d505b65012c85d0d6f4df31586c6f9801ad83818557fceebfb9506373a07257c3d19b04",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
