@@ -1,0 +1,44 @@
+{
+    "subject": "03266055cc0bf81ec7a8e23e93bf99cada1f402cfe4285a9dc96cbad455241",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Aetheris ERA Equity",
+        "signatures": [
+            {
+                "signature": "b12e3cad16a572f0622b3903a38cf4a735375242cf150ec276778b4b88ec8a9c1710aa8a316847ebea18b0b0622fd238c416f50c1f12ce3724eca292a250a701",
+                "publicKey": "7c4b4aa3a1fb1e360ca604e770562c490327c098e9b0ff639ae3fc8ccb3f4799"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "ERA",
+        "signatures": [
+            {
+                "signature": "c6517470b62a7961f0ff6af38d8db2fdb445268dbbc686b5933cde29ab38e5a6803f2f315857d6094224685c976570f2055992c9bc7828e9c03f441997d3820b",
+                "publicKey": "7c4b4aa3a1fb1e360ca604e770562c490327c098e9b0ff639ae3fc8ccb3f4799"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "f4902c73d55dda3e21d8570cf787d335d6029d1b47067144d4a014b2bf5be2989505be30cd6efc699d9091e0aba6dbad8504a301c188c223b7245a7636ddbe09",
+                "publicKey": "7c4b4aa3a1fb1e360ca604e770562c490327c098e9b0ff639ae3fc8ccb3f4799"
+            }
+        ]
+    },
+    "policy": "82008200581c2ddba84ee32e70af9f06f10bdb1e4ea8daa691f119f2a842c7ffc4e6",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Preview test token for the Aetheris Grid research prototype. No mainnet or monetary value.",
+        "signatures": [
+            {
+                "signature": "8d302d7ee9572b80479b9d4840f315ca3f3b05b11b55150f27cec592aec3854f27d24877e51d1b1c89db20edd3d68fd0eac80f5c74433b1cc6fa95bceda83703",
+                "publicKey": "7c4b4aa3a1fb1e360ca604e770562c490327c098e9b0ff639ae3fc8ccb3f4799"
+            }
+        ]
+    }
+}
