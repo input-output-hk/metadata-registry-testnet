@@ -1,13 +1,13 @@
 {
   "subject": "0684f582b8abeb4236b20688744eca788a61cd9881422a7113637f6b55534472",
   "name": {
-    "sequenceNumber": 0,
-    "value": "USDR",
+    "sequenceNumber": 1,
+    "value": "USDrf",
     "signatures": []
   },
   "ticker": {
-    "sequenceNumber": 1,
-    "value": "USDr",
+    "sequenceNumber": 2,
+    "value": "USDRF",
     "signatures": []
   },
   "decimals": {
