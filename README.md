@@ -6,7 +6,7 @@ This repository provides a means to register off-chain token metadata that can m
 
 A [server](#server) exposes the functionality of a key-value store, allowing users and applications to query registry entries through a RESTful API.
 
-While this registry is limited in scope to handle native tokens only, it will also serve to facilitate a discussion and introduce a standard for a metadata distribution system that is currently put forward as a [draft CIP](https://github.com/michaelpj/CIPs/blob/cip-metadata-server/cip-metadata-server.md).
+While this registry is limited in scope to handle native tokens only, it will also serve to facilitate a discussion and introduce a standard for a metadata distribution system, standardised as [CIP-26](https://github.com/cardano-foundation/CIPs/tree/master/CIP-0026).
 
 ## Process
 
@@ -52,7 +52,9 @@ For a comprehensive description of all fields and how to generate them, please s
 
 ##  Server
 
-Users and applications can query this registry through an API at `https://metadata.world.dev.cardano.org/metadata`.
+Users and applications can query this registry through an API at `https://preprod.tokens.cardano.org/metadata`.
+
+Despite the hostname, this endpoint serves entries for every testnet in this registry, preview included; there is no separate preview host.
 
 The API documentation and source code for the server implementation is available with the [offchain-metadata-tools](https://github.com/input-output-hk/offchain-metadata-tools).        
             
@@ -60,3 +62,7 @@ The API documentation and source code for the server implementation is available
 ## Step-by-Step Guide
 
 See [Wiki](https://github.com/cardano-foundation/cardano-token-registry/wiki).
+
+## License
+
+The tooling and documentation in this repository are (c) 2026 Input Output Global, Inc. and licensed under Apache 2.0 (see [LICENSE](LICENSE)). Off-chain metadata entries under [registry/](registry) are third-party submissions provided as-is; contributors retain any rights in their submitted content.
